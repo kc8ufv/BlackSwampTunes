@@ -1,0 +1,53 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(40,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,90
+
+"Leaving Ardtornish",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Slow Air",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"P.M. Willie Ross",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Black Swamp Pipes & Drums",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 6_8 
+I!'' dbc C_4	B_8	gg	LA_4	eg	D_8 
+!	gg	E_4	F_8	dbha	HA_4	F_8
+!	gg	E_4	F_8	dbha	HA_4	F_8
+! dbe	E_4	LA_8	dbc	C_8	eg	B_4 !t
+
+& sharpf sharpc 
+	dbc	C_4	B_8	gg	LA_4	dg	C_8
+!	gg	E_4	F_8	dbha	HA_4	E_8
+!	gg	F_4	HA_8	E_4	C_8
+!	gg	B_4	grp	C_8	dbb	B_8	strlg	LA_4 ''!I
+
+& sharpf sharpc 
+I!''	gg	E_4	F_8	dbha	HA_4	E_8
+!	dbf	F_4	E_8	dbha	HA_4 'ha
+!	LA_4	grp	C_8	gg	E_4	F_8
+!	dbe	E_4	LA_8	dbc	C_8	eg	B_4  !t
+
+& sharpf sharpc '1
+	gg	E_4	F_8	dbha	HA_4	E_8
+!	dbf	F_4	E_8	dbha	HA_4	'ha
+!	LA_4	grp	C_8	gg	E_4	C_8
+!	gg	B_4	grp	C_8	dbb	B_8	strlg	LA_4  _'  ''!I
+
+& sharpf sharpc '22
+	dbc	C_4	B_8	gg	LA_4	dg	C_8
+!	gg	E_4	F_8	dbha	HA_4	E_8
+!	gg	F_4	HA_8	E_4	C_8
+!	gg	B_4	grp	C_8	dbb	B_8	strlg	LA_4	 _'  !I

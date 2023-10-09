@@ -1,0 +1,124 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(40,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(80,100,88,80,200)
+
+TuneFormat,(1,1,F,L,500,250,500,250,P,1,0)
+
+TuneTempo,90
+
+"Our Patriotic March Medley",(T,C,0,0,Kelt,16,700,0,0,2,0,0,0)
+
+
+"March",(Y,L,0,0,Kelt,14,400,0,0,2,0,0,0)
+
+
+"Arr. by PM Matt Hart",(M,R,0,0,Kelt,14,400,0,0,2,0,0,0)
+
+
+"Black Swamp Pipes & Drums 2016",(F,C,0,0,Kelt,14,400,0,0,2,0,0,0)
+
+"ARMY - Caissons",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 4_4 
+I!''   	gg Er_8 Cl_8		
+!	dbe E_4 gg		Er_8 Cl_8		dbe E_4 gg	Er_8 Cl_8
+!	gg Er_8 'e Fl_16	gg Er_8 Cl_8	dbe E_4 		gg Cr_8 Dl_8
+!	gg E_8 D_4 eg B_8				gg E_8 D_4 eg B_8
+!	strlg  LA_2 		brl LA_4 ''!I
+
+
+
+
+"Marine's Hymn",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+& sharpf sharpc 4_4
+ 	gg LAr_8 dg Cl_8
+! 	gg E_4	 strla E_4		 gg E_4	strla E_4
+!	gg E_4 'e	HA_8	E_4	gg Cr_8 Dl_8
+!	gg E_4	 strla E_4		gg D_8 B_4 'b
+! 	strlg LA_2 'la 	gg LAr_8 dg Cl_8   !t
+
+& sharpf sharpc
+	gg E_4	 strla E_4		 gg E_4	strla E_4
+!	gg E_4 'e	HA_8	E_4	gg Cr_8 Dl_8
+!	gg E_4	 strla E_4		gg D_8 B_4 'b
+! 	strlg LA_2	brl LA_2	!t
+
+
+
+
+"NAVY - Anchor's Aweigh",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+& sharpf sharpc 4_4      
+	gg LG_2	dg B_4		thrd  D_4 	
+!	dbe E_4 'e 	B_8 		dbe E_2 		
+!	dbhg HG_2	dbha HA_4	D_4 
+!	dbhg HG_2	 fg HG_2 	!t
+
+& sharpf sharpc	
+	hdbe E_2	dbhg HG_4	hdbe E_4 
+!	thrd D_4	E_4		gg F_4		HG_4 
+!	tg Br_8  'b gg Dl_16	Cr_8 Dl_8	HAr_8 'ha Dl_16	Cr_8 Dl_8 
+!	dbhg HG_2	fg HG_2	!t
+
+
+
+"Air Force",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+& sharpf sharpc 4_4 
+	Cr_8 'c El_16 strla  E_2		gg Dr_8 Cr_8 Bl_8 ^3b
+! gg C_4 D_4 gg E_4 strla E_4
+! gg Fr_8 'f HGl_16 HA_2		Br_8 LAr_8 Fl_8 ^3b	
+! dbe E_2 strla E_2 !t
+
+& sharpf sharpc 
+ gg Cr_8 'c El_16 strla E_2		gg Dr_8 Cr_8 Bl_8 ^3b		
+! gg C_4 D_4 gg E_4 strla E_4		
+! HGr_8 'hg HAl_16 B_2		HAr_8 HGr_8 Fl_8 ^3ha
+! dbe E_2 strla E_2 !t
+
+
+
+
+"COAST GUARD - Semper Paratus - Always Ready",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+& sharpf sharpc 4_4 
+   	gg LAr_8 'la Bl_16	gg LAr_8 Bl_8		gg LAr_8 Bl_8	Cr_8 Dl_8
+!	dbe E_2 'e		strlg E_4
+!	gg F_4 'f			E_8				gg D_4			F_4
+!	dbe E_2 'e		C_4 !t
+
+& sharpf sharpc
+	thrd D_4 'd		C_8			gg B_4			E_4
+!	dbc C_4 'c 		B_8			gg LA_4			dg C_4
+!	gg B_4			E_4			strlg E_4			F_4
+!	dbe E_2 			strla E_4 !t
+
+
+
+
+"America the Beautiful",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+& sharpf sharpc  4_4 gg E_4    
+! strla E_4 'e  C_8  grp C_4 gg E_4
+! strla E_4 'e  	B_8     grp B_4 C_4
+! gg D_4        E_4     gg F_4  HA_4
+! tdbe 	E_2     strla E_4       gg E_4          !t
+
+& sharpf sharpc strla E_4 'e  C_8   grp C_4 gg E_4
+! strla E_4 'e B_8   grp B_4 	C_4   
+! gg D_4        E_4     gg F_4  B_4     
+! gg E_2 		strla E_4       LA_4    !t
+
+& sharpf sharpc gg F_4 'f eg F_8      dbe E_4 D_4     
+! gstd D_4 'd C_8      grp C_4 	D_4
+! gg E_4        C_4     eg B_4  strlg LA_4      
+! thrd D_2 'd	gg D_4  !t
+
+& sharpf sharpc gstd D_4 'd B_8      grp B_4 D_4
+!  gstd D_4 'd eg LA_8 brl LA_4	eg LA_4
+! gg B_4        D_4     eg LA_4 E_4
+! thrd D_2      gstc D_4	!t

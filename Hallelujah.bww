@@ -1,0 +1,55 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(40,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,55
+
+"Hallelujah",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Waltz",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Leonard Cohen/Lincoln Hilton",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Black Swamp Pipes & Drums 2020",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 6_8 gg C_4 E_8 gg F_4 'f 
+	I!'' eg ^ts F_4 'f F_4 'f ^te  
+	! gg F_4 E_8 gg C_4 'c 
+	! strlg ^ts C_4 'c C_4 'c ^te !t
+
+& sharpf sharpc gg C_4 E_8 gg F_4 'f 
+	! eg ^ts F_4 'f F_4 'f ^te  
+	! gg F_4 E_8 gg C_4 'c 
+	! strlg ^ts C_4 'c C_8 ^te Dr_8 Cl_8 !t
+
+& sharpf sharpc gg ^ts B_4 'b B_4 ^te strlg LA_8 
+	! gg ^ts LA_4 'la LA_4 'la ! LA_4 'la  LA_4	^te E_8 !t
+
+& sharpf sharpc gg E_4 strla E_8  gg E_4 strla E_8 
+	! Fr_8 gg Fr_8 eg ^ts Fl_8	F_4 ^te	C_4
+	! Er_8 gg Er_8 strla  ^ts El_8	 E_8 ^te 	gg 	 Er_8 strla El_8 	
+	! F_4	gg	F_8	eg 	Fr_8 Er_8 strla El_8 !t
+
+& sharpf sharpc gg F_8 eg F_4 Fr_8 eg Fr_8 gg Fl_8
+	! eg F_4 E_8 gg Er_8 Dr_8 ^ts El_8
+	! E_4 'e E_4  ^te LA_8 !t 
+
+& sharpf sharpc C_4 gg C_8 strlg C_4 gg C_8
+	! D_4 gg D_8 E_4 gg E_8 
+	! Fr_8 gg Fr_8 eg ^ts Fl_8 F_4 ^te	gg F_8
+	! HAr_8 gg HAr_8 ^ts Fl_8 F_4 ^te LA_8 !t
+
+& sharpf sharpc Br_8 gg Br_8 strlg ^ts Bl_8 	B_4 ^te gg ^ts B_8
+	! C_4 ^te gg C_4 gg Cr_8  Bl_8
+	! gg Br_8 LAr_8 gg ^ts LAl_8	LA_4 'la
+	! LA_4 'la ^te gg C_4 E_8 ''!I

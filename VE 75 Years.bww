@@ -1,0 +1,86 @@
+Bagpipe Reader:1.0MIDI
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+NoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+InstrumentMappings,(71,71,45,33,1000,60,70)
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,75,80,250)TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+TuneTempo,80"VE 75 Years",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)"March", (Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)"P/M Roger Bayes",
+(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)"City of Norwich Pipe Band",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+&
+sharpf sharpc 6_8
+I!'' E_8 !
+ gg LA_4 dg C_8 gg Br_16 dg LAr_8 'la dg
+Bl_8
+! dbe Er_8 'e Cr_16 Fl_8 dbe E_4
+'e
+! dbha HA_4 E_8 gg Fr_8 'f Er_16
+strla El_8
+! gg Br_16 Dr_8 'd Cl_8 dbb
+B_4 E_8
+!t& sharpf sharpc 
+ '22 gg LA_4 dg C_8 gg Br_16 dg LAr_8
+'la dg Bl_8
+! dbe Er_8 'e Cr_16 Fl_8
+dbe E_4 'e
+! dbha HAr_8 'ha Cr_16
+strlg Cl_8 gg Br_8 'b Fr_16 El_8
+! gg
+LA_4 'la brl LA_4 _' ''!I
+&
+sharpf sharpc 
+I!'' E_8
+! dbha HA_4 'ha hdbf F_4 'f 
+! gg Fr_8 'f HAr_16 El_8 gg F_4 'f
+! dbha HA_4 E_8 gg Fr_8 'f Er_16 strla
+El_8
+! gg Br_16 Dr_8 'd Cl_8 dbb B_4 E_8
+
+ 
+!t& sharpf sharpc
+'1
+ dbha HA_4 'ha hdbf F_4 'f
+
+! gg Fr_8 'f HAr_16 El_8 gg F_4
+'f
+! dbha HAr_8 'ha Cr_16 strlg Cl_8
+gg Br_8 'b Fr_16 El_8
+! gg LA_4 'la
+brl LA_4 
+ _' ''!I& sharpf sharpc 
+I!'' E_8 !
+ gg LA_4 F_8
+gg Er_16 Cr_8 'c Bl_8
+! gg LAr_8 'la
+Fr_16 El_8 dbc C_4 'c
+! dbha HA_4 E_8 gg
+Fr_8 'f Er_16 strla El_8
+! gg Br_16 Dr_8
+'d Cl_8 dbb B_4 E_8
+!t& sharpf sharpc 
+'24 gg LA_4 F_8 gg Er_16 Cr_8 'c
+Bl_8
+! gg LAr_8 'la Fr_16 El_8 dbc C_4
+'c
+! dbha HAr_8 'ha Cr_16 strlg Cl_8
+gg Br_8 'b Fr_16 El_8
+! gg LA_4 'la
+brl LA_4 _' ''!I& sharpf sharpc 
+I!'' E_8
+! HA_4 grp
+HA_8 dbha HA_4 'ha 
+! Fr_8 'f HAr_16
+El_8 gg F_4 'f
+! dbha HA_4 E_8 gg Fr_8
+'f Er_16 strla El_8
+! gg Dr_16 Fr_8
+'f El_8 dbb B_4 E_8 
+ 
+!t& sharpf sharpc
+'1
+ HA_4 grp HA_8 dbha HA_4 'ha 
+! Fr_8 'f HAr_16 El_8 gg F_4 'f
+! dbha HA_4 grp HA_8 Br_8 'b Fr_16 El_8
+! gg LA_4 'la brl LA_4 _'
+''!I

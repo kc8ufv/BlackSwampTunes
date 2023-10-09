@@ -1,0 +1,35 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,90
+
+"Sound of Silence",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Type",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Composer/Arranger",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Firsts - Lead",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 4_4 REST_4 gg Br_16 strla Bl_8 'b	 gg Dr_8 cg Dl_8	 gg Fr_8 eg Fl_8 
+! dbe ^ts E_1 
+! Er_8 ^te gg LAl_8	dg LAr_8 gg LAr_16 ^ts Cl_16	Cr_8 ^te strla Cl_8	gg Er_8 strla El_8	
+! thrd ^ts D_1 !t
+
+& sharpf sharpc D_4 ^te gg Dr_8 strc Dl_8	gg Fr_8 eg Fl_8	HAr_8 gg HAl_8
+! B_4 gg Br_8 dg ^ts LAl_8	LA_2 ^te  ^ts
+! LA_4 ^te gg  Dr_8 strc Dl_8	gg Fr_8 eg Fl_8	HAr_8 gg HAl_8
+! B_4 gg Br_8 dg ^ts LAl_8	^ts LA_2 ^te !t
+
+
