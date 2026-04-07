@@ -1,0 +1,110 @@
+Bagpipe Music Writer Gold:1.0
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(100,100,120,100,260)
+
+TuneFormat,(1,0,M,L,1000,500,1000,500,P,0,0)
+
+"God Bless America",(T,C,0,0,Papyrus,18,400,0,0,66,0,0,0)
+
+"March",(M,L,0,0,Times New Roman,10,400,255,0,18,0,0,0)
+
+"Irving Berlin arr E.Kohler-Camp",(M,R,0,0,Times New Roman,10,400,255,0,18,0,0,0)
+
+"",(F,C,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+"",(F,L,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+"Black Swamp Pipes & Drums 2026",(F,C,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+TuneTempo,82
+
+
+&	sharpf sharpc 4_4	thrd D_2 			dbc C_4  	eg B_4
+!	dbc Cr_8 'c Bl_16	 strlg LA_2 'la
+!	gg  E_2 thrd D_4	 E_4
+!	gg F_2 'f	gg Er_8 'e Fl_16	!t
+
+"2" 
+&  	sharpf sharpc dbhg HG_4 	B_2	 dbhg HG_4
+!	hdbf F_4  LA_2 thrd Dr_8 'd  El_16	
+!	gg F_4 	gg Er_8 'e Dl_16	gg 	E_4 Dr_8 'd Cl_16		
+!	thrd D_2 'd  	gg Cr_8 'c Dl_16		!t
+
+"3" 
+&  	sharpf sharpc gg E_4 LA_2  thrd Dr_8 'd El_16
+!	hdbf F_4 LA_2	gg Er_8 'e Fl_16	
+!	dbhg HG_4 dbc 	C_2	gg Fr_8 'f HGl_16	
+!	dbha HA_2 			grp HA_2			!t
+
+"4" 
+
+&	sharpf sharpc HG_2	hdbf F_4  E_4
+!	dbf Fr_8 'f El_16 thrd D_2	dbhg HG_4
+!	hdbf F_2			gg  E_2
+!	dbha HA_2 			grp HA_2			!t
+
+"5" 
+&  	sharpf sharpc HG_2	hdbf F_4  E_4
+!	dbf Fr_8 'f El_16 thrd D_2	dbhg HG_4
+!	hdbf F_2			gg E_2
+!	thrd D_1 			!I
+
+Bagpipe Music Writer Gold:1.0
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(100,100,75,100,250)
+
+TuneFormat,(1,0,F,L,1000,500,1000,500,P,0,0)
+
+TuneTempo,84
+
+"Grand Old Flag",(T,C,0,0,Papyrus,18,400,0,0,66,0,0,0)
+
+"Quick March",(Y,L,0,0,Times New Roman,10,400,255,0,18,0,0,0)
+
+"George M Cohen arr A.Watt",(M,R,0,0,Times New Roman,10,400,255,0,18,0,0,0)
+
+"",(F,L,0,0,Times New Roman,12,700,1,0,18,0,0,0)
+
+"Black Swamp Pipes & Drums 2026" 
+
+& sharpf sharpc  4_4 space 
+!		HAr_8  Fl_8
+!		thrd D_4 				gg D_4			lgstd D_4				gg Br_8 LAl_8
+!		gg D_8	  			E_4 	C_8 		thrd D_4				gg Br_8 LAl_8
+!		thrd D_4				gg Br_8 LAl_8		thrd D_4				gg Br_8 LAl_8
+!		dbc  C_2		space	grp		C_4  				space	gg LAr_8 Bl_8		!t
+
+& sharpf sharpc 
+!		gg C_4				thrd D_4			dbe E_4 'e			gg	C_8
+!		thrd D_4				E_4				dbf F_4 'f				D_8
+!		gg E_8	 			F_4				D_8		dbe E_8		F_4	 D_8
+!		dbe  E_2				grp				E_4 				space	HAr_8 Fl_8			!I
+
+& sharpf sharpc  		
+!		thrd D_4 			gg D_4			lgstd D_4				gg Br_8 LAl_8
+!		gg D_8 	E_4		 C_8				thrd D_4		gg Cr_8 dg Cl_8
+!		eg B_4			gg Er_8 Fl_8		HG_4				F_4
+!		gg E_2			space	grp	space 	E_4 		 gg LA_4 		!t
+
+& sharpf sharpc 
+!		thrd D_4 'd		C_8				gg D_4			F_4
+!		dbe E_4 'e		D_8				gg E_4			gg LAr_8 dg LAl_8 
+!		gg B_8 	 		D_4			space	B_8 		gg D_4			space	E_4
+!		thrd D_2				space			lgstd D_4 			space				!I
