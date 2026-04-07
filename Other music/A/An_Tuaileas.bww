@@ -1,0 +1,190 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(30,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(80,90,75,80,250)
+
+TuneFormat,(1,0,M,C,500,500,500,500,L,0,0)
+
+TuneTempo,40
+
+"An Tuaileas",(T,L,0,0,arial,16,700,0,0,18,0,0,0)
+
+"Piob",(Y,C,0,0,arial,14,400,0,0,18,0,0,0)
+
+"Iain Sherwoood BMI",(M,R,0,0,arial,14,400,0,0,18,0,0,0)
+
+"'The Slander, or the Unjust Accusation' copyright 2003",(F,R,0,0,arial,14,400,0,0,18,0,0,0)
+"I. Urlar",(I,L,0,0,arial,11,700,0,0,0,0,0,0) 
+& sharpf sharpc	C
+I!''	cadge odro B_4 tra D_4 cadge odro Br_8 'b gg Bl_16 echolg LA_4
+!	cadge odro B_4 tra D_4 gg Er_32 strla El_8 'e 'e echola E_4
+!	cadge odro B_4 tra D_4 cadge odro Br_8 'b gg Bl_16 echolg LA_4	'1
+!	cadge LG_4 odro B_4 cadge LG_4 LAr_16 dg LAl_8 'la fine			_'
+!	'2 cadge LG_4 odro B_4 cadged B_4 echolg LA_4	_'	''!I
+
+& sharpf sharpc 
+	cadge LGr_16 dg LGl_8 'lg embari HG_4 cadge LAr_16 dg LAl_8 'la edre E_4
+!	cadge Dr_32 strlg Dl_8 'd 'd tra D_4 cadge LGr_8 'lg Bl_16 echolg LA_4
+!	cadge LGr_16 dg LGl_8 'lg embari HG_4 cadge Dr_32 strlg Dl_8 'd 'd tra D_4
+!	cadge LG_4 odro B_4 cadge LG_4  LAr_16 dg LAl_8 'la	!t
+
+& sharpf sharpc 
+	cadge LGr_16 dg LGl_8 'lg embari HG_4 cadge LAr_16 dg LAl_8 'la edre E_4
+!	cadge Dr_32 strlg Dl_8 'd 'd tra D_4 cadge LGr_8 'lg Bl_16 echolg LA_4
+!	cadge odro B_4 tra D_4 cadge odro Br_8 'b gg Bl_16 echolg LA_4
+!	cadge LG_4 odro B_4 cadged B_4 echolg LA_4	!I
+
+
+TuneTempo,44
+"II. Urlar Doubling",(I,L,0,0,arial,11,700,0,0,0,0,0,0) 
+& sharpf sharpc 
+I!''	cade gg Br_8 'b tar Bl_16 gg D_4 cade gg Br_8 'b tar Bl_16 echolg LA_4
+!	cade gg Br_8 'b tar Bl_16 gg D_4 gg E_4 gg D_4
+!	cade gg Br_8 'b tar Bl_16 gg D_4 cade gg Br_8 'b tar Bl_16 echolg LA_4 '1
+!	cadge LG_4  gg Br_8 'b tar Bl_16 cadge LG_4 gg LAr_8 'la tar LAl_16	_'
+!	'2 cadge LG_4 gg Br_8 'b tar Bl_16 cadged B_4 echolg LA_4	_' ''!I
+
+& sharpf sharpc 
+	cade gg LGr_8 'lg htarlg LGl_16 embari HG_4 cade gg LAr_8 'la tar LAl_16 edre E_4
+!	cadge D_4 eg B_4 cadge LGr_8 'lg Bl_16 echolg LA_4
+!	cade gg LGr_8 'lg htarlg LGl_16 embari HG_4 gg D_4 eg B_4
+!	cadge LG_4  gg Br_8 'b tar Bl_16 cadge LG_4 gg LAr_8 'la tar LAl_16	!t
+
+& sharpf sharpc 
+	cade gg LGr_8 'lg htarlg LGl_16 embari HG_4 cade gg LAr_8 'la tar LAl_16 edre E_4
+!	cadge D_4 eg B_4 cadge LGr_8 'lg Bl_16 echolg LA_4
+!	cade gg Br_8 'b tar Bl_16 gg D_4 cade gg Br_8 'b tar Bl_16 echolg LA_4
+!	cadge LG_4 gg Br_8 'b tar Bl_16 cadged B_4 echolg LA_4	!I
+
+"III. Variation",(I,L,0,0,arial,11,700,0,0,0,0,0,0) 
+& sharpf sharpc 
+I!''	gg LGr_16  Bl_8 'b	Dr_16 eg LGl_8 'lg	gg Br_8 'b dg LGl_16 strlg LA_4
+!	gg LGr_16 dg Bl_8 'b	 Dr_16 eg LGl_8 'lg	gg Er_8 'e LGl_16 gg LA_4
+!	LGr_16 dg Bl_8 'b 	Dr_16 eg LGl_8 'lg	gg Br_8 'b dg LGl_16 strlg LA_4	'1
+!	Dr_16 gg LGl_8 'lg 	LAr_16 gg Bl_8 'b	gg Dr_16 LGl_8 'lg	 gg LAr_8 'la LGl_16		_'
+!	'2 Dr_16 gg LGl_8 'lg 	LAr_16 gg Bl_8 'b	gg Dr_16 LGl_8 'lg gg LA_4	_' ''!I
+
+& sharpf sharpc 
+	gg LGr_16 HGl_8 'hg tg HG_4 tg LAr_16 gg El_8 'e gg E_4
+!	Br_8 gg LGl_8	 Dr_8 'd Bl_16	gg LGr_16 gg Bl_8 'b strlg LA_4
+!	gg LGr_16 HGl_8 'hg tg HG_4 tg Dr_8 'd gg Dl_16	 eg B_4
+!	Dr_16 gg LGl_8 'lg 	LAr_16 gg Bl_8 'b	gg Dr_16 LGl_8 'lg	 gg LAr_8 'la LGl_16	!t
+
+& sharpf sharpc 
+	gg LGr_16 HGl_8 'hg tg HG_4 tg LAr_16 gg El_8 'e gg E_4
+!	Br_8 gg LGl_8	 Dr_8 'd Bl_16	gg LGr_16 gg Bl_8 'b strlg LA_4
+!	gg LGr_16  Bl_8 'b	Dr_16 eg LGl_8 'lg	gg Br_8 'b dg Bl_16 strlg LA_4
+!	 Dr_16 gg LGl_8 'lg 	LAr_16 gg Bl_8 'b	gg Dr_16 LGl_8 'lg gg LA_4	!I
+
+
+
+"IV. Variation Doubling",(I,L,0,0,arial,11,700,0,0,0,0,0,0) 
+TuneTempo,48
+& sharpf sharpc 
+
+I!''	gg LGr_16  Bl_8 'b	Dr_16 eg LGl_8 'lg	gg Br_8 'b dg Bl_16 strlg	 LAr_8 'la  Dl_16
+!	gg LGr_16 dg Bl_8 'b	 Dr_16 eg LGl_8 'lg	gg Er_8 'e LGl_16 	gg LAr_8 'la  Bl_16
+!	LGr_16 dg Bl_8 'b 	Dr_16 eg LGl_8 'lg	gg Br_8 'b dg Bl_16 	gg LAr_8 'la  Bl_16	'1
+!	Dr_16 gg LGl_8 'lg 	LAr_16 gg Bl_8 'b	gg Dr_16 LGl_8 'lg	gg LAr_8 'la LGl_16	_'
+!	'2 Dr_16 gg LGl_8 'lg 	LAr_16 gg Bl_8 'b	gg Dr_16 LGl_8 'lg	 gg LAr_8 'la  Dl_16	_' ''!I 
+
+& sharpf sharpc 
+	gg LGr_16 HGl_8 'hg	 tg Er_16 HGl_8 'hg 	 tg LAr_16 gg El_8 'e 	gg LAr_16 El_8 'e
+!	Br_8 'b gg LGl_16	 Dr_8 'd Bl_16	gg LGr_16 gg Bl_8 'b	 strlg LAr_8 'la Dl_16
+!	gg LGr_16 HGl_8 'hg 	tg Er_16 HGl_8 'hg	 tg Br_16 gg Dl_8 'd	 eg Br_16 LGl_8 'lg
+!	Dr_16 gg LGl_8 'lg 	LAr_16 gg Bl_8 'b	gg Dr_16 LGl_8 'lg	 gg LAr_8 'la Dl_16	!t
+
+& sharpf sharpc 
+	gg LGr_16 HGl_8 'hg	 tg Er_16 HGl_8 'hg 	tg LAr_16 gg El_8 'e	 gg LAr_16 El_8 'e
+!	Br_16 gg LGl_8 'lg	 Dr_8 'd Bl_16	gg LGr_16 gg Bl_8 'b	 strlg LAr_8 'la Dl_16
+!	gg LGr_16  Bl_8 'b	Dr_16 eg LGl_8 'lg	gg Br_8 'b dg Bl_16	 strlg LAr_8 'la Bl_16
+!	 Dr_16 gg LGl_8 'lg 	LAr_16 gg Bl_8 'b	gg Dr_16 LGl_8 'lg	 gg LAr_8 'la LGl_16	!I
+
+TuneTempo,40
+"V. Taorluath Singling",(I,L,0,0,arial,11,700,0,0,0,0,0,0) 
+& sharpf sharpc 
+I!''	B_4 pt LG_4 phtla B_4 pt gg LA_4
+!	B_4 pt LG_4 phtla E_4 pt gg LA_4
+!	B_4 pt LG_4 phtla B_4 pt gg LA_4 '1
+!	LG_4 phtla B_4 pt LG_4 phtla LA_4 pt _'
+!	'2 LG_4 phtla B_4 pt LG_4 phtla gg LA_4		_'	''!I
+
+& sharpf sharpc 
+	HG_4 pt tg HG_4 tg E_4 pt gg E_4
+!	B_4 pt D_4 ptb B_4 pt gg LA_4
+!	HG_4 pt tg HG_4 tg D_4 ptb B_4 pt
+!	LG_4 phtla B_4 pt LG_4 phtla LA_4 pt	!t
+
+& sharpf sharpc 
+	HG_4 pt tg HG_4 tg E_4 pt gg E_4
+!	B_4 pt D_4 ptb B_4 pt gg LA_4
+!	B_4 pt LG_4 phtla B_4 pt gg LA_4
+!	 LG_4 phtla B_4 pt LG_4 phtla gg LA_4	!I
+
+TuneTempo,48
+"VI. Taorluath Doubling",(I,L,0,0,arial,11,700,0,0,0,0,0,0)
+  & sharpf sharpc 
+I!''	B_4 pt LG_4 phtla B_4 pt  LA_4 pt
+!	B_4 pt LG_4 phtla E_4 pt  LA_4 pt
+!	B_4 pt LG_4 phtla B_4 pt  LA_4 pt
+!	LG_4 phtla B_4 pt LG_4 phtla  LA_4 pt	''!I
+
+& sharpf sharpc 
+	HG_4 pt tg HG_4 pt tg E_4 pt  E_4 pt
+!	B_4 pt D_4 ptb B_4 pt  LA_4 pt
+!	HG_4 pt tg HG_4 pt tg D_4 ptb B_4 pt
+!	LG_4 phtla B_4 pt LG_4 phtla LA_4 pt	!t
+
+& sharpf sharpc 
+	HG_4 pt tg HG_4 pt tg E_4 pt  E_4 pt
+!	B_4 pt D_4 ptb B_4 pt  LA_4 pt
+!	B_4 pt LG_4 phtla B_4 pt LA_4 pt
+!	 LG_4 phtla B_4 pt LG_4 phtla LA_4 pt	!I
+
+"VII. Crunluath Singling",(I,L,0,0,arial,11,700,0,0,0,0,0,0) 
+TuneTempo,40
+& sharpf sharpc 
+I!''	B_4 pc LG_4 phcla B_4 pc gg LA_4
+!	B_4 pc LG_4 phcla E_4 pc gg LA_4
+!	B_4 pc LG_4 phcla B_4 pc gg LA_4 '1
+!	LG_4 phcla B_4 pc LG_4 phcla LA_4 pc _'
+!	'2 LG_4 phcla B_4 pc LG_4 phcla gg LA_4		_'	''!I
+
+& sharpf sharpc 
+	HG_4 pc tg HG_4 tg E_4 pc gg E_4
+!	B_4 pc D_4 pcb B_4 pc gg LA_4
+!	HG_4 pc tg HG_4 tg D_4 pcb B_4 pc
+!	LG_4 phcla B_4 pc LG_4 phcla LA_4 pc	!t
+
+& sharpf sharpc 
+	HG_4 pc tg HG_4 tg E_4 pc gg E_4
+!	B_4 pc D_4 pcb B_4 pc gg LA_4
+!	B_4 pc LG_4 phcla B_4 pc gg LA_4
+!	 LG_4 phcla B_4 pc LG_4 phcla gg LA_4		!I
+
+TuneTempo,48
+"VIII. Crunluath Doubling",(I,L,0,0,arial,11,700,0,0,0,0,0,0)
+  & sharpf sharpc 
+I!''	B_4 pc LG_4 phcla B_4 pc  LA_4 pc
+!	B_4 pc LG_4 phcla E_4 pc  LA_4 pc
+!	B_4 pc LG_4 phcla B_4 pc  LA_4 pc
+!	LG_4 phcla B_4 pc LG_4 phcla  LA_4 pc	''!I
+
+& sharpf sharpc 
+	HG_4 pc tg HG_4 pc tg E_4 pc  E_4 pc
+!	B_4 pc D_4 pcb B_4 pc  LA_4 pc
+!	HG_4 pc tg HG_4 pc tg D_4 pcb B_4 pc
+!	LG_4 phcla B_4 pc LG_4 phcla LA_4 pc		!t
+
+& sharpf sharpc 
+	HG_4 pc tg HG_4 pc tg E_4 pc  E_4 pc
+!	B_4 pc D_4 pcb B_4 pc  LA_4 pc
+!	B_4 pc LG_4 phcla B_4 pc LA_4 pc
+!	 LG_4 phcla B_4 pc LG_4 phcla LA_4 pc  dacapoalfine	!I
