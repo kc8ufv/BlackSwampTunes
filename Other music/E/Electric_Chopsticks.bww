@@ -1,0 +1,64 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,90
+
+"Electric Chopsticks",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Reel",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"R. S. MacDonald",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc C_
+I!'' 	gg ^ts C_4 	Cr_8 ^te Dl_8 	 	gg Cr_8 Bl_8 gg LAl_8 Bl_8 
+!	Cr_8 gg Cl_8 strlg Cl_8 Dl_8 		gg Cr_8 Bl_8 gg LAl_8 Cl_8 
+!	gc ^ts D_4 	Dr_8 ^te El_8 		gg Dr_8 Cl_8 gg Bl_8 Cl_8 
+!	gg Dr_8 LGl_8 gg Bl_8 Dl_8 		gg Er_8 Dl_8 gg Bl_8 HAl_8 !t
+
+& sharpf sharpc 
+	gg ^ts C_4 	Cr_8 ^te Dl_8 	 	gg Cr_8 Bl_8 gg LAl_8 Bl_8 
+!	Cr_8 gg Cl_8 strlg Cl_8 Dl_8 		gg Cr_8 Bl_8 	gg LA_4
+!	gg LGr_8 LAl_8 gg Bl_8 Cl_8 		gg Dr_8 Bl_8 gg LGl_8 Bl_8 
+!	gg LAr_8 Cl_8 gg El_8 Cl_8 	'1 dbha HA_2 _' 	space '2 dbha HA_4 _' ''!I
+
+& sharpf sharpc 
+I!'' 	Cr_8 El_8 
+!	gg ^ts E_4 	Er_8 ^te HAl_8 	Fr_8 HAl_8 	^ts E_4 
+!	E_4 ^te 	dbha HA_4 	Fr_8 HAl_8 El_8 HAl_8 
+!	strc ^ts D_4 	Dr_8 ^te El_8 		gg Dr_8 Cl_8 gg Bl_8 Cl_8 
+!	gg Dr_8 LGl_8 gg Bl_8 Dl_8 		gg Er_8 Dl_8 gg Bl_8 Dl_8 !t
+
+& sharpf sharpc 
+	gg ^ts E_4 	Er_8 ^te HAl_8 	Fr_8 HAl_8 El_8 HAl_8 
+!	Cr_8 HAl_8 El_8 HAl_8 	Fr_8 HAl_8 El_8 HAl_8 
+!	Dr_8 Cl_8 gg Dl_8 Bl_8 	gg LGr_8 Bl_8 gg Dl_8 Bl_8 
+!	gg LAr_8 Cl_8 gg El_8 Cl_8 	'1 dbha HA_4 _' 	space '2 dbha HA_2 _' ''!I
+
+"Seconds For Last Part",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+& sharpf sharpc 
+I!'' 	Cr_8 El_8 
+!	gg ^ts E_4 	Er_8 ^te HAl_8 	Fr_8 HAl_8 	^ts C_4 
+!	C_4 ^te 	dbha HA_4 	Dr_8 HAl_8 Cl_8 HAl_8 
+!	strc ^ts D_4 	Dr_8 ^te El_8 		gg Dr_8 Cl_8 gg Bl_8 Cl_8 
+!	gg Dr_8 LGl_8 gg Bl_8 Dl_8 		gg Er_8 Dl_8 gg Bl_8 Dl_8 !t
+
+& sharpf sharpc 
+	gg ^ts E_4 	Er_8 ^te HAl_8 	Dr_8 HAl_8 Cl_8 HAl_8 
+!	LAr_8 HAl_8 Cl_8 HAl_8 	Dr_8 HAl_8 Cl_8 HAl_8 
+!	Dr_8 Cl_8 gg Dl_8 Bl_8 	gg LGr_8 Bl_8 gg Dl_8 Bl_8 
+!	gg LAr_8 Cl_8 gg El_8 Cl_8 	'1 dbha HA_4 _' 	space '2 gg LA_2 _' ''!I
+
+

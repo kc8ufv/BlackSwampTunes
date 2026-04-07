@@ -1,0 +1,77 @@
+Bagpipe Music Writer Gold:1.0
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+InstrumentMappings,(71,71,45,33,1000,60,70)
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,100,80,250)
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+TuneTempo,60
+
+"El Alamein",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"PM W Denholm",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"Footer",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 6_8 I!'' HA_8  
+"A",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+!	hdbf Fr_8 'f Er_16 Dl_8		gg B_4 D_8
+!	gg LA_4 tar LA_8			thrd D_4 E_8
+"B",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+!	gg F_4 grp F_8			HAr_8 'ha HGr_16 Fl_8
+!	gg F_8 E_4				strla E_4 HA_8	!t
+
+& sharpf sharpc
+"A",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+	'22 hdbf Fr_8 'f Er_16 Dl_8		gg B_4 D_8
+!	gg LA_4 tar LA_8			thrd D_4 E_8
+"C",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+!	gg Fr_16 HAr_8 'ha Fl_8		tg HGr_8 'hg Er_16 Cl_8
+!	thrd D_4 'd				lgstd D_4		_'	''!I 
+
+& sharpf sharpc  I!'' LA_8
+"D",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+!	gg F_4 'f 					dbe E_4 F_8
+!	HAr_8 'ha Fr_16 Dl_8		gg B_4 D_8
+"E",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+!	gg LAr_8 'la Dr_16 Fl_8		HAr_8 'ha HGr_16 Fl_8
+!	gg F_8 E_4				strla E_4 LA_8		!t
+
+& sharpf sharpc
+"D",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+	gg F_4 'f 					dbe E_4 F_8
+!	HAr_8 'ha Fr_16 Dl_8		gg B_4 D_8
+"C",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+!	gg Fr_16 HAr_8 'ha Fl_8		tg HGr_8 'hg Er_16 Cl_8
+!	thrd D_4 'd				lgstd D_4		''!I
+
+& sharpf sharpc  I!'' HG_8
+"F",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+!	HAr_8 'ha Fr_16 Dl_8		gg Br_16 Dr_8 'd Bl_8
+!	gg LA_4 tar LA_8			gg Br_16 Dr_8 'd El_8
+"G",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+!	gg Fr_8 'f Er_16 Dl_8		gg Fr_16 HAr_8 'ha Fl_8
+!	gg F_8 E_4				strla E_4 '24 HG_8  !t
+ 
+& sharpf sharpc
+"F",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+	HAr_8 'ha Fr_16 Dl_8		gg Br_16 Dr_8 'd Bl_8
+!	gg LA_4 tar LA_8			gg Br_16 Dr_8 'd El_8
+"C",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+!	gg Fr_16 HAr_8 'ha Fl_8		tg HGr_8 'hg Er_16 Cl_8
+!	thrd D_4 'd				lgstd D_4	  _'	''!I
+
+& sharpf sharpc I!'' LA_8
+"H",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+!	thrd D_4 lgstd D_8 			gg Fr_8 'f Er_16 Dl_8
+!	gg E_4 grp E_8			dbhg HGr_8 'hg Fr_16 El_8
+"I",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+!	gg F_4 grp F_8			HAr_8 'ha HGr_16 Fl_8
+!	gg F_8 E_4 strla 			E_4 '1 LA_8  !t
+
+& sharpf sharpc
+"H",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+	thrd D_4 lgstd D_8 			gg Fr_8 'f Er_16 Dl_8
+!	gg E_4 grp E_8			dbhg HGr_8 'hg Fr_16 El_8
+"C",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+!	gg Fr_16 HAr_8 'ha Fl_8		tg HGr_8 'hg Er_16 Cl_8
+!	thrd D_4 'd				lgstd D_4		 _' ''!I

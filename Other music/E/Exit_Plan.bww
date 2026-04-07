@@ -1,0 +1,50 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,325)
+
+TuneFormat,(1,0,M,L,500,1000,500,1000,L,0,0)
+
+TuneTempo,100
+
+"Lyrics by Paul Tattersall AFSM",(T,l,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+"Exit Plan",(Y,C,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"tdbb ",(X,C,3300,250,Times New Roman,10,400,0,0,0,0,0,0) 
+"Composed and arranged by Jeannie Tattersall",(M,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+"March",(F,L,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+                                              
+ "",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+& sharpf sharpc 
+C
+I!'' 	gg LA_8 
+!	thrd  D_4 gg Fr_8 Dl_8 eg LA_4 'la brl LA_8
+!	dbhg HG_4  dbha HAr_8 HGl_8 grp E_2 
+!	dbha HA_4 grp HA_4 abr  LA_4 'la dbb B_8
+!	dbha HAr_8 HGl_8	dbf Fr_8 gg El_8 thrd D_4 'd F_8			!t
+
+& sharpf sharpc 
+	dbf F_4 dbha HA_4 grp E_4 'e strla E_8
+! 	dbha HA_4 'ha fg HG_8 hdbf  F_4 'f eg F_8
+!	dbf  F_4 dbha HA_4 grp E_4 'e strla E_8
+!	dbha HA_4 hdbf Fr_8 El_8 thrd D_4 'd F_8					!t
+
+& sharpf sharpc 
+	dbhg HG_4 tg HGr_8 fg HGl_8 tdbb B_4 'b  strla B_8
+!	dbha HA_8 hdbf F_4 gg E_8 dbd D_4 'd cg D_8
+!	dbc Cr_8 'c Dl_16	dbe Er_8 Dl_8	gg Cr_8 eg LAl_8 	dbc Cr_8 El_8	thrd D_2 tdbd D_4 'd		''!I
