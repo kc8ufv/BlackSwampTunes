@@ -1,0 +1,95 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,0)
+
+TuneFormat,(1,0,F,C,500,500,500,500,P,0,0)
+
+TuneTempo,130
+
+"Loch Loskin",(T,C,0,0,arial,16,700,0,0,18,0,0,0)
+
+"Strathspey",(Y,L,0,0,arial,12,400,0,0,18,0,0,0)
+
+"Rod Campbell",(M,R,0,0,arial,12,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,arial,12,400,0,0,18,0,0,0)
+
+"1st part"
+& sharpf sharpc C	 I! 
+brl LA_4 							dbc Cr_16 El_8 'e			gbr LAr_8 'la El_16				dbc Cr_16 eg LAl_8 'la		!
+gg LGr_16 dg LGl_16 eg LGl_8	   	gg Br_8 'b Cl_16			thrd Dr_8 'd El_16				dbb Br_16 eg LGl_8 'lg		! 
+gbr LA_4	 						dbc Cr_16 El_8 'e	 		gbr LAr_8 'la El_16				dbc Cr_16 El_8 'e			!
+gg Fr_8 Er_8 Dl_8 ^3f	 			dbb Br_8 'b El_16	 		dbc Cr_16 eg LAl_8 'la			brl LAr_16 HAl_8 'ha		!t
+
+& sharpf sharpc
+brl LA_4 							dbc Cr_16 El_8 'e			gbr LAr_8 'la El_16				dbc Cr_16 eg LAl_8 'la		!
+gg LGr_16 dg LGl_16 eg LGl_8		gg Br_8 'b Cl_16			thrd Dr_8 'd El_16				dbb Br_16 eg LGl_8 'lg		!
+gbr LA_4	 						dbc Cr_16 El_8 'e	 		gbr LAr_8 'la El_16				dbc Cr_16 El_8 'e			!
+gg Fr_8 Er_8 Dl_8 ^3f	 			dbb Br_8 'b El_16	 		dbc Cr_16 eg LAl_8 'la			brl LAr_8 'la El_16 			!I
+
+
+
+
+
+
+"2nd part"
+& sharpf sharpc	 I! 
+dbha HA_4 						Er_8 Fr_8 HGl_8 ^3hg		dbha HAr_8 'ha El_16 			dbc Cr_16 eg LAl_8 'la		!
+dbhg HG_4 						tg Dr_8 Er_8 Fl_8 ^3f		dbhg HGr_8 'hg Dl_16			dbb Br_16 eg LGl_8 'lg		!
+dbha HA_4 						Er_8 Fr_8 HGl_8 ^3hg		dbha HAr_8 'ha El_16			dbc Cr_16 El_8 'e			!
+gg Fr_8 Er_8 Dl_8 ^3f	 			dbb Br_8 'b El_16			 dbc Cr_16 eg LAl_8 'la			brl LAr_8 'la El_16 			!t
+
+& sharpf sharpc
+dbha HA_4 						Er_8 Fr_8 HGl_8 ^3hg		dbha HAr_8 'ha El_16 			dbc Cr_16 eg LAl_8 'la		!
+dbhg HG_4 						tg Dr_8 Er_8 Fl_8 ^3f		dbhg HGr_8 'hg Dl_16			dbb Br_16 eg LGl_8 'lg		!
+gg Br_8 Cr_8 Dl_8 ^3d				dbe Er_8 'e LAl_16			dbc Cr_16 eg LAl_8 'la			dbe Er_8 'e HAl_16			!
+Fr_8 Er_8 Dl_8 ^3f					dbb Br_8 'b El_16			dbc Cr_16 eg LAl_8 'la			brl LAr_16 HAl_8 'ha		!I
+
+
+
+
+
+"3rd part"
+& sharpf sharpc	I!
+hdbe Er_8 'e LAl_16				dbe Er_8 'e Cl_16			gg LAr_8 'la El_16				dbc Cr_16 eg LAl_8 'la		!
+thrd Dr_8 'd gg Bl_16				dg LGr_8 'lg Bl_16			thrd Dr_8 'd El_16				dbb Br_16 eg LGl_8 'lg		!
+dbe Er_8 'e LAl_16					dbe Er_8 'e Cl_16			gg LAr_8 'la El_16				dbc Cr_16 El_8 'e			!
+gg Fr_8 Er_8 Dl_8 ^3f	 			dbb Br_8 'b El_16			dbc Cr_16 gg LAl_8 'la			brl LAr_16 HAl_8 'ha		!t
+
+& sharpf sharpc
+hdbe Er_8 'e LAl_16				dbe Er_8 'e Cl_16			gg LAr_8 'la El_16				dbc Cr_16 eg LAl_8 'la		!
+thrd Dr_8 'd gg Bl_16	 			dg LGr_8 'lg Bl_16			thrd Dr_8 'd El_16				dbb Br_16 eg LGl_8 'lg		!
+dbe Er_8 'e LAl_16					dbe Er_8 'e Cl_16			gg LAr_8 'la El_16				dbc Cr_16 El_8 'e			!
+gg Fr_8 Er_8 Dl_8 ^3f	 			dbb Br_8 'b El_16			dbc Cr_16 gg LAl_8 'la			brl LAr_8 'la El_16			!I
+
+
+
+
+
+"4th part"
+& sharpf sharpc	I! 
+dbha HA_4 						grp HAr_8 'ha El_16		dbc Cr_16 eg LAl_8 'la			dbha HAr_8 'ha El_16		!
+dbhg HGr_8 'hg gg Bl_16			dg LGr_8 'lg dg Bl_16		dbhg HGr_8 'hg HAl_16			strf HGr_8 'hg El_16		!
+dbha HA_4 						grp HAr_8 'ha El_16		dbc Cr_16 El_8 'e				dbha HAr_8 'ha El_16		!
+gg Fr_8 Er_8 Dl_8 ^3f	 			dbb Br_8 'b El_16			dbc Cr_16 gg LAl_8				brl LAr_8 'la El_16			!t
+
+& sharpf sharpc
+dbha HA_4 						grp HAr_8 'ha El_16		dbc Cr_16 eg LAl_8 'la			dbha HAr_8 'ha El_16		!
+dbhg HGr_8 'hg  Bl_16				gg LGr_8 'lg dg Bl_16		dbhg HGr_8 'hg HAl_16			strf HGr_8 'hg Dl_16		!
+gg Br_8 Cr_8 Dl_8 ^3d	 			dbe Er_8 'e LAl_16			dbc Cr_16 eg LAl_8 'la			dbe Er_8 'e HAl_16			!
+Fr_8 Er_8 Dl_8 ^3f					dbb Br_8 'b El_16			dbc Cr_16 eg LAl_8 'la			brl LAr_16 HAl_8 'ha 		!I
+
+
+
+
+
+
+

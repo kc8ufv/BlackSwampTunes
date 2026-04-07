@@ -1,0 +1,91 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,1,F,C,500,500,500,500,P,1,0)
+
+TuneTempo,80
+
+"Dr. Ross's 50th Welcome to the Argyllshire Gathering",(T,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"D. MacLeod",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Standard Settings of Pipe Music Volume 2 - Page 6",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc
+
+6_8
+
+I!''	E_8
+!	gg LAr_8 'la dg Cl_16 El_8			gg Cr_16 dg LAl_8 'la dg Cl_8
+!	gg Er_8 'e Fl_16 gg El_8				dbc C_4 eg LA_8
+!	gg Cr_16 El_8 'e strla El_8			dbe Er_8 'e Cl_16 dg LAl_8
+!	gg Br_16 Dl_8 'd Cl_8				dbb B_4 eg LG_8				!t
+
+& sharpf sharpc
+	gg LAr_8 'la dg Cl_16 El_8			gg Cr_16 dg LAl_8 'la dg Cl_8
+!	gg Er_8 'e Fl_16 gg El_8				dbc C_4 eg LA_8
+!	gg Cr_16 El_8 'e strla El_8			dbe Er_8 'e Dl_16 Bl_8
+!	gg LA_4 'la						brl LA_4						''!I
+
+& sharpf sharpc
+I!''	dbhg HG_8
+!	HA_4 grp HA_8					LAr_8 'la dg Cl_16 El_8
+!	dbe Er_8 'e Cl_16 HAl_8				hdbc C_4 eg LA_8
+!	HAr_8 'ha El_16 Dl_8				gg Cr_16 dg LAl_8 'la dg Cl_8
+!	gg Br_16 Dl_8 'd Cl_8				dbb B_4 eg LG_8				!t
+
+& sharpf sharpc
+'1	HA_4 grp HA_8					LAr_8 'la dg Cl_16 El_8
+!	dbe Er_8 'e Cl_16 HAl_8				hdbc C_4 eg LA_8
+!	gg Cr_16 El_8 'e strla El_8			dbe Er_8 'e Dl_16 Bl_8
+!	gg LA_4 'la						brl LA_4						_' !t
+
+& sharpf sharpc
+'2	gg LAr_8 'la dg Cl_16 El_8			gg Cr_16 dg LAl_8 'la dg Cl_8
+!	gg Er_8 'e Fl_16 gg El_8				dbc C_4 eg LA_8
+!	gg Cr_16 El_8 'e strla El_8			dbe Er_8 'e Dl_16 Bl_8
+!	gg LA_4 'la						brl LA_4						_' ''!I
+
+& sharpf sharpc
+I!''	E_8
+!	gg LA_4 tar LA_8					dbc C_4 D_8
+!	gg Er_8 'e Fl_16 gg El_8				dbc C_4 eg LA_8
+!	gg E_4 tar LA_8					dbc C_4 E_8
+!	gg Br_16 Dl_8 'd Cl_8				dbb B_4 eg LG_8				!t
+
+& sharpf sharpc
+	gg LA_4 tar LA_8					dbc C_4 D_8
+!	gg Er_8 'e Fl_16 gg El_8				dbc C_4 eg LA_8
+!	gg Cr_16 El_8 'e strla El_8			dbe Er_8 'e Dl_16 Bl_8
+!	gg LA_4 'la						brl LA_4						''!I
+
+& sharpf sharpc
+I!''	dbhg HG_8
+!	 HA_4 tar LA_8						gg E_4 tar LA_8
+!	dbe Er_8 'e Cl_16 HAl_8				hdbc C_4 eg LA_8
+!	gg Cr_16 El_8 'e HAl_8				
+	'1 hdbe Er_8 'e Cl_16 dg LAl_8 _'		'2 LAr_8 'la dg Cl_16 El_8 _'
+!	gg Br_16 Dl_8 'd HGl_8				hdbb B_4 eg LG_8				!t
+
+& sharpf sharpc
+'1	 HA_4 tar LA_8						gg E_4 tar LA_8
+!	dbe Er_8 'e Cl_16 HAl_8				hdbc C_4 eg LA_8
+!	gg Cr_16 El_8 'e strla El_8			dbe Er_8 'e Dl_16 Bl_8
+!	gg LA_4 'la						brl LA_4						_' !t
+
+& sharpf sharpc
+'2	gg LAr_8 'la Bl_16 grp Cl_8			gg Br_8 'b Cl_16 Dl_8
+!	gg Cr_16 El_8 'e HAl_8				hdbc C_4 eg LA_8
+!	gg Cr_16 El_8 'e strla El_8			dbe Er_8 'e Dl_16 Bl_8
+!	gg LA_4 'la						brl LA_4						_' ''!I

@@ -1,0 +1,58 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Converted from  BMW Dos file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+"Myfanwy",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Anthem",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"arr. Matt Brennan",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+TuneTempo,90
+
+
+& sharpf sharpc 4_4 I!'' LA_4
+!       thrd D_4 'd             gg Dr_8 strla Dl_8 gg Dl_8              dbe Er_8 'e Dl_16
+!       lgstd D_4               dbc C_2                         strlg LA_4                      !t
+
+& sharpf sharpc
+!       dbe E_4 'e              strla Er_8 grp El_8 gg El_8     dbf Fr_8 'f El_16 'e
+!       thrd D_2                eg LA_4                                                         !t
+
+& sharpf sharpc
+!       dbf F_4                 gg Fr_8 grp Fl_8 gg Fl_8                dbhg HGr_8 'hg Fl_16
+!       stre F_4                dbe E_2                         Cr_8 thrd Dl_8                  !t
+
+& sharpf sharpc
+!       dbe E_4 'e              strlg Er_8 grp El_8 dbhg HGl_8          tg Fr_8 'f dbe El_16    
+!       dbf F_2 'f              abr LA_4                                                        !t
+
+& sharpf sharpc
+!       gg B_4 'b               gg Br_8 grp Bl_8 eg Bl_16               thrd Dr_8 'd Bl_16
+!       tar B_4 'b                      strlg LA_2                      thrd D_4                        !t
+
+& sharpf sharpc
+!       dbc C_4 'c              gg Cr_8 thrd Dl_8 Cl_16 'c              thrd Dr_8 El_8
+!       dbf F_2                 HA_4                                                            !t
+
+& sharpf sharpc
+!       gg HA_4 'ha             HG_8            hpelb B_4 'b            dbhg HG_4
+!       tg HG_4 'hg             Fr_8 gbr LAl_8 'la dg LAl_8 'la         thrd D_4                        !t
+
+& sharpf sharpc
+!       lgstd D_4 'd            gg Dr_8 strlg Dl_8 Cl_8         dbf Fr_8 'f El_16 'e
+!       thrd D_2 'd ''!I

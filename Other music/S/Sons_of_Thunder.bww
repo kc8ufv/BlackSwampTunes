@@ -1,0 +1,75 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,30,50)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,75,70,250)
+
+TuneFormat,(1,0,M,L,1500,1000,1000,1000,L,0,0)
+
+TuneTempo,130
+
+"Sons of Thunder",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+"Jig",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"DN Siegel",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0        
+"SONS OF THUNDER [B'nei Ra'am] (c) 2004 David N. Siegel. POB 9647, Karmiel 21901, The Galilee, Israel.",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 6_8
+I!''   E_8 ! 
+gg LAr_8 El_8 strla El_8 	gg  Er_8 LAr_8 dg Bl_8 !
+gg Dr_8 HGl_8  LGl_8 	dg LA_4  B_8 !
+gg Er_8 LGr_8 dg LGl_8		gg LAr_8 Dr_8 Cl_8 !
+gg B_4  C_8		thrd D_4 E_8 ! 
+
+ 
+gg LAr_8 El_8 strla El_8 	gg  Er_8 LAr_8 dg Bl_8 !
+gg Dr_8 HGl_8  LGl_8 	dg LA_4  B_8 !
+gg Er_8 LGr_8 dg LAl_8		Dr_8 eg Cr_8 LAl_8 !
+gg Br_8 dg Bl_8  eg LGl_8 	  gg LA_4	''!I
+
+" pt 2 "
+
+& sharpf sharpc  
+I!''   E_8 ! 
+dbha HA_4 HG_8 	tg Fr_8 Dr_8  El_8 !
+gg Er_8 HAl_8 gg HAl_8 	LA_4  B_8    !
+gg Er_8 LGr_8 dg LGl_8		gg LAr_8 Dr_8 Cl_8 !
+gg B_4  C_8		thrd D_4 E_8 ! 
+ 
+dbha HA_4 HG_8 	tg Fr_8 Dr_8  El_8 !
+gg Er_8 HAl_8 gg HAl_8 	LA_4  B_8    !
+gg Er_8 LGr_8 dg LAl_8		Dr_8 eg Cr_8 LAl_8 !
+gg Br_8 dg Bl_8  eg LGl_8 	  gg LA_4	''!I
+
+" pt 3 "
+
+& sharpf sharpc  
+I!''   E_8 ! 
+HAr_8 LAl_8 dg Cl_8 	gg LAr_8 Er_8 strla El_8  !
+gg Er_8 Dl_8   Cl_8 	 gg Br_8 dg LAl_8 Bl_8    !
+gg Er_8 LGr_8 dg LGl_8		gg LAr_8 Dr_8 Cl_8 !
+gg B_4  C_8		thrd D_4 E_8 ! 
+
+ 
+HAr_8 LAl_8 dg Cl_8 	gg LAr_8 Er_8 strla El_8  !
+gg Er_8 Dl_8   Cl_8 	 gg Br_8 dg LAl_8 Bl_8    !
+gg Er_8 LGr_8 dg LAl_8		Dr_8 eg Cr_8 LAl_8 !
+gg Br_8 dg Bl_8  eg LGl_8 	  gg LA_4	''!I
+
+" pt 4 "
+& sharpf sharpc
+I!''   E_8 ! 
+gg LAr_8 Er_8 strla El_8  	gg Er_8 Dr_8 El_8 !
+gg LAr_8   Er_8 strla El_8 	HAr_8  HGl_8  Fl_8  !
+gg Er_8 LGr_8 dg LGl_8		gg LAr_8 Dr_8 Cl_8 !
+gg B_4  C_8		thrd D_4 E_8 ! 
+
+ 
+gg LAr_8 Er_8 strla El_8  	gg Er_8 Dr_8 El_8 !
+gg LAr_8   Er_8 strla El_8 	HAr_8  HGl_8  Fl_8  !
+gg Er_8 LGr_8 dg LAl_8		Dr_8 eg Cr_8 LAl_8 !
+'1 gg Br_8 dg Bl_8  eg LGl_8 	  gg LA_4 _'	'2 gg Br_8 dg Bl_8  eg LGl_8 fermatlg fermatlg	  gg LA_4 fermatla fermatla  _' ''!I

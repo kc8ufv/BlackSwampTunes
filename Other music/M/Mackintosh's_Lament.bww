@@ -1,0 +1,232 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,60)
+
+GracenoteDurations,(30,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(100,100,70,80,0)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,44
+
+"Mackintosh's Lament",(T,C,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+
+
+"I. GROUND",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+
+& sharpf sharpc 3_4
+I!''	gg Fr_32 stre Fl_8 ''f			echoe F_8			gg F_4 'f
+!	gg Fr_8 ''f El_32				ptra D_8				gg D_4 'd
+!	gg E_4						grp E_8				gg F_4 'f
+!	cadged  Br_32 strlg Bl_8 ''b		echolg B_8 			gg B_4
+!	'2 gg Fr_8 'f El_32				ptra D_8				gg F_4 'f		 !t
+
+
+& sharpf sharpc
+	cadged  Br_32 strlg Bl_8 ''b		echolg B_8			gg B_4 'b _'
+!	gg Er_8 'e Dl_16				eg LA_4				gg Br_16 ptra Dl_8 'd
+!	gg Er_8 'e Dl_16				eg LA_4				gg Br_16 ptra Dl_8 'd
+!	gg Br_16 din LAl_8 'la			pgrp B_4				pdare F_4
+!	gg Fr_8 El_8 fermate			gg D_2 fine									 ''!I
+
+
+
+& sharpf sharpc
+I!''	gg Fr_32 stre Fl_8 ''f 			echoe F_8 			HA_4 'ha 
+!	Fr_8 ''f El_32					ptra D_8				gg D_4 'd 	
+!	gg E_4						grp E_8				gg F_4 'f
+!	cadged Br_32 strlg Bl_8 ''b		echolg B_8 			gg B_4
+!	'2 gg Fr_8 'f El_32				ptra D_8				gg F_4 'f		 !t
+
+
+& sharpf sharpc
+	cadged  Br_32 strlg Bl_8 ''b		echolg B_8			gg B_4 'b _'
+!	gg Er_8 'e Dl_16				eg LA_4				gg Br_16 ptra Dl_8 'd
+!	gg Er_8 'e Dl_16				eg LA_4				gg Br_16 ptra Dl_8 'd
+!	gg Br_16 din LAl_8 'la			pgrp B_4				pdare F_4
+!	gg Fr_8 El_8 fermate			gg D_2							 ''!I
+
+
+
+TuneTempo,46
+"II. VAR. 1.",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc 2_4
+I!''	gg Fr_8 ''f El_32		gg Fr_8 ''f El_32
+!	gg Fr_8 ''f El_32		gg D_4
+!	gg Er_8 ''e Dl_32		gg Fr_8 ''f Dl_32
+!	gg Er_8 ''e Dl_32		gg B_4
+!	'2 gg Fr_8 ''f El_32		gg Fr_8 ''f El_32		!t
+
+& sharpf sharpc
+	gg Fr_8 ''f Dl_32		gg B_4 _'
+!	gg Dr_8 ''d Bl_32		gg Dr_8 ''d Bl_32
+!	gg Dr_8 ''d Bl_32		gg LA_4
+!	gg Br_8 ''b LAl_32		gg Fr_8 ''f LAl_32
+!	gg Fr_8 El_8 fermate	gg D_4				 ''!I
+
+
+& sharpf sharpc
+I!''	gg Fr_8 ''f El_32		HAr_8 ''ha El_32
+!	gg Fr_8 ''f El_32		gg D_4
+!	gg Er_8 ''e Dl_32		gg Fr_8 ''f Dl_32
+!	gg Er_8 ''e Dl_32		gg B_4
+!	'2 gg Fr_8 ''f El_32		gg Fr_8 ''f El_32		!t
+
+& sharpf sharpc
+	gg Fr_8 ''f Dl_32		gg B_4 _'
+!	gg Dr_8 ''d Bl_32		gg Dr_8 ''d Bl_32
+!	gg Dr_8 ''d Bl_32		gg LA_4
+!	gg Br_8 ''b LAl_32		gg Fr_8 ''f LAl_32
+!	gg Fr_8 El_8 fermate	gg D_4				''!I
+
+
+
+TuneTempo,47
+"III. VAR. 2.",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!''	gg Fr_8 ''f gg LAl_32	gg Fr_8 ''f gg LAl_32
+!	gg Fr_8 ''f gg LAl_32	gg Dr_8 ''d eg LAl_32
+!	gg Er_8 ''e gg LAl_32	gg Fr_8 ''f gg LAl_32
+!	gg Er_8 ''e gg LAl_32	gg Br_8 ''b eg LAl_32
+!	'2 gg Fr_8 ''f gg LAl_32	gg Fr_8 ''f gg LAl_32		!t
+
+& sharpf sharpc
+	gg Fr_8 ''f gg LAl_32	gg Br_8 ''b eg LAl_32 _'
+!	gg Dr_8 ''d eg LAl_32	gg Dr_8 ''d eg LAl_32
+!	gg Dr_8 ''d gg LAl_32	gg LAr_8 ''la eg LAl_32
+!	gg Br_8 ''b eg LAl_32	gg Fr_8 ''f gg LAl_32
+!	gg Er_8 ''e gg LAl_32	gg LAr_8 ''la eg LAl_32		''!I
+
+
+& sharpf sharpc
+I!''	gg Fr_8 ''f gg LAl_32	HAr_8 ''ha LAl_32
+!	gg Fr_8 ''f gg LAl_32	gg Dr_8 ''d eg LAl_32
+!	gg Er_8 ''e gg LAl_32	gg Fr_8 ''f gg LAl_32
+!	gg Er_8 ''e gg LAl_32	gg Br_8 ''b eg LAl_32
+!	'2 gg Fr_8 ''f gg LAl_32	gg Fr_8 ''f gg LAl_32			!t
+
+& sharpf sharpc
+	gg Fr_8 ''f gg LAl_32	gg Br_8 ''b eg LAl_32 _'
+!	gg Dr_8 ''d eg LAl_32	gg Dr_8 ''d eg LAl_32
+!	gg Dr_8 ''d gg LAl_32	gg LAr_8 ''la eg LAl_32
+!	gg Br_8 ''b eg LAl_32	gg Fr_8 ''f gg LAl_32
+!	gg Er_8 ''e gg LAl_32	gg LAr_8 ''la eg LAl_32			''!I
+
+
+
+TuneTempo,45
+"IV. TAORLUATH",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!''	F_4 pt		F_4 pt
+!	F_4 pt		gg D_4
+!	E_4 pt		F_4 pt
+!	E_4 pt		gg B_4
+!	'2 F_4 pt		F_4 pt
+!	F_4 pt		gg B_4 _'
+!	D_4 ptb		D_4 ptb
+!	D_4 ptb		gg LA_4
+!	B_4 pt		F_4 pt
+!	gg Fr_8 El_8 fermate	gg D_4		''!I
+
+
+& sharpf sharpc
+I!''	F_4 pt		HA_4 pt
+!	F_4 pt		gg D_4
+!	E_4 pt		F_4 pt
+!	E_4 pt		gg B_4
+!	'2 F_4 pt		F_4 pt
+!	F_4 pt		gg B_4 _'
+!	D_4 ptb		D_4 ptb
+!	D_4 ptb		gg LA_4
+!	B_4 pt		F_4 pt
+!	gg Fr_8 El_8 fermate	gg D_4		''!I
+
+
+
+TuneTempo,50
+"V. TAORLUATH DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!''	F_4 pt		F_4 pt
+!	F_4 pt		D_4 ptb
+!	E_4 pt		F_4 pt
+!	E_4 pt		B_4 pt
+!	'2 F_4 pt		F_4 pt
+!	F_4 pt		B_4 pt _'
+!	D_4 ptb		D_4 ptb
+!	D_4 ptb		LA_4 pt
+!	B_4 pt		F_4 pt
+!	E_4 pt		LA_4 pt		''!I
+
+
+& sharpf sharpc
+I!''	F_4 pt		HA_4 pt
+!	F_4 pt		D_4 ptb
+!	E_4 pt		F_4 pt
+!	E_4 pt		B_4 pt
+!	'2 F_4 pt		F_4 pt
+!	F_4 pt		B_4 pt _'
+!	D_4 ptb		D_4 ptb
+!	D_4 ptb		LA_4 pt
+!	B_4 pt		F_4 pt
+!	E_4 pt		LA_4 pt			''!I
+
+
+TuneTempo,45
+"VI. CRUNLUATH",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!''	F_4 pc		F_4 pc
+!	F_4 pc		gg D_4
+!	E_4 pc		F_4 pc
+!	E_4 pc		gg B_4
+!	'2 F_4 pc		F_4 pc
+!	F_4 pc		gg B_4 _'
+!	D_4 pcb		D_4 pcb
+!	D_4 pcb		gg LA_4
+!	B_4 pc		F_4 pc
+!	gg Fr_8 El_8 fermate	gg D_4		''!I
+
+
+& sharpf sharpc
+I!''	F_4 pc		HA_4 pc
+!	F_4 pc		gg D_4
+!	E_4 pc		F_4 pc
+!	E_4 pc		gg B_4
+!	'2 F_4 pc		F_4 pc
+!	F_4 pc		gg B_4 _'
+!	D_4 pcb		D_4 pcb
+!	D_4 pcb		gg LA_4
+!	B_4 pc		F_4 pc
+!	gg Fr_8 El_8 fermate	gg D_4		''!I
+
+
+TuneTempo,50
+"VII. CRUNLUATH DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!''	F_4 pc		F_4 pc
+!	F_4 pc		D_4 pcb
+!	E_4 pc		F_4 pc
+!	E_4 pc		B_4 pc
+!	'2 F_4 pc		F_4 pc
+!	F_4 pc		B_4 pc _'
+!	D_4 pcb		D_4 pcb
+!	D_4 pcb		LA_4 pc
+!	B_4 pc		F_4 pc
+!	E_4 pc		LA_4 pc		''!I
+
+
+& sharpf sharpc
+I!''	F_4 pc		HA_4 pc
+!	F_4 pc		D_4 pcb
+!	E_4 pc		F_4 pc
+!	E_4 pc		B_4 pc
+!	'2 F_4 pc		F_4 pc
+!	F_4 pc		B_4 pc _'
+!	D_4 pcb		D_4 pcb
+!	D_4 pcb		LA_4 pc
+!	B_4 pc		F_4 pc
+!	E_4 pc		LA_4 pc			''!I  dacapoalfine

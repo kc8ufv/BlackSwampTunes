@@ -1,0 +1,49 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,122
+
+"Craig's 'Pipes",(T,L,0,0,Perpetua,16,700,255,0,18,0,0,0)
+
+"Reel",(Y,C,0,0,Perpetua,16,700,255,0,18,0,0,0)
+
+"Trad., Arr. Neil Anderson",(M,R,0,0,Perpetua,16,700,255,0,18,0,0,0)
+
+"Footer",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc C_ thrd D_4 'd 	C_8	gg Dr_8 El_8 dbf Fl_8 Dl_8 
+!	gg Er_8 Fl_8 dbd Dl_8 Bl_8 	gg LAr_8 dg LAl_8 eg LAl_8 gg Bl_8
+!	thrd Dr_8 LAl_8	gbr  LA_4     dbd Dr_8 El_8 	gg ^3s  Fr_8 El_8 Dl_8 ^3e 
+!	gg Er_8 Dl_8	 gg ^3s Br_8 Cl_8 Dl_8 ^3e 	dbe Er_8 HGl_8 tg Fl_8 El_8 !t 
+& sharpf sharpc gg Dr_8 strc  Dl_8 dbd Dl_8 Cl_8		dbd Dr_8 El_8 gg Fl_8 Dl_8
+!	gg Er_8 Fl_8 dbd Dl_8 Bl_8 	gg LAr_8 dg LAl_8 eg LAl_8 gg Bl_8
+!	thrd Dr_8 LAl_8 	gbr  LA_4		gbr LA_4		dbf Fr_8 Dl_8 
+!	gg Er_8 Dl_8	 gg ^3s Br_8 Cl_8 Dl_8 ^3e 	dbe Er_8 HGl_8 tg Fl_8 El_8 !I
+& sharpf sharpc thrd Dr_8 eg Bl_8 	pelb B_4 		tg HGr_8 El_8 gg Fl_8 Dl_8 
+!	gg Er_8 Dl_8 gg Bl_8 Dl_8 	gg Er_8 HGl_8 gg Fl_8 El_8 
+!	thrd Dr_8 eg Bl_8 	pelb B_4 		tg HGr_8 El_8 gg Fl_8 Dl_8
+!	gg Er_8 Fl_8 dbd Dl_8 Bl_8	gg LAr_8 dg LAl_8 eg LAl_8 gg Bl_8 !t
+& sharpf sharpc thrd Dr_8 eg Bl_8 	pelb B_4 		tg HGr_8 El_8 gg Fl_8 Dl_8 
+!	gg Er_8 Dl_8	gg ^3s Br_8 Cl_8 Dl_8 ^3e 	 	dbe Er_8 HGl_8 Fl_8 El_8
+!	thrd Dr_8 eg Bl_8 	pelb B_4 		tg HGr_8 El_8 gg Fl_8 Dl_8
+!	gg Er_8 Fl_8 dbd Dl_8 Bl_8	gg LAr_8 dg LAl_8 eg LAl_8 gg Dl_8 !I
+& sharpf sharpc gg Fr_8 HAl_8 strhg HAl_8  Fl_8		tg HGr_8 El_8 gg Fl_8 Dl_8
+!	gg Er_8 Dl_8 	gg ^3s Br_8 Cl_8 Dl_8 ^3e 	dbe Er_8 Fl_8 tg HGl_8 El_8
+!	gg Fr_8 HAl_8 strhg HAl_8 Fl_8		tg HGr_8 El_8 gg Fl_8 Dl_8
+!	gg Er_8 Fl_8 dbd Dl_8 Bl_8	gbr LA_4 		gg Dr_8 El_8 !t
+& sharpf sharpc    gg Fr_8 HAl_8 strhg HAl_8  Fl_8		tg HGr_8 El_8 gg Fl_8 Dl_8
+!	gg Er_8 Dl_8 	gg ^3s Br_8 Cl_8 Dl_8 ^3e 	dbe Er_8 Fl_8 tg HGl_8 El_8
+!	gg Fr_8 HAl_8 strhg HAl_8 HGl_8 		dbha HAr_8 Fl_8 gg Dl_8 Fl_8 
+!	tg HGr_8 Fl_8 gg El_8 Dl_8		hdbc Cr_8 Dl_8 gg El_8 Fl_8 !I  
+

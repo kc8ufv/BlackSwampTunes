@@ -1,0 +1,121 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,0)
+
+TuneFormat,(1,0,F,L,500,500,500,500,P,0,0)
+
+TuneTempo,120
+
+"The Herringwife",(T,L,0,0,arial,14,700,0,0,18,0,0,0)
+
+"Jig",(Y,C,0,0,arial,12,400,0,0,18,0,0,0)
+
+"Arr J. A. MacLellan",(M,R,0,0,arial,12,400,0,0,18,0,0,0)
+
+"Celtic Fringe, July 2002",(F,R,0,0,arial,12,400,0,0,18,0,0,0)
+
+"1st part"
+& sharpf sharpc 6_8 	HA_8	I!'' 
+hdbc C_4		eg LA_8					gg LAr_8 'la dg Cl_16 eg LAl_8		!
+dbe Er_8 'e Cl_16 dg LAl_8				dbc C_4		eg LA_8				!
+dbc C_4		eg LA_8					gg LAr_8 'la dg Cl_16 eg LAl_8		!
+dbe E_4 'e							strla E_4		D_8				 	!t
+
+
+& sharpf sharpc 	
+dbc C_4		eg LA_8					gg LAr_8 'la dg Cl_16 eg LAl_8		!
+gg Er_8 'e Cl_16 dg LAl_8				dbc C_4		eg LA_8				!
+dbb B_4		eg LG_8					gg LGr_8 'lg dg Bl_16 eg LGl_8		!
+thrd D_4 'd							'1 dbe E_4	D_8	_'	'2 lgstd D_4 _'	 ''!I
+
+
+
+
+
+
+
+
+
+"2nd part"
+& sharpf sharpc I! E_8	!
+gbr LA_4		HA_8					strhg HA_4	grp HA_8				!
+hdbc C_4		E_8						gg Er_8 'e Cl_16 dg LAl_8			!
+gbr LA_4		HA_8					strhg HA_4	grp HA_8				!
+hdbe E_4 'e							strla E_4		D_8					!t
+
+
+& sharpf sharpc 	
+dbc C_4		HA_8					strhg HA_4	grp HA_8				!
+hdbc C_4		E_8						gg Er_8 'e Dl_16 Cl_8				!
+dbb B_4		HG_8					tg HGr_8 'hg Fl_16 HGl_8			!
+thrd D_4 'd							dbe E_4	D_8						!t
+
+
+& sharpf sharpc 	
+dbc C_4		HA_8					strhg HA_4	grp HA_8				!
+hdbc C_4		E_8						gg Er_8 'e Cl_16 dg LAl_8			!
+gbr LA_4		HA_8					strhg HA_4	grp HA_8				!
+hdbe E_4 'e							strla Er_8 Fr_8 HGl_8				!t
+
+
+
+& sharpf sharpc 	
+HAr_8 HGr_8 Fl_8						dbhg HG_4	E_8				!
+gg Fr_16 HAl_8 'ha Fl_8					dbe E_4	C_8					!
+gstb B_4		HG_8					tg HGr_8 'hg Fl_16 HGl_8		!
+thrd D_4 'd							dbha HA_4					!I
+
+
+
+
+
+"3rd part"
+& sharpf sharpc 	I!'' HG_8	!
+hdbf F_4		D_8						gg Dr_16 Fl_8 'f Dl_8			!
+HAr_8 'ha Fl_16 gg Dl_8					lgstd D_4		HA_8			!
+hdbf F_4		D_8						gg Dr_16 Fl_8 'f Dl_8			!
+dbha HA_4 'ha							strhg HA_4		HG_8		!t
+
+
+
+& sharpf sharpc 	
+hdbf F_4		D_8						gg Dr_16 Fl_8 'f Dl_8			!
+HAr_8 'ha Fl_16 gg Dl_8					lgstd D_4		F_8				!
+gg Er_8 'e Cl_16 strlg Cl_8				gg Cr_16 El_8 'e Cl_8			!
+dbhg HG_4 'hg						dbha HA_4					''!I
+
+
+
+
+
+"4th part"
+
+& sharpf sharpc I!'' '1 F_8 _' '2 dbhg HG_8 _'	!
+HA_4		grp HA_8					HGr_16 tg LAl_8 'la HGl_8		!
+hdbf F_4		HA_8					hdbe E_4		C_8				!
+gbr LA_4		HA_8					strhg HA_4	grp HA_8			!
+hdbe E_4 'e							strla Er_8 Fr_8 HGl_8			!t
+
+
+& sharpf sharpc 	'1
+HA_4		grp HA_8					HGr_16 tg LAl_8 'la HGl_8		!
+hdbf F_4		HA_8					hdbe E_4		C_8				!
+dbb B_4		HG_8					tg HGr_8 'hg Fl_16 HGl_8		!
+thrd D_4 'd							lgstd D_4				_'		''!I
+
+
+
+& sharpf sharpc 	'2
+HAr_8 HGr_8 Fl_8						dbhg HG_4	E_8				!
+gg Fr_16 HAl_8 'ha Fl_8					dbe E_4	C_8					!
+dbb B_4		HG_8					tg HGr_8 'hg Fl_16 HGl_8		!
+thrd D_4 'd							lgstd D_4			_'		!I
+

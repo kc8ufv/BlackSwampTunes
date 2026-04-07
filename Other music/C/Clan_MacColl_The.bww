@@ -1,0 +1,80 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Converted from  BMW Dos file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+"The Clan MacColl",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"John MacColl",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+" ",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+TuneTempo,84
+
+
+& sharpf sharpc 2_4 I!'' gg Er_16 'e Dl_32
+I!	dbc Cr_8 gg Dr_16 'd Bl_32			gg LAr_32 dg LAl_16 'la gg Cr_32 El_16 'e
+!	dbha HAr_8 Cr_16 'c Dl_32			dbe Er_8 dbd Dr_16 'd Cl_32
+!	thrd Dr_8 eg LGl_8				gg LGr_32 dg LGr_16 'lg gg Br_32 El_16 'e
+!	dbd Dr_16 'd Cl_32 gg Bl_16 'b Cl_32		thrd Dr_8 gg Er_16 'e Dl_32
+!t
+& sharpf sharpc	dbc Cr_8 gg Dr_16 'd Bl_32			gg LAr_32 dg LAl_16 'la gg Cr_32 El_16 'e
+!	dbha HAr_8 Cr_16 'c Dl_32			dbe Er_8 dbd Dr_16 'd Cl_32
+!	gg Br_32 dg LGr_16 'lg gg Br_32 Dl_16 'd	gg Cr_32 Er_16 'e gg Fr_16 'f El_32
+!	dbc Cr_8 dg LAl_8				brl LA_8
+''!I
+
+& sharpf sharpc
+I!'' gg Cr_16 'c Dl_32
+!	gg Er_8 gg Fr_16 'f HGl_32			dbha HAr_8 HGr_32 tg El_16 'e
+!	dbhg HGr_8 HAr_16 'ha Fl_32			dbe Er_8 dbd Dr_16 'd Cl_32
+!	thrd Dr_8 eg LGl_8				gg LGr_32 dg LGr_16 'lg gg Br_32 El_16 'e
+!	dbd Dr_16 'd Cl_32 gg Bl_16 'b Cl_32	thrd Dr_8 gg Cr_16 'c Dl_32
+!t
+& sharpf sharpc	dbe Er_8 gg Cr_32 dg LAl_16 'la		dbha HAr_8 HGr_32 tg El_16 'e
+!	dbhg HGr_8 HAr_16 'ha Fl_32			dbe Er_8 dbd Dr_16 'd Cl_32
+!	gg Br_32 dg LGr_16 'lg gg Br_32 Dl_16 'd	gg Cr_32 Er_16 'e gg Fr_16 'f El_32
+!	dbc Cr_8 dg LAl_8				brl LA_8
+''!I
+
+& sharpf sharpc I!'' gg Er_16 'e Cl_32	
+!	gg LAr_8 tar LAr_16 'la Cl_32			gg LAr_32 Er_16 'e gg LAr_16 'la dg Cl_32
+!	gg Cr_32 HAr_16 'ha Cr_16 'c Dl_32		dbe Er_8 dbd Dr_16 'd Cl_32
+!	gg Br_32 Dr_16 'd gg Cr_32 El_16 'e		gg Br_32 Dr_16 'd gg LGr_16 'lg dg Bl_32
+!	gg Br_32 HGr_8 'hg tg Br_16 'b Cl_32	thrd Dr_8 gg Er_16 'e Cl_32
+!t
+& sharpf sharpc	gg LAr_8 tar LAr_16 'la Cl_32			gg LAr_32 Er_16 'e gg LAr_16 'la dg Cl_32
+!	gg Cr_32 HAr_16 'ha Cr_16 'c Dl_32		dbe Er_8 dbd Dr_16 'd Cl_32
+!	gg Br_32 dg LGr_16 'lg gg Br_32 Dl_16 'd	gg Cr_32 Er_16 'e gg Fr_16 'f El_32
+!	dbc Cr_8 dg LAl_8				brl LA_8
+''!I
+
+& sharpf sharpc I!'' gg Cr_16 'c Dl_32
+!	dbe Er_16 'e Cl_32 HAr_16 'ha Fl_32		dbe Er_16 'e LAr_32 gg Cl_32 El_16 'e
+!	gg Er_32 HAr_16 'ha Cr_16 'c Dl_32		dbe Er_8 dbd Dr_16 'd Cl_32
+!	gg Br_32 Dr_16 'd gg Cr_32 El_16 'e		dbd Dr_16 'd LGr_32 gg Bl_32 Dl_16 'd
+!	gg Dr_32 HGr_16 'hg Br_16 'b Cl_32		thrd Dr_8 gg Cr_16 'c Dl_32
+!t
+& sharpf sharpc '1	dbe Er_16 'e Cl_32 HAr_16 'ha Fl_32		dbe Er_16 'e LAr_32 gg Cl_32 El_16 'e
+!	dbhg HGr_8 HAr_16 'ha Fl_32			dbe Er_8 dbd Dr_16 'd Cl_32
+!	gg Br_32 dg LGr_16 'lg gg Br_32 Dl_16 'd	gg Cr_32 Er_16 'e gg Fr_16 'f El_32
+!	dbc Cr_8 dg LAl_8				brl LA_8 _'
+''!I
+& sharpf sharpc '2	dbe Er_16 'e Cl_32 dbd Dr_16 'd Bl_32	gg Cr_32 dg LAl_16 'la gg Cr_32 El_16 'e
+!	dbhg HGr_8 HAr_16 'ha Fl_32			dbe Er_8 dbd Dr_16 'd Cl_32
+!	gg Br_32 dg LGr_16 'lg gg Br_32 Dl_16 'd	gg Cr_32 Er_16 'e gg Fr_16 'f El_32
+!	dbc Cr_8 dg LAl_8				brl LA_8 _'
+!I

@@ -1,0 +1,38 @@
+Bagpipe Music Writer Gold:1.0
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+InstrumentMappings,(71,71,45,33,1000,60,70)
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,100,80,250)
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+TuneTempo,90
+
+"Jingle Bells",(T,C,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+"March - Christmas Carol",(Y,L,0,0,Times New Roman,12,700,255,0,18,0,0,0)
+"Traditional",(M,R,0,0,Times New Roman,12,700,255,0,18,0,0,0)
+"",(F,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+
+& sharpf sharpc 4_4	space
+	gg Cr_8 strlg Cl_8		dbc C_4				gg Cr_8 strlg Cl_8		dbc C_4
+!	dbc Cr_8 El_8			LAr_8 'la Bl_16		grp C_2 space
+!	gg Dr_8 strc Dl_8		gg Dr_8 'd El_16		thrd Dr_8 Cl_8			strlg C_4
+!	dbc Cr_8 Bl_8			strlg Br_8 'b Cl_16		B_4					E_4				!I
+
+& sharpf sharpc	space
+	gg Cr_8 strlg Cl_8		dbc C_4				gg Cr_8 strlg Cl_8		dbc C_4
+!	dbc Cr_8 El_8			LAr_8 'la Bl_16		grp C_2 space
+!	gg Dr_8 strc Dl_8		gg Dr_8 'd El_16		thrd Dr_8 Cl_8			strlg C_4
+!	dbe Er_8 strlg El_8		Dr_8 Bl_8			strlg LA_4 			brl LA_4			!I
+
+& sharpf sharpc	space
+	dbla LAr_8 gg Fl_8		Er_8 Dl_8			LA_2 space
+!	dbla LAr_8 gg Fl_8		Er_8 Dl_8			B_2 space
+!	dbb Br_8 HGl_8		Fr_8 El_8				C_2 space
+!	HAr_8 gg HAl_8		strf HGr_8 El_8		F_2 space							!I
+
+& sharpf sharpc	space
+	dbla LAr_8 gg Fl_8		Er_8 Dl_8			LA_2 space
+!	dbla LAr_8 gg Fl_8		Er_8 Dl_8			B_2 space
+!	dbb Br_8 HGl_8		Fr_8 El_8				HAr_8 gg HAl_8		gg HA_4
+!	gg HAr_8 strf HGl_8	Fr_8 El_8				thrd D_4				gstd D_4			!I

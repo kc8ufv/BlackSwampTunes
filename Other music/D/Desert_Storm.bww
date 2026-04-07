@@ -1,0 +1,72 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Converted from  BMW Dos file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+"Desert Storm",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Hornpipe",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Robert B. Mathieson",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Shotts & Dykehead (transcribed from CD by Bill Boxall)",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+TuneTempo,94
+
+
+& sharpf sharpc 2_4 I!''
+	gg Er_8 strla El_8				gbr LAr_8 eg LAl_8
+!	gg Er_16 Dr_16 Er_16 tg HGl_16 ^thg		HGr_16 Fr_16 gg Er_16 Dl_16
+!	dbe Er_8 gg Dr_16 El_16 			abr LAr_8 El_8
+!	gg Dr_16 Br_16 Dr_16 LGl_16 ^tlg		LGr_16 Er_16 gg Dr_16 Bl_16 ^tb !t
+
+& sharpf sharpc !	^tb Br_16 Er_16 strla Er_16 Fl_16		gbr LAr_8 eg LAl_8
+!	gg Er_16 Dr_16 Er_16 dbha HAl_16 ^tha		HAr_16 HGr_8 El_16
+!	gg Dr_16 Br_16 Dr_16 tg HGl_16 ^thg		HGr_16 Er_16 gg Dr_16 Bl_16
+!	gg Dr_16 El_16 gg LAl_8 			brl LA_4 ''!I
+
+& sharpf sharpc I!''	gg Er_8 strla El_8				HAr_8 strhg HAr_16 HGl_16 ^thg
+!	HGr_16 Er_16 gg Fr_16 Dl_16			gg Er_16 LAr_16 gg Br_16 Dl_16
+!	dbe Er_8 gg Dr_16 El_16 			gbr LAr_8 Er_16 gg Dl_16 ^td
+!	Dr_16 Er_16 gg Dr_16 Bl_16			gg LGr_16 dg LGr_16 gg Br_16 Dl_16 !t
+
+& sharpf sharpc !	'1 gg Er_8 strla El_8				HAr_8 strhg HAr_16 HGl_16 ^thg
+!	HGr_16 Er_16 gg Fr_16 Dl_16			dbe Er_8 gg Dr_16 Bl_16
+!	gg LGr_16 Br_16 Dr_16 tg HGl_16 ^thg		HGr_16 Er_16 gg Dr_16 Bl_16
+!	gg Dr_16 El_16 gg LAl_8 			brl LA_4 _' ''!I
+
+& sharpf sharpc !	'2 gg Er_8 strla El_8				gbr LAr_8 eg LAl_8
+!	gg Er_16 Dr_16 Er_16 dbha HAl_16 ^tha		HAr_16 HGr_8 El_16
+!	gg Dr_16 Br_16 Dr_16 tg HGl_16 ^thg		HGr_16 Er_16 gg Dr_16 Bl_16
+!	gg Dr_16 El_16 gg LAl_8 			brl LA_4 _' !I
+
+& sharpf sharpc I!''	gg Er_16 Dr_16 Er_16 gbr LAl_16 ^tla		LAr_8 Er_16 gbr LAl_16 ^tla
+!	LAr_16 Er_16 strla Er_16 Fl_16			tg HGr_16 Fr_16 gg Er_16 Dl_16
+!	gg Er_16 Dr_16 Er_16 gbr LAl_16 ^tla		LAr_8 Er_16 gbr LAl_16
+!	gg Dr_16 strlg Dr_16 gg Br_16 Dl_16		tg HGr_16 Er_16 gg Dr_16 Bl_16 !t
+
+& sharpf sharpc !	'24 gg Er_16 Dr_16 Er_16 gbr LAl_16 ^tla	LAr_8 Er_16 gbr LAl_16 ^tla
+!	LAr_16 Er_16 strla Er_16 Fl_16			dbhg HGr_8 tg Fr_16 El_16
+!	gg Dr_16 Br_16 Dr_16 tg HGl_16 ^thg		HGr_16 Er_16 gg Dr_16 Bl_16
+!	gg Dr_16 El_16 gg LAl_8 			brl LA_4 _' ''!I
+
+& sharpf sharpc I!''	dbha HAr_8 El_8 				strla Er_8 dbhg HGl_8
+!	HAr_16 Er_16 HAr_16 HGl_16 ^thg 		HGr_16 Er_16 gg Dr_16 Bl_16
+!	dbhg HGr_8 tg Fr_16 HGl_16			tg Br_16 Er_16 HGr_16 tg HGl_16 ^thg
+!	HGr_16 Br_16 strlg Br_16 HGl_16 		Br_16 Dr_16 HGr_16 El_16 !t
+
+& sharpf sharpc !	'1 dbha HAr_8 strhg HAl_8			HGr_16 Er_16 gg Dr_16 Bl_16
+!	gg Dr_16 HGr_16 Fr_16 dbe El_16 ^te		Er_16 gg Dr_8 Bl_16
+!	gg LGr_16 Br_16 Dr_16 tg HGl_16 ^thg		HGr_16 Er_16 gg Dr_16 Bl_16
+!	gg Dr_16 El_16 gg LAl_8 			brl LA_4 _' ''!I

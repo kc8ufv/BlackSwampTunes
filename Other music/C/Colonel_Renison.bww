@@ -1,0 +1,74 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,100,100)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,60,100,250)
+
+TuneFormat,(1,0,M,L,500,500,550,500,L,1,0)
+
+TuneTempo,74
+
+"Colonel Renison",(T,C,0,0,BernhardMod BT,36,700,0,0,18,0,0,0)
+"March",(Y,L,0,0,Times New Roman,14,700,255,0,18,0,0,0)
+"Chris Eyre       ",(M,R,0,0,Times New Roman,14,700,255,0,18,0,0,0)
+
+& sharpf sharpc  2_4 I!''   gg Br_32 Dl_16 'd
+!  dbe Er_8 strla Er_16 'e Dl_32				dbe Er_8 abr LAl_8  space	
+! dbhg HGr_8 HAr_16 'ha El_32				gg Er_8 dbhg HGl_8 space
+! tg LGr_16 'lg dg Bl_32 gg Br_16 'b Dl_32		gg Dr_16 'd LGr_32 gg LGl_32 dg Bl_16 'b
+!gg Br_32 Dr_16 'd dbd Dr_16 'd El_32			dbe Er_8 gg LGl_8 space !t
+
+& sharpf sharpc   space space space space space space space space
+  dbe Er_8 strla Er_16 'e Dl_32				dbe Er_8 abr LAl_8 space	
+! dbhg HGr_8 HAr_16 'ha El_32				gg Er_8 dbhg HGl_8 space
+! space Dr_16 'd gg Dr_32 strc Dl_32 El_16 'e	dbb Br_8 gg Br_32 dg LGl_16 'lg
+! gg LA_4 space space space space			brl LA_8 space space space space space ''!I
+
+"2"
+
+& sharpf sharpc   I!''  gg Er_32 HGl_16 'hg 
+!  dbha HA_4 space space					Er_16 'e HAr_32 HGl_32 tg El_16 'e
+! gg Er_16 'e HAr_32 gg HAl_32 HGl_16 'hg 		hdbe Er_8 abr LAl_8 space	
+! dbhg HGr_16 'hg Dr_32 gg Dl_32 HGl_16 'hg	hdbe Er_8 Dl_8 space
+!gg Br_32 Dr_16 'd dbd Dr_16 'd El_32			dbe Er_8 gg LGl_8 space !t
+
+& sharpf sharpc   space space space space space space space space
+  dbha HA_4 space space					Er_16 'e HAr_32 HGl_32 tg El_16 'e
+! gg Er_16 'e HAr_32 gg HAl_32 HGl_16 'hg 		hdbe Er_8 abr LAl_8 space	
+! space Dr_16 'd gg Dr_32 strc Dl_32 El_16 'e	dbb Br_8 gg Br_32 dg LGl_16 'lg
+! gg LA_4 space space space space			brl LA_8 space space space space space ''!I
+
+"3" 
+
+& sharpf sharpc  I!''   gg Br_32 Dl_16 'd
+!  dbe Er_16 'e Dr_32 gg Dl_32 El_16 'e		gg Br_16 'b Er_32 gg El_32 Dl_16 'd
+! dbhg HGr_8 HAr_16 'ha El_32				tg HGr_16 'hg Er_32 gg El_32 Dl_16 'd
+! gg LGr_16 'lg Br_32 gg Bl_32 Dl_16 'd		gg Dr_16 'd Er_32 gg El_32 Bl_16 'b
+!gg Br_32 Dr_16 'd dbd Dr_16 'd El_32			dbe Er_8 gg LGl_8 space !t
+
+& sharpf sharpc   space space space space space space space space
+  dbe Er_16 'e Dr_32 gg Dl_32 El_16 'e			gg Br_16 'b Er_32 gg El_32 Dl_16 'd
+! dbhg HGr_8 HAr_16 'ha El_32				tg HGr_16 'hg Er_32 gg El_32 HGl_16 'hg
+! space Dr_16 'd gg Dr_32 strc Dl_32 El_16 'e	dbb Br_8 gg Br_32 dg LGl_16 'lg
+! gg LA_4 space space space space			brl LA_8 space space space space space ''!I
+
+"4" 
+
+& sharpf sharpc I!''   dbhg HG_8
+!  space HAr_8 grp HAr_16 'ha HGl_32			dbha HAr_8 abr LAl_8 
+! gg Er_32 HAr_16 'ha HGr_32 tg El_16 'e		dbe Er_8 abr LAl_8  space	
+! dbhg HGr_16 'hg HAr_32  HGl_32 tg El_16 'e	thrd Dr_8 eg LGl_8 space
+!gg Br_32 Dr_16 'd dbd Dr_16 'd El_32			dbe Er_8 gg LGl_8 space !t
+
+& sharpf sharpc   space space space space space space space space
+  space HAr_8 grp HAr_16 'ha HGl_32			dbha HAr_8 abr LAl_8 
+! gg Er_32 HAr_16 'ha HGr_32 tg El_16 'e		dbe Er_8 abr LAl_8  space	
+! space Dr_16 'd gg Dr_32 strc Dl_32 El_16 'e	dbb Br_8 gg Br_32 dg LGl_16 'lg
+! gg LA_4 space space space space			brl LA_8 space space space space space ''!I
+

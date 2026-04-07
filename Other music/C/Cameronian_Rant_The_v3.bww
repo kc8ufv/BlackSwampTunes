@@ -1,0 +1,123 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,C,500,500,500,500,L,1,0)
+
+TuneTempo,100
+
+"The Cameronian Rant",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Strathspey",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Arr. D. MacLeod",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Standard Settings of Pipe Music Volume 2 - Page 74",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc
+
+C
+
+I!	E_8
+!	thrd Dr_16 eg LGl_8 'lg				^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te			dc Dr_16 eg LGl_8 'lg			dbb Br_16 HGl_8 'hg
+!	thrd Dr_16 eg LGl_8 'lg				^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te			dc D_4						dbe Er_8 'e Dl_16
+!	dbc Cr_16 eg LAl_8 'la				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te				dbc Cr_16 eg LAl_8 'la			dbb Br_16 HAl_8 'ha
+!	hdbc Cr_16 eg LAl_8 'la				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te				thrd D_4						dbb Br_16 HGl_8 'hg				!t
+
+& sharpf sharpc
+	thrd Dr_16 eg LGl_8 'lg				^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te			dc Dr_16 eg LGl_8 'lg			dbb Br_16 HGl_8 'hg
+!	thrd Dr_16 eg LGl_8 'lg				dbb Br_16 eg LGl_8 'lg						dc Dr_16 Fl_8 'f				gg ^ts Fr_8 Er_8 Dl_8 ^te
+!	dbc Cr_16 eg LAl_8 'la				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te				dbc Cr_16 eg LAl_8 'la			dbb Br_16 eg LAl_8 'la
+!	dbc Cr_16 eg LAl_8 'la				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te				thrd D_4						dbc Cr_16 eg Bl_8 'b				!I
+
+& sharpf sharpc
+I!	gg LGr_8 'lg dg Bl_16				dbhg HGr_8 'hg HAl_16						^ts HGr_8 Fr_8 El_8 ^te			thrd Dr_8 'd Bl_16
+!	gg LGr_8 'lg dg Bl_16				dbhg HGr_8 'hg HAl_16						^ts HGr_8 Fr_8 El_8 ^te			thrd Dr_8 'd Bl_16
+!	gbr LA_4							dbha HAr_8 'ha HGl_16						HAr_8 'ha LAl_16				dbe Er_8 'e Cl_16
+!	gbr LA_4							dbha HAr_8 'ha HGl_16						HAr_8 'ha LAl_16				dbe Er_8 'e Dl_16					!t
+
+& sharpf sharpc
+	gg LGr_8 'lg dg Bl_16				dbhg HGr_8 'hg HAl_16						^ts HGr_8 Fr_8 El_8 ^te			thrd Dr_8 'd Bl_16
+!	^ts gg LGr_8 LAr_8 Bl_8 ^te			dbhg HGr_8 'hg Dl_16						dbb B_4						gg LGr_8 'lg HGl_16
+!	^ts tg Fr_8 HGr_8 HAl_8 ^te			hdbe Er_8 'e HGl_16						^ts tg Fr_8 HGr_8 HAl_8 ^te		hdbe Er_8 'e Fl_16
+!	dbhg HGr_8 'hg El_16				dbha HAr_8 'ha El_16						dbhg HGr_16 HAl_8 'ha			^ts HGr_8 Fr_8 El_8 ^te				!I
+
+& sharpf sharpc
+I!	thrd Dr_16 eg LGl_8 'lg				dbhg HGr_16 tg LGl_8 'lg					dc Dr_16 eg LGl_8 'lg			^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te
+!	dc Dr_16 eg LGl_8 'lg				^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te			dc D_4						dbe Er_8 'e Dl_16
+!	dbc Cr_16 eg LAl_8 'la				dbha HAr_8 'ha El_16						dbc Cr_16 eg LAl_8 'la			^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te
+!	dbc Cr_16 eg LAl_8 'la				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te				thrd D_4						dbb Br_16 HGl_8 'hg				!t
+
+& sharpf sharpc
+	thrd Dr_16 eg LGl_8 'lg				dbhg HGr_16 tg LGl_8 'lg					dc Dr_16 eg LGl_8 'lg			^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te
+!	dc Dr_16 eg LGl_8 'lg				^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te			dc Dr_16 Fl_8 'f				^ts gg Fr_8 Er_8 Dl_8 ^te
+!	dbc Cr_16 eg LAl_8 'la				thrd Dr_16 eg Bl_8 'b						dbc Cr_16 eg LAl_8 'la			^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te
+!	dbc Cr_16 eg LAl_8 'la				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te				thrd D_4						dbc Cr_16 eg Bl_8 'b				!I
+
+& sharpf sharpc
+I!	gg LGr_8 'lg dg Bl_16				dbhg HGr_8 'hg HAl_16						^ts HGr_8 Fr_8 El_8 ^te			dbhg HGr_8 'hg Bl_16
+!	gg LGr_8 'lg dg Bl_16				dbhg HGr_8 'hg HAl_16						^ts HGr_8 Fr_8 El_8 ^te			dbhg HGr_8 'hg Bl_16
+!	gbr LAr_16 HAl_8 'ha				strhg HAr_8 'ha LAl_16						^ts HAr_8 HGr_8 Fl_8 ^te			dbe Er_8 'e Cl_16
+!	gbr LAr_16 HAl_8 'ha				strhg HAr_8 'ha LAl_16						^ts HAr_8 HGr_8 Fl_8 ^te			dbe Er_8 'e Dl_16					!t
+
+& sharpf sharpc
+	gg LGr_8 'lg dg Bl_16				dbhg HGr_8 'hg HAl_16						^ts HGr_8 Fr_8 El_8 ^te			dbhg HGr_8 'hg Dl_16
+!	dbe Er_8 'e HGl_16					^ts tg Fr_8 Er_8 Dl_8 ^te						dbb B_4						eg LGr_8 'lg HGl_16
+!	^ts tg Fr_8 HGr_8 HAl_8 ^te			hdbe Er_8 'e HGl_16						^ts tg Fr_8 HGr_8 HAl_8 ^te		hdbe Er_8 'e Fl_16
+!	dbhg HGr_8 'hg El_16				dbha HAr_8 'ha El_16						dbhg HGr_16 HAl_8 'ha			^ts HGr_8 Fr_8 El_8 ^te				!I
+
+& sharpf sharpc
+I!	thrd Dr_16 eg LGl_8 'lg				^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te			dc Dr_16 eg LGl_8 'lg			dbb Br_16 eg LGl_8 'lg
+!	dc Dr_16 eg LGl_8 'lg				^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te			dc Dr_16 eg LGl_8 'lg			dbb Br_16 eg LGl_8 'lg
+!	dbc Cr_16 eg LAl_8 'la				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te				dbc Cr_16 eg LAl_8 'la			dbb Br_16 eg LAl_8 'la
+!	dbc Cr_16 eg LAl_8 'la				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te				dbc Cr_16 eg LAl_8 'la			dbb Br_16 eg LAl_8 'la				!t
+
+& sharpf sharpc
+	thrd Dr_16 eg LGl_8 'lg				^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te			dc Dr_16 eg LGl_8 'lg				dbb Br_16 eg LGl_8 'lg
+!	dc Dr_16 eg LGl_8 'lg				^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te			^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te	dbb Br_16 eg LGl_8 'lg
+!	dbc Cr_16 eg LAl_8 'la				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te		dbc Cr_16 eg LAl_8 'la
+!	^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te		dbc Cr_16 eg LAl_8 'la						thrd Dr_8 'd Cl_16					dbb Br_8 'b LAl_16				!I
+
+& sharpf sharpc
+I!	gg LGr_8 'lg Bl_16					thrd Dr_8 'd Bl_16							dbhg HGr_8 'hg Bl_16				thrd Dr_8 'd Bl_16
+!	gg LGr_8 'lg Bl_16					thrd Dr_8 'd Bl_16							dbhg HGr_8 'hg Bl_16				thrd Dr_8 'd Bl_16
+!	gg LAr_8 'la dg Cl_16				dbe Er_8 'e Cl_16							dbha HAr_8 'ha LAl_16				dbe Er_8 'e Cl_16
+!	gg LAr_8 'la dg Cl_16				dbe Er_8 'e Cl_16							dbha HAr_8 'ha LAl_16				dbe Er_8 'e Dl_16				!t
+
+& sharpf sharpc
+	gg LGr_8 'lg Bl_16					thrd Dr_8 'd Bl_16							dbhg HGr_8 'hg Bl_16				thrd Dr_8 'd Bl_16
+!	gg LGr_8 'lg Bl_16					thrd Dr_8 'd HGl_16						tdbf F_4							thrd Dr_8 'd HGl_16
+!	^ts tg Fr_8 HGr_8 HAl_8 ^te			hdbe Er_8 'e HGl_16						^ts tg Fr_8 HGr_8 HAl_8 ^te			hdbe Er_8 'e Fl_16
+!	dbhg HGr_8 'hg El_16				dbha HAr_8 'ha El_16						dbhg HGr_8 'hg HAl_16				^ts HGr_8 Fr_8 El_8 ^te			!I
+
+& sharpf sharpc
+I!	thrd Dr_16 eg Bl_8 'b				^ts gg Br_8 dg Br_8 eg Bl_8 ^te				dbhg HGr_8 'hg Bl_16				thrd Dr_16 eg Bl_8 'b
+!	thrd Dr_16 eg Bl_8 'b				^ts gg Br_8 dg Br_8 eg Bl_8 ^te				dbhg HGr_8 'hg Bl_16				thrd Dr_16 eg Bl_8 'b
+!	dbc Cr_16 eg LAl_8 'la				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te				dbha HAr_8 'ha El_16				dbc Cr_16 eg LAl_8 'la
+!	dbc Cr_16 eg LAl_8 'la				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te				dbha HAr_8 'ha El_16				dbc Cr_16 eg LAl_8 'la			!t
+
+& sharpf sharpc
+	thrd Dr_16 eg Bl_8 'b				^ts gg Br_8 dg Br_8 eg Bl_8 ^te				dbhg HGr_8 'hg El_16				thrd Dr_16 eg Bl_8 'b
+!	thrd Dr_16 eg Bl_8 'b				^ts gg Br_8 dg Br_8 eg Bl_8 ^te				^ts gg Br_8 dg Br_8 eg Bl_8 ^te		thrd Dr_16 eg Bl_8 'b
+!	dbc Cr_16 eg LAl_8 'la				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te				^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te		dbc Cr_16 eg LAl_8 'la
+!	^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te		dbc Cr_16 eg LAl_8 'la						thrd Dr_8 'd Cl_16					dbb Br_8 'b LAl_16				!I
+
+& sharpf sharpc	
+I!	^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te	dbhg HGr_8 'hg HAl_16						^ts HGr_8 Fr_8 El_8 ^te				dbhg HGr_8 'hg Bl_16
+!	^ts gg LGr_8 dg LGr_8 eg LAl_8 ^te	dbhg HGr_8 'hg HAl_16						^ts HGr_8 Fr_8 El_8 ^te				dbhg HGr_8 'hg Bl_16
+!	^ts gg LAr_8 dg LAr_8 eg LAl_8 ^te		dbha HAr_8 'ha LAl_16						^ts HAr_8 HGr_8 Fl_8 ^te				dbe Er_8 'e Dl_16
+!	gg Cr_16 grp El_8 'e				dbha HAr_8 'ha LAl_16						^ts HAr_8 HGr_8 Fl_8 ^te				dbe Er_8 'e Dl_16				!t
+
+& sharpf sharpc
+	^ts gg LGr_8 dg LGr_8 eg LGl_8 ^te	dbhg HGr_8 'hg HAl_16						^ts HGr_8 Fr_8 El_8 ^te				dbhg HGr_8 'hg Bl_16
+!	^ts Er_8 Fr_8 HGl_8 ^te				^ts tg Fr_8 Er_8 Dl_8 ^te						dbb B_4							gg LGr_8 'lg HGl_16
+!	^ts tg Fr_8 HGr_8 HAl_8 ^te			hdbe Er_8 'e HGl_16						^ts tg Fr_8 HGr_8 HAl_8 ^te			hdbe Er_8 'e Fl_16
+!	dbhg HGr_8 'hg El_16				dbha HAr_8 'ha El_16						dbhg HGr_8 'hg HAl_16				^ts HGr_8 Fr_8 El_8 ^te			!I

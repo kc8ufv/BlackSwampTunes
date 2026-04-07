@@ -1,0 +1,57 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(109,109,46,34,1000,100,70)
+
+GracenoteDurations,(28,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(100,100,60,100,250)
+
+TuneFormat,(1,0,F,L,500,500,500,500,P,0,0)
+
+TuneTempo,130
+
+"FOOTERING ABOUT",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+
+"Strathspey",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+"Iain Sherwood 1998",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+"",(F,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+
+
+& sharpf sharpc	C	
+I! 	gg LAr_8 'la Bl_16	gg Cr_16 dg LAl_8 'la	gg Br_16 dg Bl_8 'b	gg Br_16 dg LGl_8 'lg
+!	gg LAr_8 'la Bl_16	gg Cr_16 dg LAl_8 'la	gg Br_16 dg Bl_8 'b	gg Br_16 HAl_8 'ha
+!	LAr_8 'la Bl_16	gg Cr_16 dg LAl_8 'la	gg Br_16 dg Bl_8 'b	gg Br_16 dg LGl_8 'lg
+!	dbd Dr_8 'd Bl_16	gg Cr_16 dg LAl_8 'la	gg Br_16 dg Bl_8 'b	gg Br_16 HAl_8 'ha	!t
+
+
+& sharpf sharpc
+!	LAr_8 'la Bl_16	gg Cr_16 dg LAl_8 'la	dbe Er_8 'e Bl_16	gg Cr_16 dg LAl_8 'la
+!	gg LAr_8 'la Bl_16	gg Cr_16 dg LAl_8 'la	gg Br_16 dg Bl_8 'b	gg Br_16 HAl_8 'ha
+!	LAr_8 'la Bl_16	gg Cr_16 dg LAl_8 'la	thrd Dr_8 'd Cl_16	gg Br_16 dg LGl_8 'lg
+!	dbb Br_8 'b LAl_16	gg LGr_8 'lg dg LAl_16	gg Br_16 dg Bl_8 'b	dbha HA_4	!I
+
+
+& sharpf sharpc
+I!	hdbe Er_8 'e Bl_16	gg Cr_16 dg LAl_8 'la	gg Br_16 dg Bl_8 'b	gg Br_16 dg LGl_8 'lg
+!	dbe Er_8 'e Bl_16	gg Cr_16 dg LAl_8 'la	gg Br_16 dg Bl_8 'b	gg Br_16 HAl_8 'ha
+!	hdbe Er_8 'e Bl_16	gg Cr_16 dg LAl_8 'la	dbha HAr_8 'ha LAl_16	gg Cr_16 dg LAl_8 'la
+!	thrd Dr_8 'd Bl_16	gg Cr_16 dg LAl_8 'la	gg Br_16 dg Bl_8 'b	gg Br_16 HAl_8 'ha	!t
+
+
+
+
+& sharpf sharpc
+!	hdbe Er_8 'e Bl_16	gg Cr_16 dg LAl_8 'la	dbha HAr_8 'ha LAl_16	gg Cr_16 dg LAl_8 'la
+!	dbe Er_8 'e Bl_16	gg Cr_16 dg LAl_8 'la	gg Br_16 dg Bl_8 'b	gg Br_16 HAl_8 'ha
+!	dbe Er_8 'e Bl_16	gg Cr_16 dg LAl_8 'la	thrd Dr_8 'd Cl_16	gg Br_16 dg LGl_8 'lg
+!	dbb Br_8 'b LAl_16	gg LGr_8 'lg dg LAl_16	gg Br_16 dg Bl_8 'b	dbha HA_4	!I

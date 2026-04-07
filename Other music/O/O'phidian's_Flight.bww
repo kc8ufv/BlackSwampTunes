@@ -1,0 +1,81 @@
+Bagpipe Reader:1.0
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+InstrumentMappings,(71,71,46,34,1000,30,50)
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(80,90,100,70,250)
+
+TuneFormat,(1,0,M,L,1500,1000,1000,1000,L,0,0)
+TuneTempo,150
+
+"O'Phidian's Flight",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+"Jig",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"DN Siegel",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"O'PHIDIAN'S FLIGHT (c) 2004 David N. Siegel. POB 9647, Karmiel 21901, The Galilee, Israel.",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+"Tie=Erse Slur",(I,L,0,0,Times New Roman,8,I,700,0,0,0,0,0,0)
+
+& sharpf sharpc   6_8 I!''  
+E_8 !  
+Fr_8   gg  Cl_8    ^ts Dl_8    	   E_4 ^te   ^ts C_8 !
+D_4 ^te  E_8     gg F_4 HA_8 !
+Fr_8 gg El_8 HAl_8   	Cr_8 dg Bl_8  LAl_8    !
+gg Br_8  dg Bl_8 eg Bl_8  	dbf F_4  HA_8  !t
+
+& sharpf sharpc 
+Fr_8   gg  Cl_8    ^ts Dl_8    	   E_4 ^te   ^ts C_8 !
+D_4 ^te  E_8     gg F_4 HG_8 !
+HAr_8 Dr_8 eg   ^ts Bl_8		Cr_8 ^te  Fl_8  gg El_8 !
+gg LGr_8 dg LAl_8 eg LAl_8	brl LA_4 
+''!I
+
+" 2nd "
+& sharpf sharpc I!''  E_8 ! 
+gg Dr_8  Fl_8  El_8 	 strla  Er_8 LAr_8 gg LAl_8   !
+Fr_8 gg  Bl_8  ^ts Cl_8      	  D_4 ^te HA_8   !
+Fr_8 gg El_8 HAl_8   	Cr_8 dg Bl_8  LAl_8    !
+gg Br_8  dg Bl_8 eg Bl_8  	dbf F_4  HA_8  !t
+
+& sharpf sharpc 
+Dr_8  Fl_8  El_8 	 strla  Er_8 LAr_8 gg LAl_8   !
+Fr_8 gg  Bl_8  ^ts Cl_8      	  D_4 ^te E_8   !
+HAr_8  Dr_8  eg ^ts Bl_8		Cr_8 ^te  Fl_8  gg El_8 !
+gg LGr_8 dg LAl_8 eg LAl_8	brl LA_4 
+''!I
+
+" 3rd "
+& sharpf sharpc I!''  E_8 ! 
+gg  LA_4 ^ts B_8		Cr_8 ^te  HAl_8 gg   HAl_8   !
+Er_8 gg Fl_8   HAl_8      	   ^ts Br_8  Cr_8 ^te  HAl_8  !
+Fr_8 gg El_8 HAl_8   	Cr_8 dg Bl_8  LAl_8    !
+gg Br_8  dg Bl_8 eg Bl_8  	dbf F_4  HA_8  !t
+
+& sharpf sharpc 
+gg LA_4 ^ts B_8		Cr_8 ^te  HAl_8 gg   HAl_8   !
+Er_8 gg Fl_8   HAl_8      	   ^ts Br_8  Cr_8 ^te  HAl_8  !
+gg HAr_8  Dr_8 eg ^ts Bl_8		Cr_8 ^te  Fl_8  gg El_8 !
+gg LGr_8 dg LAl_8 eg LAl_8	brl LA_4 
+''!I
+
+" 4th "
+
+& sharpf sharpc I!''  E_8 ! 
+Cr_8 dg LAl_8 ^ts Cl_8   	  D_4 ^te   F_8    !
+gg ^ts B_4 C_8  ^te 	 HA_4 E_8  !
+Fr_8 gg El_8 HAl_8   	Cr_8 dg Bl_8  LAl_8    !
+gg Br_8  dg Bl_8 eg Bl_8  	dbf F_4  HA_8  !t
+
+& sharpf sharpc 
+'1 Cr_8 dg LAl_8 ^ts Cl_8   	  D_4 ^te   F_8    !
+gg ^ts B_4 C_8  ^te 	 HA_4 E_8  !
+HAr_8   Dr_8 eg ^ts Bl_8		Cr_8 ^te  Fl_8  gg El_8 !
+gg LGr_8 dg LAl_8 eg LAl_8	brl LA_4 _'
+''!I
+
+
+& sharpf sharpc 
+'24   Fr_8 gg El_8 HAl_8   	  Er_8    gg Cl_8  HAl_8    !
+Cr_8   dg LAl_8  El_8 	 gg ^ts  B_4  C_8 ^te !
+HAr_8   Dr_8 eg ^ts Bl_8		Cr_8 ^te  Fl_8  gg El_8 !
+gg LGr_8 dg LAl_8 eg LAl_8	brl LA_4 _'
+!I
+" ==================================== "

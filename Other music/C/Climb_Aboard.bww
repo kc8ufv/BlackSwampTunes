@@ -1,0 +1,58 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,70,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,60
+
+"Climb Aboard",(T,L,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Composed by: Doug North  piper TFS P&D c2006",(M,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+"By Permission of the Author",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc "part 1a"
+ 2_2 I! 
+	E_8 ! gg LAr_8 'la dg LAl_16 eg LAr_8 dg Cl_8 gg E_4 'e LA_8 ! thrd Dr_8 El_8 gg Fr_16 HAl_8 'ha E_4 'e strla E_8 gg
+!	 LAr_8 'la dg LAl_16 eg LAl_8 dg Cl_8 gg	 Er_16 Cl_8 'c gg LAl_8 Cl_8 ! gg Dr_16 Cl_8 'c gg Br_16 dg LAl_8 'la gg B_4 'b E_8
+!t
+& sharpf sharpc "part 1b" !
+	gg LAr_8 'la dg LAl_16 eg LAr_8 dg Cl_8 gg E_4 'e LA_8 ! thrd Dr_8 El_8 gg Fr_16 HAl_8 'ha E_4 'e strlg E_8 
+!	gg Fr_8 'f "Grip on Low A",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) grp HAl_8 'ha Fl_8 gg	 Er_16 HAl_8 'ha hdbe Er_8 Cl_8 ! dbb B_4 eg LAr_8 'la dg Bl_16 eg LA_4 'la E_8
+!I
+& sharpf sharpc  "part 2a"
+I!	gg LAr_8 'la dg LAl_16 eg LAr_8 HAl_8 E_4 'e strla E_8 ! gg HAr_8 'ha Fr_16 HAr_16 Dl_8 'd gg E_4 'e strla E_8
+!	gg LAr_8 'la dg LAl_16 eg LAl_8 HAl_8 	 Fr_16 HAl_8 'ha El_8 strla E_8 ! gg LAr_8 El_8 gg Fr_16 El_8 'e gg B_4 'b E_8
+!t
+& sharpf sharpc ! "part 2b"
+	gg LAr_8 'la dg LAl_16 eg LAr_8 HAl_8 E_4 'e strla E_8 ! gg HAr_8 'ha Fr_16 HAr_16 Dl_8 'd gg E_4 'e strlg E_8
+!	gg Fr_8 'f "Grip on Low A",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) grp HAl_8 'ha Fl_8	 gg Er_16 HAl_8 'ha hdbe Er_8 Cl_8 ! dbb B_4 eg LAr_8 'la dg Bl_16 eg LA_4 'la gg LA_8 
+!I
+& sharpf sharpc  "part 3a"
+I! 	dg Cr_8 'c Dl_16 gg El_8 Cl_8 gg LA_4 'la brl LA_8 ! gg Fr_8 'f El_16 gg Dl_8 Fl_8 gg E_4 'e LA_8
+!	gg Cr_8 LAl_8 gg El_8 HAl_8	 Er_16 Cl_8 'c gg El_8 strla E_8 ! gg Fr_8 'f  Er_16 gg Dr_16 Cl_8 'c gg B_4 'b
+!t
+& sharpf sharpc ! "part 3b"
+	gg LAr_8  dg Cl_8 'c Dl_16 gg El_8 Cl_8 gg LA_4 'la brl LA_8 ! gg Fr_8 'f El_16 gg Dl_8 Fl_8 gg E_4 'e strlg E_8
+!	gg Fr_8 'f "Grip on Low A",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) grp HAl_8 'ha Fl_8	 gg Er_16 HAl_8 'ha hdbe Er_8 Cl_8 ! dbb B_4 eg LAr_8 'la dg Bl_16 eg LA_4 'la E_8 
+!I
+& sharpf sharpc  "part 4a"
+I!	dbha HAr_8 'ha El_16 gg Cl_8 El_8 dbha HA_4 'ha E_8 ! gg Dr_8 LAl_8 HAr_16 Fl_8 'f gg E_4 'e strla E_8
+!	dbha HAr_8 'ha El_16 gg Cl_8 El_8	 dbha Fr_8 'f El_16 gg Cl_8 El_8 ! gg LAr_8 Bl_8 gg Cr_16 El_8 'e gg B_4 'b E_8
+!t
+& sharpf sharpc ! "part 4b"
+	dbha HAr_8 'ha El_16 gg Cl_8 El_8 dbha HA_4 'ha E_8 ! gg Dr_8 LAl_8 HAr_16 Fl_8 'f gg E_4 'e strlg E_8
+!	gg Fr_8 'f "Grip on Low A",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) grp HAl_8 'ha Fl_8	 gg Er_16 HAl_8 'ha hdbe Er_8 Cl_8 ! dbb B_4 eg LAr_8 'la dg Bl_16 eg LA_2 
+!I
+

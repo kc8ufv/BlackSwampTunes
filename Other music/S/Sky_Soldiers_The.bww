@@ -1,0 +1,42 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(80,150,100,25,250)
+
+TuneFormat,(0,1,F,C,1000,1000,1000,2000,P,0,0)
+
+TuneTempo,90
+
+"The Sky Soldiers",(T,L,0,0,Perpetua,16,700,255,0,18,0,0,0)
+
+"March",(Y,C,0,0,Perpetua,14,700,255,0,18,0,0,0)
+
+"Neil Anderson",(M,R,0,0,Perpetua,14,700,255,0,18,0,0,0)
+
+"(c) 2000 unReelmusic/BMI",(F,R,0,0,Perpetua,10,700,255,0,18,0,0,0)
+
+& sharpf sharpc 9_8 I!''	E_8 ! 
+!	gg LAr_8 'la  Dl_16  Cl_8  	gg Br_8 'b  El_16   LGl_8 	dbla LA_4 'la 
+!	gg Fr_8 'f  HGl_16  Dl_8 dbf F_4  'f  gg E_4 'e 
+!	gg Fr_8 'f Dl_16 HAl_8	 hdbe Er_8 'e LAl_16 dg  Bl_8 grp C_4 'c 
+!	hdbe Er_8 'e LAl_16  dg Cl_8 dbb B_4 'b ^tb B_4  '22 gg E_8  !t
+& sharpf sharpc	gg LAr_8 'la  Dl_16  Cl_8  	gg Br_8 'b  El_16   LGl_8 	dbla LA_4 'la
+!	gg Fr_8 'f  HGl_16  Dl_8 dbf F_4  'f  gg E_4 C_8 
+!	thrd  Dr_8 'd Fl_16 HAl_8 	hdbc Cr_8 'c El_16 HAl_8 	Br_8 'b Dl_16 HGl_8   
+!	LGr_8 'lg  dg Bl_16 Dl_8  dbla LA_4 'la ^tla LA_4    _' ''!I
+& sharpf sharpc  I!'' 	E_8	 !  
+!	gg Fr_8 'f  Dl_16 HAl_8	 hdbe Er_8 'e LAl_16 dg  Bl_8 grp C_4 gg  E_8 
+!	gg Fr_8 'f  El_16 Cl_8 	dbe E_4 'e ^te E_4 ag E_8
+!	gg Fr_8 'f  Dl_16 HAl_8	 hdbe Er_8 'e LAl_16 dg  Bl_8 grp C_4 gg  E_8
+!	HAr_8 'ha Cl_16 Dl_8 dbb   B_4 	'b tar B_4 '1 gg E_8 !t
+& sharpf sharpc	dbf Fr_8 'f  Dl_16 HAl_8	 hdbe Er_8 'e LAl_16 dg  Bl_8 grp C_4 gg  E_8
+!	dbf Fr_8 'f El_16 Cl_8 	dbe E_4 'e ^te E_4 ag E_8	
+!	hdbf Fr_8 'f El_16 ag El_8	  dbe Er_8 'e LAl_16 dg Bl_8 dbc	 C_4  strlg  LA_8 
+!	gg LGr_8 'lg  dg Bl_16 Dl_8  dbla LA_4 'la ^tla LA_4    _' ''!I

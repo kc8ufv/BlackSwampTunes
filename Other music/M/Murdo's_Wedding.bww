@@ -1,0 +1,39 @@
+Bagpipe Reader:1.0
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+InstrumentMappings,(71,71,45,33,1000,60,70)
+GracenoteDurations,(50,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(100,100,100,90,250)
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+TuneTempo,84
+
+"Murdo's Wedding",(T,C,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+"March",(Y,R,0,0,Goudy Old Style,12,700,1,0,18,0,0,0)
+"Traditional",(M,L,0,0,Times New Roman,12,700,255,0,18,0,0,0)
+"",(F,C,0,0,Goudy Old Style,12,700,1,0,18,0,0,0)
+
+
+& sharpf sharpc 4_4
+		E_8
+!		gg LA_4			tar LAr_8 Bl_8			strlg LA_4 		dbc Cr_8 El_8
+!		dbha HA_4 		hdbf Fr_8 Dl_8			dbe E_2 	
+! 		gg LA_4 			tar LAr_8 Bl_8 		strlg LA_4		dbc Cr_8 El_8 	
+! 		gg Fr_8 'f El_16	thrd Dr_8 Cl_8			dbb B_4 			dbe Er_8 Cl_8			!t
+
+& sharpf sharpc
+	 	gg LA_4			tar LAr_8 Bl_8			strlg LA_4 		dbc Cr_8 El_8
+!		dbha HA_4 		hdbf Fr_8 Dl_8 		dbe E_2 	
+!	 	dbha HA_4 		hdbf Fr_8 Dl_8			dbe E_4 			dbd D_4
+!	 	grpb LA_2 							brl LA_2 								!I
+
+& sharpf sharpc
+	 	dbha HA_4 		hdbf Fr_8 Dl_8			dbe E_4 			gg LA_4
+!	 	dbha HA_4 		hdbf Fr_8 Dl_8			dbe E_2 	
+!	 	gg LA_4 		tar LAr_8 Bl_8 			strlg LA_4 		dbc Cr_8 El_8 	
+!	 	gg Fr_8 'f El_16	thrd Dr_8 Cl_8			dbb B_4 			dbe Er_8 Cl_8			!t
+
+& sharpf sharpc
+	 	gg LA_4			tar LAr_8 Bl_8			strlg LA_4 		dbc Cr_8 El_8
+!		dbha HA_4 		hdbf Fr_8 Dl_8 		dbe E_2 	
+! 		dbha HA_4 		hdbf Fr_8 Dl_8			dbe E_4 			dbd D_4
+! 		grpb LA_2 							brl LA_2 								!I

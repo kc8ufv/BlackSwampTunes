@@ -1,0 +1,267 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,61,62,64,66,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,80,80)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(80,100,66,75,300)
+
+TuneFormat,(0,0,F,L,500,500,500,630,P,0,0)
+
+TuneTempo,40
+
+
+"The Desperate Battle",(T,C,0,0,Times New Roman,14,700,0,0,18,0,0,0)
+
+
+
+"I   GROUND",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+
+& C
+gg Er_8 'e Fl_16	pdili  HA_4	Er_8 Fl_8	gg Fr_16 gg Fl_8 'f !
+Er_8 fermate 'e Fl_16	gg E_4 dg C_4 grp C_4 !
+gg Er_8 'e Fl_16	dbha  HA_4	Er_8 Fl_8	gg Fr_16 gg Fl_8 'f !
+Er_8 fermate 'e Fl_16	gg E_4 dg B_4 grp B_4 I!''
+gg Er_8 'e Fl_16	dbha  HA_4	Er_8 Fl_8	gg Fr_16 gg Fl_8 'f !
+Er_8 fermate 'e Fl_16	gg E_4 dg LA_4 grp LA_4 ''!I
+
+& 	
+gg Er_8 'e Fl_16	dbha  HA_4	Er_8 Fl_8	gg Fr_16 gg Fl_8 'f !
+Er_8 fermate 'e Fl_16	dbha  HA_4 C_4 grp C_4 !
+gg Er_8 'e Fl_16	dbha  HA_4	Er_8 Fl_8	gg Fr_16 gg Fl_8 'f !
+Er_8 fermate 'e Fl_16	dbha  HA_4 B_4 grp B_4 I!''
+gg Er_8 'e Fl_16	dbha  HA_4	Er_8 Fl_8	gg Fr_16 gg Fl_8 'f !
+Er_8 fermate 'e Fl_16	dbha  HA_4  LA_4 grp LA_4 ''!I
+
+TuneTempo,56
+"II   VAR. 1.",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+& 
+gg C_4	HAr_8 'ha El_16	gg C_4	HAr_8 'ha El_16 !
+gg B_4 HAr_8 'ha El_16 gg B_4	HAr_8 'ha El_16 !
+gg C_4 HAr_8 'ha El_16	gg E_4 	HAr_8 'ha El_16 !
+gg C_4	HAr_8 'ha El_16	gg C_4	HAr_8 'ha El_16 !
+gg B_4	HAr_8 'ha El_16	gg E_4	HAr_8 'ha El_16 !
+gg C_4	HAr_8 'ha El_16	gg B_4	HAr_8 'ha El_16 !
+gg C_4 HAr_8 'ha El_16	gg E_4 	HAr_8 'ha El_16 !t
+
+&
+gg C_4	HAr_8 'ha El_16	gg C_4	HAr_8 'ha El_16 !
+gg B_4 HAr_8 'ha El_16 gg B_4	HAr_8 'ha El_16 !
+gg C_4	HAr_8 'ha El_16	gg C_4	HAr_8 'ha El_16 !
+gg B_4	HAr_8 'ha El_16	gg E_4	HAr_8 'ha El_16 !
+gg C_4	HAr_8 'ha El_16	gg B_4	HAr_8 'ha El_16 !
+gg C_4 HAr_8 'ha El_16	gg E_4 	HAr_8 'ha El_16 !
+gg C_4	HAr_8 'ha El_16	gg C_4	HAr_8 'ha El_16 !
+gg B_4	HAr_8 'ha El_16	gg E_4	HAr_8 'ha El_16 !
+gg C_4	HAr_8 'ha El_16	gg B_4	HAr_8 'ha El_16 !t
+
+TuneTempo,36
+"III   VAR. 1. DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+& 6_8 
+gg Cr_8 HAl_8 El_8	gg Cr_8 HAl_8 El_8	!
+gg Br_8 HAl_8 El_8	gg Br_8 HAl_8 El_8	!
+gg Cr_8 HAl_8 El_8	gg Er_8 HAl_8 El_8	!
+gg Cr_8 HAl_8 El_8	gg Cr_8 HAl_8 El_8	!
+gg Br_8 HAl_8 El_8	gg Er_8 HAl_8 El_8	!
+gg Cr_8 HAl_8 El_8	gg Br_8 HAl_8 El_8	!
+gg Cr_8 HAl_8 El_8	gg Er_8 HAl_8 El_8	!
+gg Cr_8 HAl_8 El_8	gg Cr_8 HAl_8 El_8	!t
+
+&
+gg Br_8 HAl_8 El_8	gg Br_8 HAl_8 El_8	!
+gg Cr_8 HAl_8 El_8	gg Cr_8 HAl_8 El_8	!
+gg Br_8 HAl_8 El_8	gg Er_8 HAl_8 El_8	!
+gg Cr_8 HAl_8 El_8	gg Br_8 HAl_8 El_8	!
+gg Cr_8 HAl_8 El_8	gg Er_8 HAl_8 El_8	!
+gg Cr_8 HAl_8 El_8	gg Cr_8 HAl_8 El_8	!
+gg Br_8 HAl_8 El_8	gg Er_8 HAl_8 El_8	!
+gg Cr_8 HAl_8 El_8	gg Br_8 HAl_8 El_8	!t
+
+TuneTempo,40
+"IV   VAR. 2.",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+& 2_4 
+HAr_16 Cl_8 'c	HAr_16 Cl_8 'c	!
+HAr_16 Bl_8 'b	HAr_16 Bl_8 'b	!
+HAr_16 Cl_8 'c	HAr_16 El_8 'e	!
+HAr_16 Cl_8 'c	HAr_16 Cl_8 'c	!
+HAr_16 Bl_8 'b	HAr_16 El_8 'e	!
+HAr_16 Cl_8 'c	HAr_16 Bl_8 'c	!
+HAr_16 Cl_8 'c	HAr_16 El_8 'e	!
+HAr_16 Cl_8 'c	HAr_16 Cl_8 'c	!t
+
+&
+HAr_16 Bl_8 'b	HAr_16 Bl_8 'c	!
+HAr_16 Cl_8 'c	HAr_16 Cl_8 'c	!
+HAr_16 Bl_8 'b	HAr_16 El_8 'e	!
+HAr_16 Cl_8 'c	HAr_16 Bl_8 'b	!
+HAr_16 Cl_8 'c	HAr_16 El_8 'e	!
+HAr_16 Cl_8 'c	HAr_16 Cl_8 'c	!
+HAr_16 Bl_8 'b	HAr_16 El_8 'e	!
+HAr_16 Cl_8 'c	HAr_16 Bl_8 HAl_16	!t
+
+
+"V   VAR. 2. DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+&
+Cr_16 HAl_8 'ha	Cr_16 HAl_8 'ha	!
+Br_16 HAl_8 'ha	Br_16 HAl_8 'ha	!
+Cr_16 HAl_8 'ha	Er_16 HAl_8 'ha	!
+Cr_16 HAl_8 'ha	Cr_16 HAl_8 'ha	!
+Br_16 HAl_8 'ha	Er_16 HAl_8 'ha	!
+Cr_16 HAl_8 'ha	Br_16 HAl_8 'ha	!
+Cr_16 HAl_8 'ha	Er_16 HAl_8 'ha	!
+Cr_16 HAl_8 'ha	Cr_16 HAl_8 'ha	!t
+
+&
+Br_16 HAl_8 'ha	Br_16 HAl_8 'ha	!
+Cr_16 HAl_8 'ha	Cr_16 HAl_8 'ha	!
+Br_16 HAl_8 'ha	Er_16 HAl_8 'ha	!
+Cr_16 HAl_8 'ha	Br_16 HAl_8 'ha	!
+Cr_16 HAl_8 'ha	Er_16 HAl_8 'ha	!
+Cr_16 HAl_8 'ha	Cr_16 HAl_8 'ha	!
+Br_16 HAl_8 'ha	Er_16 HAl_8 'ha	!
+Cr_16 HAl_8 'ha	Br_16 HAl_8 'ha	!t
+
+"VI   VAR. 3.",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+&
+Cr_8 'c eg LAl_16	gg Cr_8 'c eg LAl_16 !
+gg Br_8 'b eg LAl_16	gg Br_8 'b eg LAl_16 !
+gg Cr_8 'c eg LAl_16	gg Er_8 'e gg LAl_16 !
+gg Cr_8 'c eg LAl_16	gg Cr_8 'c eg LAl_16 !
+gg Br_8 'b eg LAl_16	gg Er_8 'e gg LAl_16 !
+gg Cr_8 'c eg LAl_16	gg Br_8 'b eg LAl_16 !
+gg Cr_8 'c eg LAl_16	gg Er_8 'e gg LAl_16 !
+gg Cr_8 'c eg LAl_16	gg Cr_8 'c eg LAl_16 !t
+
+&
+gg Br_8 'b eg LAl_16	gg Br_8 'b eg LAl_16 !
+gg Cr_8 'c eg LAl_16	gg Cr_8 'c eg LAl_16 !
+gg Br_8 'b eg LAl_16	gg Er_8 'e gg LAl_16 !
+gg Cr_8 'c eg LAl_16	gg Br_8 'b eg LAl_16 !
+gg Cr_8 'c eg LAl_16	gg Er_8 'e gg LAl_16 !
+gg Cr_8 'c eg LAl_16	gg Cr_8 'c eg LAl_16 !
+gg Br_8 'b eg LAl_16	gg Er_8 'e gg LAl_16 !
+gg Cr_8 'c eg LAl_16	gg Br_8 'b eg LAl_16 !t
+
+TuneTempo,52
+"VII   VAR. 3. DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+&
+gg Cr_8 'c eg Cl_16	gg Cr_8 'c eg Cl_16	!
+gg Br_8 'b eg Bl_16	gg Br_8 'b eg Bl_16	!
+gg Cr_8 'c eg Cl_16	gg Er_8 'e gg El_16	!
+gg Cr_8 'c eg Cl_16	gg Cr_8 'c eg Cl_16	!
+gg Br_8 'b eg Bl_16	gg Er_8 'e gg El_16	!
+gg Cr_8 'c eg Cl_16	gg Br_8 'b eg Bl_16	!
+gg Cr_8 'c eg Cl_16	gg Er_8 'e gg El_16	!
+gg Cr_8 'c eg Cl_16	gg Cr_8 'c eg Cl_16	!t
+
+&
+gg Br_8 'b eg Bl_16	gg Br_8 'b eg Bl_16	!
+gg Cr_8 'c eg Cl_16	gg Cr_8 'c gg Cl_16	!
+gg Br_8 'b eg Bl_16	gg Er_8 'e gg El_16	!
+gg Cr_8 'c eg Cl_16	gg Br_8 'b eg Bl_16	!
+gg Cr_8 'c eg Cl_16	gg Er_8 'e gg El_16	!
+gg Cr_8 'c eg Cl_16	gg Cr_8 'c eg Cl_16	!
+gg Br_8 'b eg Bl_16	gg Er_8 'e gg El_16	!
+gg Cr_8 'c eg Cl_16	gg Br_8 'b eg Bl_16	!t
+
+"VIII   TAORLUATH.",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+&
+C_4 pt C_4 pt !
+B_4 pt B_4 pt !
+C_4 pt E_4 pt !
+C_4 pt C_4 pt !
+B_4 pt E_4 pt !
+C_4 pt B_4 pt !
+C_4 pt E_4 pt !
+C_4 pt C_4 pt !
+B_4 pt B_4 pt !
+C_4 pt C_4 pt !
+B_4 pt E_4 pt !
+C_4 pt B_4 pt !
+C_4 pt E_4 pt !
+C_4 pt C_4 pt !
+B_4 pt E_4 pt !
+C_4 pt B_4 pt !t
+
+"IX   TAORLUATH A MACH.",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+&
+ptmb C_4 ptmb C_4  !
+ptmb B_4 ptmb B_4 !
+ptmb C_4 gg E_4 !
+ptmb C_4 ptmb C_4 !
+ptmb B_4 gg E_4 !
+ptmb C_4 ptmb B_4 !
+ptmb C_4 gg E_4 !
+ptmb C_4 ptmb C_4 !
+ptmb B_4 ptmb B_4 !
+ptmb C_4 ptmb C_4 !
+ptmb B_4 gg E_4 !
+ptmb C_4 ptmb B_4 !
+ptmb C_4 gg E_4 !
+ptmb C_4 ptmb C_4 !
+ptmb B_4 gg E_4 !
+ptmb C_4 ptmb B_4 !t
+
+"X   CRUNLUATH.",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+&
+C_4 pc C_4 pc !
+B_4 pc B_4 pc !
+C_4 pc E_4 pc !
+C_4 pc C_4 pc !
+B_4 pc E_4 pc !
+C_4 pc B_4 pc !
+C_4 pc E_4 pc !
+C_4 pc C_4 pc !
+B_4 pc B_4 pc !
+C_4 pc C_4 pc !
+B_4 pc E_4 pc !
+C_4 pc B_4 pc !
+C_4 pc E_4 pc !
+C_4 pc C_4 pc !
+B_4 pc E_4 pc !
+C_4 pc B_4 pc !t
+
+"XI   CRUNLUATH A MACH.",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+&
+pcmb C_4 pcmb C_4  !
+pcmb B_4 pcmb B_4 !
+pcmb C_4 gg E_4 !
+pcmb C_4 pcmb C_4 !
+pcmb B_4 gg E_4 !
+pcmb C_4 pcmb B_4 !
+pcmb C_4 gg E_4 !
+pcmb C_4 pcmb C_4 !
+pcmb B_4 pcmb B_4 !
+pcmb C_4 pcmb C_4 !
+pcmb B_4 gg E_4 !
+pcmb C_4 pcmb B_4 !
+pcmb C_4 gg E_4 !
+pcmb C_4 pcmb C_4 !
+pcmb B_4 gg E_4 !
+pcmb C_4 pcmb B_4 !t
+
+"Abbreviations Written",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0)
+&   
+I!
+pdili  HA_4 space !
+pdili  C_4 space !
+C_4 pt space !
+ptmb C_4 space !
+C_4 pc space !
+pcmb B_4 space !
+pcmb C_4 space !I
+
+"Abbreviations Played",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0)
+&
+I!	
+dbha  HA_4 space  space     !
+grp  C_4 space space    !
+gg Cr_16 tar  LAl_8 'la space !
+gg Cr_16 tar  Cl_8 'c  !
+gg Cr_16 crunl El_8 'e  !
+gg Br_16  grp edreb    El_8 'e  !  Cr_16  grp edrec   El_8 'e 
+!I

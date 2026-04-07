@@ -1,0 +1,121 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,60,250)
+
+TuneFormat,(1,0,F,L,500,500,500,500,P,0,0)
+
+TuneTempo,90
+
+"MacKay's Short Tune",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Piobaireachd",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"P.S. Book 8",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+"I. Urlar",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc C
+I!	gg E_4 phiharin LA_4 cadged C_4 grpb LA_4
+!	cadged Br_16 strlg Bl_8 'b echolg B_4 cadged B_4 echolg LA_4
+!	gg E_4 phiharin LA_4 darodo16 B_4 gg F_4
+!	gg Er_16 strla El_8 'e echola E_4 cadged C_4 grpb LA_4
+!	gg E_4 phiharin LA_4 cadged C_4 pedre E_4
+!	cadged Br_16 strlg Bl_8 'b echolg B_4 cadged B_4 echolg LA_4 space !t
+
+& sharpf sharpc 
+	gg E_4 phiharin LA_4 darodo16 B_4 gg F_4
+!	gg Er_16 strla El_8 'e echola E_4 cadged C_4 grpb LA_4
+!	cadged Br_16 strlg Bl_8 'b echolg B_4 cadged B_4 echolg LA_4 space
+!	cadged C_4 pgrp C_4 pgrp C_4 grpb LA_4
+!	pedre E_4 Br_16 echolg LAl_8 'la gg C_4 crunl Er_8 'e Cl_16
+!	cadged Br_16 strlg Bl_8 'b echolg B_4 cadged B_4 echolg LA_4 space !t
+
+& sharpf sharpc 
+	gg E_4 phiharin LA_4 darodo16 B_4 gg F_4
+!	gg Er_16 strla El_8 'e echola E_4 cadged C_4 grpb LA_4
+!	pdare F_4 Cr_16 echolg LAl_8 'la pedre E_4 Br_16 echolg LAl_8 'la
+!	gg C_4 crunl Er_8 'e Cl_16 cadged B_4 echolg LA_4 space !I
+
+"II. Taorluath.",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 2_4
+I!	LA_4 pt space C_4 pt space
+!	gg Br_8 dg Br_16 eg Bl_16	cadged Br_8 echolg  LAl_8 space
+!	LA_4 pt gg Br_8 dg Br_16 eg Bl_16
+!	C_4 pt cadged Cr_8 echolg  LAl_8
+!	gg Br_8 dg Br_16 eg Bl_16 C_4 pt space
+!	gg Br_8 dg Br_16 eg Bl_16	cadged Br_8 echolg  LAl_8 space !I
+
+& sharpf sharpc 
+I!''	LA_4 pt gg Br_8 dg Br_16 eg Bl_16
+!	C_4 pt cadged Cr_8 echolg  LAl_8
+! '2	gg Br_8 dg Br_16 eg Bl_16	 cadged Br_8 echolg  LAl_8 space
+!	C_4 pt cadged Cr_8 echolg  LAl_8 _'
+!	gg Br_8 dg Br_16 eg Bl_16 C_4 pt space
+!	gg Br_8 dg Br_16 eg Bl_16	cadged Br_8 echolg  LAl_8 space ''!I
+
+"III. Taorluath Doubling.",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 
+I!	LA_4 pt space C_4 pt space
+!	gg Br_8 dg Br_16 eg Bl_16	B_4 pt space
+!	LA_4 pt space gg Br_8 dg Br_16 eg Bl_16
+!	C_4 pt space C_4 pt space
+!	gg Br_8 dg Br_16 eg Bl_16 C_4 pt space
+!	gg Br_8 dg Br_16 eg Bl_16	B_4 pt space !I
+
+& sharpf sharpc 
+I!''	LA_4 pt gg Br_8 dg Br_16 eg Bl_16
+!	C_4 pt  space C_4 pt space
+! '2	gg Br_8 dg Br_16 eg Bl_16 B_4 pt space
+!	C_4 pt  space C_4 pt space _'
+!	gg Br_8 dg Br_16 eg Bl_16 C_4 pt space
+!	gg Br_8 dg Br_16 eg Bl_16	B_4 pt space ''!I
+
+"IV. Crunluath",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 
+I!	LA_4 pc space C_4 pc space
+!	gg Br_16 dg Bl_16 pedre El_8	cadged Br_8 echolg  LAl_8 space
+!	LA_4 pc gg Br_16 dg Bl_16 pedre El_8
+!	C_4 pc cadged Cr_8 echolg  LAl_8
+!	gg Br_16 dg Bl_16 pedre El_8 C_4 pc space
+!	gg Br_16 dg Bl_16 pedre El_8	cadged Br_8 echolg  LAl_8 space !I
+
+& sharpf sharpc 
+I!''	LA_4 pc gg Br_16 dg Bl_16 pedre El_8
+!	C_4 pc cadged Cr_8 echolg  LAl_8
+! '2	gg Br_16 dg Bl_16 pedre El_8	 cadged Br_8 echolg  LAl_8 space
+!	C_4 pc cadged Cr_8 echolg  LAl_8 _'
+!	gg Br_16 dg Bl_16 pedre El_8 C_4 pc space
+!	gg Br_16 dg Bl_16 pedre El_8	cadged Br_8 echolg  LAl_8 space ''!I
+
+"V. Crunluath Doubling.",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 
+I!	LA_4 pc space C_4 pc space
+!	gg Br_16 dg Bl_16 pedre E_4 pc space
+!	LA_4 pc space gg Br_16 dg Bl_16 pedre E_4
+!	C_4 pc space C_4 pc space
+!	gg Br_16 dg Bl_16 pedre E_4 C_4 pc space
+!	gg Br_16 dg Bl_16 pedre E_4	B_4 pc space !I
+
+& sharpf sharpc 
+I!''	LA_4 pc gg Br_16 dg Bl_16 pedre E_4
+!	C_4 pc  space C_4 pc space
+! '2	gg Br_16 dg Bl_16 pedre E_4 B_4 pc space
+!	C_4 pc  space C_4 pc space _'
+!	gg Br_16 dg Bl_16 pedre E_4 C_4 pc space
+!	gg Br_16 dg Bl_16 pedre E_4	B_4 pc space ''!I
+
+

@@ -1,0 +1,42 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,0)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,90
+
+"CoBBPaD Badner Lied",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Arr. Norman Welz",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"16.10.2004NW v0002",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 4_4 
+	LA_4 
+!	thrd D_4 gg D_4 strlg LA_4 gg LA_4 !					gg F_4 HAr_8 Fl_8 thrd D_4 strlg D_4
+!	gg D_4 'd eg	D_8 dbe E_4 'e gg E_8 !					hdbf F_2 'f	gg F_4 
+!t
+& sharpf sharpc 4_4
+	dbe B_4 'b gg B_8	dbe E_4 'e D_8 !					dbc C_4 'c	D_8	dbe E_4 F_4 
+!	dbe E_4 'e C_8	gg Er_8 Dl_8	gg Cr_8 Bl_8 !			strlg LA_2 'la
+!I
+& sharpf sharpc 4_4
+I!''	gg LA_4
+!	dbe E_4 'e D_8 gg Cr_8  Dl_8	gg Er_8 Fl_8 !				dbhg   HG_2 'hg dbha 	HA_4
+!	dbf F_4 'f E_8 gg Dr_8 'd Cl_16 gg D_8 F_8 !					dbe E_4 	HA_8 'ha	tg HA_16 tg HA_8 'ha HG_16 tg F_8 'f E_16
+!t
+& sharpf sharpc 4_4
+!	thrd ^ts D_2 D_8 'd ^te	gg LA_16 thrd D_8 'd F_16 !			dbha ^ts HA_2 HA_8 'ha ^te gg LA_16 thrd D_8 'd F_16
+!	dbha ^ts HA_4 F_8 'f ^te	D_16 dbe E_4 gg Fr_8 'f El_16 !		thrd D_2 'd
+''!I

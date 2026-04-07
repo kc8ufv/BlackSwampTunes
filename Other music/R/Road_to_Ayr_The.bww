@@ -1,0 +1,62 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,61,62,64,66,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,554,587,659,740,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(32,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,275)
+
+TuneFormat,(1,0,M,L,750,500,500,500,P,0,0)
+
+TuneTempo,90
+
+"The Road to Ayr",(T,L,0,0,Mondine,18,700,0,0,18,0,0,0)
+
+
+"Retreat",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+"by Andi MacInnes",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+"",(F,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+
+&   3_4 I!'' HA_8 !
+	hdbf Fr_8 HAl_8			space 	thrd D_4		space 		eg LAr_8 Dl_8 !
+	dbha HAr_8 'ha Fl_16		space 	dbe E_4		space 		strla Er_8 HGl_8 !
+	tg Er_8 HGl_8				space 	abr LA_4		space 		dbc Cr_8 El_8 !
+	dbhg HGr_8 'hg El_16		space 	dbf F_4		space 		gg Fr_8 HAl_8 !t
+& 
+	'22 hdbf Fr_8 HAl_8			space 	thrd D_4		space 		eg LAr_8 Dl_8 !
+	dbha HAr_8 'ha Fl_16		space 	dbhg HG_4	space 		hdbc Cr_8 'c  Bl_16 !
+	gg LAr_8 dg Cl_8			space 	dbe E_4		space 		abr LAr_8 dbha HAl_8 !
+	Cr_32 Fl_16 'f gg El_8		space 	thrd D_4		space 		lgstd D_8 _' ''!I
+
+
+
+
+&  I!'' LA_8 !
+	dbb Br_8 Dl_8				space	 	dbf F_4		space		gg Fr_8 HAl_8 !
+	hdbe Er_8 HGl_8			space		tg F_4		space		thrd Dr_8 eg LAl_8 ! 
+	dbc Cr_8 El_8				space		dbhg HG_4	space		abr LAr_8 El_8 ! 
+	dbhg HGr_8 Fl_8			space		dbe E_4		space		thrd Dr_8 eg LAl_8 !t
+
+
+&
+	'1 dbb Br_8 Dl_8				space	 	dbf F_4		space		gg Fr_8 HAl_8 !
+	hdbe Er_8 HGl_8			space		tg F_4		space		thrd Dr_8 'd Bl_16 !
+	gg LAr_8 dg Cl_8			space 		dbe E_4		space 		abr LAr_8 dbha HAl_8 !
+	Cr_32 Fl_16 'f gg El_8		space 		thrd D_4		space 		lgstd D_8 _' ''!I
+
+
+
+	
+	
+
+
+

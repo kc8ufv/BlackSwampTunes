@@ -1,0 +1,46 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(30,50,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,60,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,1,0)
+
+
+"The Munro's Salute",(T,C,0,0,Arial,16,700,0,0,18,0,0,0)
+
+"Piobaireachd",(Y,L,0,0,Arial,14,400,0,0,18,0,0,0)
+
+"",(M,R,0,0,Arial,14,400,0,0,18,0,0,0)
+
+TuneTempo,42
+
+
+& sharpf sharpc 4_4 
+! 'bis cadged Cr_8 fermatc 'c  Bl_32 	gg LAr_8 fermatla 'la dg Cl_16   	gg Br_8 fermatb 'b LAr_16 eg LGl_16 	dg B_4 
+! gg Cr_8 fermatc 'c Bl_32 	gg LAr_8 fermatla 'la dg Cl_16 	gg LAr_8 fermatla 'la Er_16 'e gg LAl_32	F_4 'f	bis_'
+! gg Dr_8 fermatd 'd Cr_16 gg Bl_16 		pgrp D_4 		cadged Cr_8 fermatc 'c  Br_16 gg LAl_16	dg C_4
+! gg Dr_8 fermatd 'd Cr_16 gg Bl_16 		pgrp D_4 		gg Fr_8 fermatf 'f  Er_16 gg Fl_16 'f	HA_4 'ha
+!I
+
+& sharpf sharpc 4_4 
+! caded Cr_8 fermatc 'c  Bl_32 	gg LAr_8 fermatla 'la dg Cl_16   	gg Br_8 fermatb 'b LAr_16 eg LGl_16 	dg B_4 
+! gg Cr_8 fermatc 'c Bl_32 	gg LAr_8 fermatla 'la dg Cl_16 	gg LAr_8 fermatla 'la Er_16 'e gg LAl_32	F_4 'f	
+! 'bis gg Dr_8 fermatd 'd Cr_16 gg Bl_16 		pgrp D_4 		cadged Cr_8 fermatc 'c  Br_16 gg LAl_16	dg C_4
+! gg Dr_8 fermatd 'd Cr_16 gg Bl_16 		pgrp D_4 		gg Fr_8 fermatf 'f  Er_16 gg Fl_16 'f	HA_4 'ha		bis_'
+!I
+
+& sharpf sharpc 4_4 
+! caded Cr_8 fermatc 'c  Bl_32 	gg LAr_8 fermatla 'la dg Cl_16   	gg Br_8 fermatb 'b LAr_16 eg LGl_16 	dg B_4 
+! gg Cr_8 fermatc 'c Bl_32 	gg LAr_8 fermatla 'la dg Cl_16 	gg LAr_8 fermatla 'la El_16 'e 	gg LAr_8 fermatla 'la El_16 fermatf	
+! gg Dr_8 fermatd 'd Br_16 gg Dl_16 		F_4 		gg Cr_8 fermatc 'f  Br_16 gg Cl_16 	E_4
+! Fr_8 fermatf 'f Er_16 gg Cl_16 	E_4  	gg Br_32 grp Cl_8 fermatc 'e 		gg Br_16 Fl_8 fermatf 'f   		
+!I
+
+

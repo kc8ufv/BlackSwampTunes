@@ -1,0 +1,79 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,0)
+
+TuneFormat,(1,0,F,C,500,500,500,500,P,0,0)
+
+TuneTempo,90
+
+"Jig",(T,L,0,0,arial,12,400,0,0,18,0,0,0)
+
+"Roger the Tin Man",(Y,C,0,0,arial,16,400,0,0,18,0,0,0)
+
+"Rob Galliah",(M,R,0,0,arial,12,400,0,0,18,0,0,0)
+
+"Dedicated to great lad and co-worker-2003",(F,C,0,0,arial,12,400,0,0,18,0,0,0)
+
+& sharpf sharpc 6_8 I!'' E_8 ! 
+dbc C_4 	eg LA_8 				gg LGr_8 dg LAl_8 eg LAl_8	! 
+gg Br_8 LAl_8 dg LGl_8 			gg LAr_8 dg LAl_8 eg LAl_8 	! 
+gg LGr_8 dg LGl_8 eg LGl_8 		gg LGr_8 Dl_8 LGl_8 		! 
+gg LGr_8 Dl_8 LGl_8			dbd Dr_8 Bl_8 dg LGl_8		!t
+
+& sharpf sharpc  '23  
+dbc C_4 	eg LA_8 				gg LGr_8 dg LAl_8 eg LAl_8	! 
+gg Br_8 LAl_8 dg LGl_8 			gg LAr_8 dg LAl_8 eg LAl_8 	! 
+gg LGr_8 Bl_8 LGl_8 			dbd Dr_8 Bl_8 LGl_8 		! 
+gg LA_4 	brl LA_8 				LA_4 _' 					''!I	
+
+
+
+& sharpf sharpc I!'' E_8 ! 
+gg Cr_8 El_8 strla El_8 			HAr_8 El_8 strla El_8 		! 
+gg Cr_8 dg LAl_8 eg LAl_8 		brl LA_4 	LG_8			! 
+gg Br_8 Dl_8 strc Dl_8 			HGr_8 Dl_8 strc Dl_8 		! 
+gg LGr_8 Dl_8 LGl_8			dbd Dr_8 Bl_8 dg LGl_8 		!t
+
+& sharpf sharpc '24  
+gg Cr_8 El_8 strla El_8 			HAr_8 El_8 strla El_8 		!
+gg Cr_8 dg LAl_8 eg LAl_8 		brl LA_4 	LG_8 			! 
+gg LGr_8 Bl_8 LGl_8 			dbd Dr_8 Bl_8 LGl_8 		! 
+gg LA_4 	brl LA_8 				LA_4 _' 					''!I
+
+
+
+
+
+& sharpf sharpc  I!'' E_8 ! 
+brl LA_4 	C_8 					gg Cr_8 strlg Cl_8 LAl_8 	! 
+gg LAr_8 Cl_8 Bl_8 			gg Cr_8 El_8 strla El_8 		! 
+dblg LG_4 	gg LG_8 			gg Br_8 Dl_8 strc Dl_8 		! 
+gg LGr_8 Dl_8 LGl_8			dbd Dr_8 Bl_8 dg LGl_8 		!t
+
+& sharpf sharpc  '1 
+brl LA_4 	C_8 					gg Cr_8 strlg Cl_8 LAl_8 	! 
+gg LAr_8 Cl_8 Bl_8 			gg Cr_8 El_8 strla El_8 		! 
+gg LGr_8 Bl_8 LGl_8 			dbd Dr_8 Bl_8 LGl_8 		! 
+gg LA_4 	brl LA_8 				LA_4 _'					''!I
+
+
+& sharpf sharpc  I!'' E_8 !
+HAr_8 gg HAl_8 gg HAl_8 		gg HAr_8 El_8 strla El_8 	!
+gg Cr_8 El_8 strla El_8 			HAr_8 El_8 strla El_8 		! 
+gg Dr_8 HGl_8 strf HGl_8 		strf HGr_8 Dl_8 Bl_8 		! 
+gg LGr_8 Dl_8 LGl_8			dbd Dr_8 Bl_8 dg LGl_8		!t
+
+& sharpf sharpc  '1 
+HAr_8 gg HAl_8 gg HAl_8 		dbha HA_4 	HG_8 		! 
+HAr_8 LAl_8 dg LAl_8 			gg Cr_8 El_8 Cl_8 			!  
+gg LGr_8 Bl_8 LGl_8 			dbd Dr_8 Bl_8 LGl_8 		! 
+gg LA_4 	brl LA_8 				LA_4 _' 					''!I
+

@@ -1,0 +1,116 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,50,70)
+
+GracenoteDurations,(30,40,30,50,100,200,800,1100,250,250,250,500,200)
+
+FontSizes,(85,100,70,40,260)
+
+TuneFormat,(1,0,M,L,500,400,500,400,P,0,0)
+
+TuneTempo,48
+
+
+"Glengarry's Lament",(T,C,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+
+"Archd. Munro, Oban 1828",(M,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+
+"I. GROUND",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+
+& sharpf sharpc 3_4
+I! 	'bis cadge LAr_8 'la Bl_16 	pgrp C_4			din LA_4
+!	gg Cr_16 El_8 'e			Fr_16 gg Cl_8 'c	din LA_4	bis_'
+!	pgrp Br_8 'b Fl_16			gg E_4			LA_4
+!	gg Cr_8 El_8 				cadged B_4		din LA_4	fine		!I
+
+& sharpf sharpc  
+I!''	cadge LAr_8 'la Bl_16 		pgrp C_4 			din LA_4
+!	gg Cr_16 El_8 'e			Fr_16 gg Cl_8 'c	din LA_4
+!	'1 pgrp Br_8 'b Fl_16		gg E_4			LA_4
+!	gg Cr_8 El_8				cadged C_4		din LA_4 _'
+!	pgrp Br_8 'b Fl_16			gg E_4			LA_4
+!	gg Cr_8 El_8 				cadged B_4		din LA_4			''!I
+
+
+
+TuneTempo,50
+"II. VAR. 1.",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc 2_4
+I! 	'bis gg LAr_8 ''la eg LAl_32	gg Cr_8 ''c eg LAl_32
+!	gg Er_8 ''e gg LAl_32		gg Cr_8 ''c eg LAl_32 bis_'
+!	gg Br_8 ''b eg LAl_32		gg Fr_8 ''f gg LAl_32
+! 	gg Er_8 ''e gg LAl_32		gg Br_8 ''b eg LAl_32			!I
+
+
+& sharpf sharpc
+I!'' 	gg LAr_8 ''la eg LAl_32		gg Cr_8 ''c eg LAl_32
+!	gg Er_8 ''e gg LAl_32		gg Cr_8 ''c eg LAl_32
+!	'1 gg Br_8 ''b  eg LAl_32		gg Fr_8 ''f gg LAl_32
+!	gg Cr_8 ''c eg LAl_32		gg Cr_8 ''c eg LAl_32 _'
+!	gg Br_8 ''b eg LAl_32		gg Fr_8 ''f gg LAl_32
+! 	gg Er_8 ''e gg LAl_32		gg Br_8 ''b eg LAl_32			''!I
+
+
+
+
+TuneTempo,55
+"III. VAR. 1. DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I! 	'bis gg LAr_8 ''la eg LAl_32	gg Cr_8 ''c eg Cl_32
+!  	gg Er_8 ''e gg El_32		gg Cr_8 ''c eg Cl_32 bis_'
+!	gg Br_8 ''b eg Bl_32		gg Fr_8 ''f gg Fl_32
+!	gg Er_8 ''e gg El_32		gg Br_8 ''b eg Bl_32		!I
+
+
+& sharpf sharpc
+I!'' 	gg LAr_8 ''la eg LAl_32		gg Cr_8 ''c eg Cl_32
+!  	gg Er_8 ''e gg El_32		gg Cr_8 ''c eg Cl_32
+!	'1 gg Br_8 ''b  eg Bl_32		gg Fr_8 ''f gg Fl_32
+!	gg Cr_8 ''c eg Cl_32		gg Cr_8 ''c eg Cl_32 _'
+!	gg Br_8 ''b eg Bl_32		gg Fr_8 ''f gg Fl_32
+!	gg Er_8 ''e gg El_32		gg Br_8 ''b eg Bl_32			''!I
+
+
+
+
+TuneTempo,50
+"IV. TAORLUATH  SINGLING [S]  V. DOUBLING [D]",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc segno
+I!	'bis LA_4  pt		C_4 pt
+!	E_4    pt 			'si fcadged  Cr_8 fermatc din LAl_8 fermatla _'	'do C_4 pt _'	 bis_'
+!	B_4   pt			F_4 pt
+!	E_4   pt			'si fcadged  Br_8 fermatb din LAl_8 fermatla _'	'do B_4 pt _'				!I
+
+
+& sharpf sharpc
+I!''	LA_4 pt 			C_4 pt
+!	E_4 pt  			'si fcadged  Cr_8 fermatc din LAl_8 fermatla _'	'do C_4 pt _'
+!	'1 B_4 pt 			F_4 pt
+!	C_4 pt 			C_4 pt _'
+!	B_4 pt 			F_4 pt
+!	E_4 pt 			'si fcadged  Br_8 fermatb din LAl_8 fermatla _'	'do B_4 pt _' 				''!I dalsegno
+
+
+
+
+TuneTempo,52
+"VI. CRUNLUATH  SINGLING [S]  VII. DOUBLING [D]",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc segno
+I!	'bis LA_4  pc		C_4 pc
+!	E_4    pc 			'si fcadged  Cr_8 fermatc din LAl_8 fermatla _'	'do C_4 pc _'	 bis_'
+!	B_4   pc			F_4 pc
+!	E_4   pc			'si fcadged  Br_8 fermatb din LAl_8 fermatla _'	'do B_4 pc _'				!I
+
+
+& sharpf sharpc
+I!''	LA_4 pc 			C_4 pc
+!	E_4 pc  			'si fcadged  Cr_8 fermatc din LAl_8 fermatla _'	'do C_4 pc _'
+!	'1 B_4 pc 		F_4 pc
+!	C_4 pc 			C_4 pc _'
+!	B_4 pc 			F_4 pc
+!	E_4 pc 			'si fcadged  Br_8 fermatb din LAl_8 fermatla _'	'do B_4 pc _' 				''!I dalsegno dacapoalfine

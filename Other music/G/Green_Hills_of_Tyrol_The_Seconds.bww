@@ -1,0 +1,48 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,50,60)
+
+GracenoteDurations,(40,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,140,250)
+
+TuneFormat,(1,0,M,L,500,500,550,500,L,1,0)
+
+TuneTempo,80
+
+"The Green Hills Of Tyrol - Seconds",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Trad/TCMetro",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"TCMetro 2003",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+	  3_4 
+I!'' 	gg LAr_8 'la Bl_16			grp C_4				dbc Cr_8 eg LAl_8
+! 	gg Cr_8 thrd Dl_8			gg C_4				grp Cr_8 Dl_8
+!	gg Cr_8 Dl_8				dbc Cr_8 'c LAl_16		gg LG_4
+!	dg LGr_8 Dl_8				dbc Cr_8 'c LAl_16		gg LA_4
+!t
+& sharpf sharpc  
+	gg LAr_8 'la Bl_16			grp C_4				dbc Cr_8 eg LAl_8
+! 	gg Cr_8 thrd Dl_8			gg C_4				grp Cr_8 Dl_8
+!	gg Cr_8 Dl_8				dbc Cr_8 'c LAl_16		gg LG_4
+!	dg LGr_8 LAl_8			dbc Cr_8 'c LGl_16		gg LA_4
+''!I
+& sharpf sharpc 
+I!''	gg LAr_8 dg Cl_8			gg F_4				stre F_4
+!	dbe Er_8 Dl_8				dbd Dr_8 Cl_8			grp C_4
+!	gg Cr_8 'c Dl_16			dbc Cr_8 eg Bl_8		grp B_4
+!	gg Br_8 'b Cl_16			dbb Br_8 eg LAl_8		brl LA_4
+!t
+& sharpf sharpc 
+	gg LAr_8 dg Cl_8			gg F_4				stre F_4
+!	dbe Er_8 Dl_8				dbd Dr_8 Cl_8			grp C_4
+!	gg Cr_8 'c Dl_16			gg C_4				grp Cr_8 'c Bl_16
+!	gg LAr_8 dg Bl_8				dbc C_4				grp C_4
+''!I

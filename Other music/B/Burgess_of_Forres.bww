@@ -1,0 +1,97 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,80
+
+"Burgess of Forres",(T,L,0,0,AGaramond,20,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,AGaramond Bold,12,700,0,0,18,0,0,0)
+
+"Piper Kimberly Dale Arnold ",(M,R,0,0,AGaramond Bold,12,400,0,0,18,0,0,0)
+
+"Dedicated to Drum Major Jimmick Watson, MBE, Burgess of Forres",(F,R,0,0,AGaramond Bold,14,400,1,0,18,0,0,0)  
+
+"Part One",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 6_8
+
+I!''  gg LAr_8 'la   Bl_16 Cl_8	 thrd Dr_8 'd   El_16 Fl_8  
+!     dbe Er_8 'e Dl_16 Cl_8 dbb   B_4  F_8
+!     dbe Er_8 'e    Dl_16 Cl_8 dbb   B_4   E_8       
+!     gg   LAr_8 'la    Bl_16 Cl_8   	 thrd Dr_8 'd    Cl_16  Bl_8  !t 
+
+& sharpf sharpc 6_8  
+     
+!   gg LAr_8 'la   Bl_16 Cl_8	 thrd Dr_8 'd El_16  Fl_8 
+!   dbe Er_8 'e  Dl_16 Cl_8 dbb   B_4    F_8
+!   '1 dbe Er_8 'e  Dl_16 Cl_8 dbb   B_8 'b LGr_16  Bl_16 LGl_16 
+!   LA_4 'la    gbr    LA_4 E_8    _'
+!   '2 gg   LAr_8 'la  Bl_16 Cl_8	 thrd Dr_8 'd Cl_16 Bl_8
+!   gg  LA_4 'la   tar LA_4 dbhg HG_8     _'   ''!I
+
+
+"Part Two",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+& sharpf sharpc 6_8  
+
+I!'' dbha HA_4  E_8 ag Er_8 'e  Dl_16 Cl_8 
+!     dbha HA_4 E_8 ag Er_8 'e  Dl_16 Cl_8
+!     gg B_4  C_8 	thrd Dr_8 'd  Cl_16 Bl_8 
+!     gg LA_4 B_8 grp Cr_8 'c  Dl_16   El_8  !I
+
+& sharpf sharpc 6_8  
+
+!    dbha  HA_4 E_8 ag Er_8 'e   Dl_16 Cl_8 
+!    dbha HA_4  E_8 ag Er_8 'e  Fl_16 HGl_8
+!    '1 hdbe  Er_8 'e  Dl_16 Cl_8 dbb B_8 'b  LGr_16 Bl_16 LGl_16	 
+!    LA_4 'la    gbr    LA_4 dbhg HG_8     _' 
+!    '2 tg     LAr_8 'la  Bl_16 Cl_8	 thrd  Dr_8 'd  Cl_16 Bl_8
+!    gg  LA_4 'la   tar LA_4 E_8 _'    ''!I
+
+
+
+"Part Three",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+& sharpf sharpc 6_8 
+
+I!'' gg LAr_8 'la  Bl_16 Cl_8 	thrd Dr_8 'd Cl_16 Bl_8 
+!    gg E_8 'e  grp C_8 'c  dbc   Cr_8 'c  Bl_16  LAl_8   
+!    gg F_8 'f   grp F_8 'f     dbe Er_8 'e   Dl_16 Cl_8
+!    dbe   Er_8 'e   Dl_16 Cl_8 dbb B_4 E_8 !t
+
+
+& sharpf sharpc 6_8  
+
+!   gg LAr_8 'la  Bl_16 Cl_8 	thrd Dr_8 'd Cl_16 Bl_8 
+!   gg E_8 'e  grp C_8 'c  dbc   Cr_8 'c  Bl_16  LAl_8 
+!   '1 dbha HAr_8 'ha El_16  Cl_8 thrd D_8 'd   LGr_16 Bl_16 LGl_16	
+!   LA_4 'la    gbr     LA_4 E_8    _' 
+!   '2 dbha HAr_8 'ha  Fl_16 Dl_8	 gg   Br_8 'b   grp El_16  Fl_8 
+!   tg LA_4 'la  tar LA_4 dbhg HG_8    _'  ''!I
+
+
+"Part Four",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+& sharpf sharpc 6_8  
+
+I!'' dbha HA_4  E_8 ag Er_8 'e  Dl_16 Cl_8 
+!     dbha HA_4 E_8 ag Er_8 'e  Dl_16 Cl_8
+!     gg B_4  C_8 	thrd Dr_8 'd  Cl_16 Bl_8 
+!     gg LA_4 B_8 grp Cr_8 'c  Dl_16   El_8  !I
+
+& sharpf sharpc 6_8 
+
+!    dbha  HA_4 E_8 ag Er_8 'e   Dl_16 Cl_8 
+!    dbha HA_4  E_8 ag Er_8 'e  Fl_16 HGl_8
+!    '1 dbha HAr_8 'ha El_16  Cl_8 thrd D_8 'd   LGr_16 Bl_16 LGl_16	
+!    LA_4 'la    gbr    LA_4 dbhg HG_8     _' 
+!    '2  dbha HAr_8 'ha  Fl_16 Dl_8	 gg   Br_8 'b   grp El_16  Fl_8
+!    tg LA_4 'la  tar LA_4 'la   _'     ''!I

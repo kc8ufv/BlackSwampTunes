@@ -1,0 +1,153 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,70,60)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,78,40,270)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,52
+
+"The Prince's Salute",(T,C,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+
+"4:, 4, 4",(Y,L,0,0,Times New Roman,12,400,0,0,12,0,0,0)
+
+"John MacIntyre  1715",(M,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+
+
+"I. GROUND",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+&	sharpf sharpc C
+I!''	cadge LAr_16 dg LAl_8 'la	pedre E_4						 cadge D_4			potro Br_8 'b Dl_16
+!	gg E_4					tarbrea LGr_8 'lg dg Bl_16 fermatb	eg LGr_16 dg Bl_8 'b	fcadge Dr_8 fermatd LGl_8 fermatlg
+!	cadge LAr_16 dg LAl_8 'la	pedre E_4						cadge D_4			potro Br_8 'b Dl_16
+!	gg E_4					tarbrea LAr_8 'la dg Bl_16 fermatb		eg LAr_16 dg Bl_8 'b	fcadgf Er_8 fermate LAl_8 fermatla	fine	''!I
+
+&	sharpf sharpc
+I!	cadge LAr_16 dg LAl_8 'la	pedre E_4						gg Er_8 'e Bl_16		ptra Dr_8 El_8 fermate
+!	cadge LGr_8 'lg Bl_16		ptra D_4							cadge D_4			potro Br_8 'b Dl_16
+!	cadge LAr_16 dg LAl_8 'la	pedre E_4						cadge D_4			potro Br_8 'b Dl_16
+!	gg E_4 tarbrea				LAr_8 'la dg Bl_16 fermatb			eg LAr_16 dg Bl_8 'b	cadgf Er_8 fermate LAl_8 fermatla	!I
+
+&	sharpf sharpc
+I!	cadge LAr_16 dg LAl_8 'la	pedre E_4						cadge D_4			potro Br_8 'b Dl_16
+!	gg E_4 tarbrea				LGr_8 'lg dg Bl_16 fermatb			eg LGr_16 dg Bl_8 'b	cadge Dr_8 fermatd LGl_8 fermatlg
+!	gg E_4 					potro Br_16 El_8 'e					cadge D_4			potro Br_8 'b Dl_16
+!	gg E_4 tarbrea				LAr_8 'la dg Bl_16 fermatb			eg LAr_16 dg Bl_8 'b	cadgf Er_8 fermate LAl_8 fermatla	!I
+
+
+
+TuneTempo,57
+"II. VAR. I",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+& 	sharpf sharpc
+I!''	LA_4 pt				E_4								gg LAr_16 Dl_8 'd		gg LAr_16 dg Bl_8 'b
+!	gg LG_4 htarlg			LGr_16 dg Bl_8 'b					eg LGr_16 dg Bl_8 'b	fcadge Dr_8 fermatd LGl_8 fermatlg
+!	LA_4 pt				E_4								gg LAr_16 Dl_8 'd		gg LAr_16 dg Bl_8 'b
+!	gg E_4 tarbrea			LAr_8 'la dg Bl_16 fermatb			eg LAr_16 dg Bl_8 'b	fcadgf Er_8 fermate LAl_8 fermatla	''!I
+
+&	sharpf sharpc
+I!	LA_4 pt				E_4								gg LAr_16 El_8 'e		gg LAr_16 El_8 'e
+!	gg LG_4 htarlg			LGr_16 dg Bl_8 'b					gg LGr_16  Dl_8 'd		eg LGr_16 dg Bl_8 'b
+!	LA_4 pt				E_4								gg LAr_16 Dl_8 'd		gg LAr_16 dg Bl_8 'b
+!	gg E_4 tarbrea			LAr_8 'la dg Bl_16 fermatb			eg LAr_16 dg Bl_8 'b	fcadgf Er_8 fermate LAl_8 fermatla	!I
+
+&	sharpf sharpc
+I!	LA_4 pt					E_4								gg LAr_16 Dl_8 'd		gg LAr_16 dg Bl_8 'b
+!	gg LG_4 htarlg				LGr_16 dg Bl_8 'b					eg LGr_16 dg Bl_8 'b	fcadge Dr_8 fermatd LGl_8 fermatlg
+!	gg LAr_8 'la El_16			gg LAr_8 'la El_16					gg LAr_8 'la Dl_16		gg LAr_8 'la dg Bl_16
+!	gg E_4 tarbrea				LAr_8 'la dg Bl_16 fermatb			eg LAr_16 dg Bl_8 'b	fcadgf Er_8 fermate LAl_8 fermatla	!I
+
+
+
+TuneTempo,65
+"III. VAR I. DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+&	sharpf sharpc
+I!''	LA_4 pt				E_4								gg LAr_16 Dl_8 'd		gg LAr_16 dg Bl_8 'b
+!	gg LG_4 htarlg			LGr_16 dg Bl_8 'b					eg LGr_16 dg Bl_8 'b	gg LGr_16 Dl_8 'd
+!	LA_4 pt				E_4								gg LAr_16 Dl_8 'd		gg LAr_16 dg Bl_8 'b
+!	E_4 pt				dg B_4							gg LAr_16 dg Bl_8 'b	gg LAr_16 El_8 'e	''!I
+
+&	sharpf sharpc
+I!	LA_4 pt				E_4								gg LAr_16 El_8 'e		gg LAr_16 El_8 'e
+!	gg LG_4 htarlg				LGr_16 dg Bl_8 'b					gg LGr_16 Dl_8 'd		eg LGr_16 dg Bl_8 'b
+!	LA_4 pt				E_4								gg LAr_16 Dl_8 'd		gg LAr_16 dg Bl_8 'b
+!	E_4 pt					dg B_4							gg LAr_16 dg Bl_8 'b	gg LAr_16 El_8 'e	!I
+
+&	sharpf sharpc
+I!	LA_4 pt				E_4								gg LAr_16 Dl_8 'd		gg LAr_16 dg Bl_8 'b
+!	gg LG_4 htarlg				LGr_16 dg Bl_8 'b					eg LGr_16 dg Bl_8 'b	gg LGr_16 Dl_8 'd
+!	gg LAr_16 El_8 'e			gg LAr_16 El_8 'e					gg LAr_16 Dl_8 'd		gg LAr_16 dg Bl_8 'b
+!	E_4 pt					dg B_4							eg LAr_16 dg Bl_8 'b	gg LAr_16 El_8 'e	!I
+
+
+TuneTempo,60
+"IV. TAORLUATH,  V. TAORLUATH DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+&	sharpf sharpc segno
+I!''	LA_4 pt			E_4 pt			D_4 ptb			B_4 pt
+!	LG_4 phtla		B_4 pt			LG_4 phtla		'si fcadge Dr_8 fermatd LGl_8 fermatlg _'	'do D_4 ptb _'
+!	LA_4 pt			E_4 pt			D_4 ptb			B_4 pt
+!	E_4 pt			B_4 pt			LA_4 pt			'si fcadgf Er_8 fermate LAl_8 fermatla _'	'do E_4 pt	_'	''!I
+
+&	sharpf sharpc
+I!	LA_4 pt			E_4 pt			E_4 pt			E_4 pt
+!	LG_4 phtla		B_4 pt			D_4 ptb			B_4 pt
+!	LA_4 pt			E_4 pt			D_4 ptb			B_4 pt
+!	E_4 pt			B_4 pt			LA_4 pt			'si fcadgf Er_8 fermate LAl_8 fermatla _'	'do E_4 pt	_'	!I
+
+&	sharpf sharpc
+I!	LA_4 pt			E_4 pt			D_4 ptb			B_4 pt
+!	LG_4 phtla		B_4 pt			LG_4 phtla		'si fcadge Dr_8 fermatd LGl_8 fermatlg _'	'do D_4 ptb _'
+!	E_4 pt			E_4 pt			D_4 ptb			B_4 pt
+!	E_4 pt			B_4 pt			LA_4 pt			'si fcadgf Er_8 fermate LAl_8 fermatla _'	'do E_4 pt	_'	!I dalsegno
+
+
+TuneTempo,63
+"VI. CRUNLUATH, VII. CRUNLUATH DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+&	sharpf sharpc segno
+I!''	LA_4 pc			E_4 pc			D_4 pcb			B_4 pc
+!	LG_4 phcla		B_4 pc			LG_4 phcla		'si fcadge Dr_8 fermatd LGl_8 fermatlg _'	'do D_4 pcb _'
+!	LA_4 pc			E_4 pc			D_4 pcb			B_4 pc
+!	E_4 pc			B_4 pc			LA_4 pc			'si fcadgf Er_8 fermate LAl_8 fermatla _'	'do E_4 pc	_'	''!I
+
+&	sharpf sharpc
+I!	LA_4 pc			E_4 pc			E_4 pc			E_4 pc
+!	LG_4 phcla		B_4 pc			D_4 pcb			B_4 pc
+!	LA_4 pc			E_4 pc			D_4 pcb			B_4 pc
+!	E_4 pc			B_4 pc			LA_4 pc			'si fcadgf Er_8 fermate LAl_8 fermatla _'	'do E_4 pc	_'	!I
+
+&	sharpf sharpc
+I!	LA_4 pc			E_4 pc			D_4 pcb			B_4 pc
+!	LG_4 phcla		B_4 pc			LG_4 phcla		'si fcadge Dr_8 fermatd LGl_8 fermatlg _'	'do D_4 pcb _'
+!	E_4 pc			E_4 pc			D_4 pcb			B_4 pc
+!	E_4 pc			B_4 pc			LA_4 pc			'si fcadgf Er_8 fermate LAl_8 fermatla _'	'do E_4 pc	_'	!I dalsegno
+
+
+
+"VIII. CRUNLUATH A MACH",(I,L,0,0,Times New Roman,10,700,0,0,0,0,0,0) 
+&	sharpf sharpc
+I!''	LA_4 pc			E_4 pc			pcmd D_4		pcmb B_4
+!	LG_4 phcla		pcmb B_4		LG_4 phcla		pcmd D_4
+!	LA_4 pc			E_4 pc			pcmd D_4		pcmb B_4
+!	E_4 pc			pcmb B_4		LA_4 pc			E_4 pc		''!I
+
+&	sharpf sharpc
+I!	LA_4 pc			E_4 pc			E_4 pc			E_4 pc
+!	LG_4 phcla		pcmb B_4		pcmd D_4		pcmb B_4
+!	LA_4 pc			E_4 pc			pcmd D_4		pcmb B_4
+!	E_4 pc			pcmb B_4		LA_4 pc			E_4 pc		!I
+
+&	sharpf sharpc
+I!	LA_4 pc			E_4 pc			pcmd D_4		pcmb B_4
+!	LG_4 phcla		pcmb B_4		LG_4 phcla		pcmd D_4
+!	E_4 pc			E_4 pc			pcmd D_4		pcmb B_4
+!	E_4 pc			pcmb B_4		LA_4 pc			E_4 pc		!I  dacapoalfine
+
+

@@ -1,0 +1,59 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,84
+
+"Loch MacLeod",(T,C,0,0,Verdana,12,700,0,0,18,0,0,0)
+
+"Retreat March",(Y,L,0,0,Verdana,9,400,0,0,18,0,0,0)
+
+"PM Donald MacLeod",(M,R,0,0,Verdana,9,400,0,0,18,0,0,0)
+
+"00",(F,C,0,0,Verdana,9,400,0,0,18,0,0,0)
+
+& sharpf sharpc	3_4	I!'' 
+gg Fr_8 'f El_16	 thrd D_4	eg LAr_8 'la Dl_16	!
+gg Br_8 thrd Dl_8	dbf Fr_8 Er_32 Dl_16 'd	dbe E_4	!
+thrd Dr_8 'd El_16 gg F_4	dbha HAr_8 'ha HGl_16	!
+tdbf Fr_8 HAl_8		hdbf Fr_8 Er_32 Dl_16 'd	dbb B_4	!t
+
+& sharpf sharpc 
+gg Fr_8 'f El_16	 thrd D_4	eg LAr_8 'la Dl_16	!
+gg Br_8 thrd Dl_8	dbf Fr_8 Er_32 Dl_16 'd	dbe E_4	!
+thrd Dr_8 'd El_16 	gg Fr_8 HAl_8	  hdbf Fr_8 Er_32 Dl_16 'd	!
+dbb Br_8 eg LAl_8 	dbb Br_8 Dl_8	gstd D_4	''!I
+
+& sharpf sharpc I!
+gg Fr_8 'f HGl_16 	dbhg HA_4	thrd Dr_8 'd El_16	!
+dbf Fr_8 HAl_8		hdbf Fr_8 Er_32 Dl_16 'd	dbe E_4	!
+gg Fr_8 'e HGl_16	dbha HA_4	thrd Dr_8 'd El_16	!
+gg Fr_8 abr LAl_8	dbf Fr_8 Er_32 Dl_16 'd 	dbb B_4	!t
+
+& sharpf sharpc 
+gg Fr_8 'f HGl_16 	dbhg HA_4	thrd Dr_8 'd El_16	!
+dbf Fr_8 HAl_8		hdbf Fr_8 Er_32 Dl_16 'd	dbe E_4	!
+thrd Dr_8 'd El_16 	gg Fr_8 HAl_8	  hdbf Fr_8 Er_32 Dl_16 'd	!
+dbb Br_8 eg LAl_8 	dbb Br_8 Dl_8	gstd D_4	!I
+
+& sharpf sharpc I!
+gg Fr_8 'f HGl_16 	dbhg HA_4	thrd Dr_8 'd El_16	!
+dbf Fr_8 HAl_8		HGr_16 'hg Fl_32 gg El_16 'e Dl_32	gg E_4	!
+gg Fr_8 'f HGl_16 	dbhg HA_4	thrd Dr_8 'd El_16	!
+gg Fr_8 abr LAl_8	HGr_16 'hg Fl_32 gg El_16 'e Dl_32	dbb B_4	!t
+
+& sharpf sharpc 
+gg Fr_8 'f El_16	 thrd D_4	eg LAr_8 'la Dl_16	!
+gg Br_8 thrd Dl_8	HGr_16 'hg Fl_32 gg El_16 'e Dl_32	gg E_4	!
+thrd Dr_8 'd El_16 	gg Fr_8 HAl_8	  hdbf Fr_8 Er_32 Dl_16 'd	!
+dbb Br_8 eg LAl_8 	dbb Br_8 Dl_8	gstd D_4	!I

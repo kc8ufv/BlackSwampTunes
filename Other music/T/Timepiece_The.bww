@@ -1,0 +1,64 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+InstrumentMappings,(109,111,46,34,1000,60,70)
+GracenoteDurations,(30,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,75,80,300)
+TuneFormat,(1,0,F,C,500,500,500,500,P,0,0)
+
+TuneTempo,80
+
+"The Timepiece",(T,C,0,0,Verdana,12,400,0,0,0,0,0,0)
+"Jig",(Y,L,0,0,Verdana,9,400,0,0,0,0,0,0)
+"PM Robert Burns, Royal Scots",(M,R,0,0,Verdana,9,400,0,0,18,0,0,0)
+"P. 61 Royal Scots Collection",(F,R,0,0,Verdana,10,400,0,0,18,0,0,0)
+
+"Part 1"
+& sharpf sharpc       I!''	6_8 E_8
+!	gg LAr_8 dg LAl_8 eg LAl_8	gg Er_8 Cl_8 strlg Cl_8
+!	gg Dr_8 El_8 Fl_8	gg Er_8 Cl_8 strlg Cl_8
+!	gg LAr_8 dg LAl_8 eg LAl_8	gg Er_8 Cl_8 strlg Cl_8
+!	gg Dr_8 Bl_8 strlg Bl_8	dbb  B_4 E_8	!t
+
+& sharpf sharpc	'22	gg LAr_8 dg LAl_8 eg LAl_8	gg Er_8 Cl_8 strlg Cl_8
+!	gg Dr_8 El_8 Fl_8	gg Er_8 Cl_8 strlg Cl_8
+!	gg Br_8 dg Bl_8 eg Bl_8	gg Dr_8 Fl_8 El_8
+!	gg Cr_8 dg LAl_8 eg LAl_8	brl LA_4	_'	''!I
+
+"Part 2"
+& sharpf sharpc	I!''	E_8
+!	HAr_8 HGl_8 HAl_8	Er_8 Cl_8 strlg Cl_8
+!	gg Dr_8 El_8 Fl_8	gg Er_8 Cl_8 strlg Cl_8
+!	HAr_8 HGl_8 HAl_8	Er_8 Cl_8 strlg Cl_8
+!	gg Dr_8 Bl_8 strlg Bl_8	dbb B_4 E_8	!t
+
+& sharpf sharpc	'1	HAr_8 HGl_8 HAl_8	Er_8 Cl_8 strlg Cl_8
+!	gg Dr_8 El_8 Fl_8	gg Er_8 Cl_8 strlg Cl_8
+!	gg Br_8 dg Bl_8 eg Bl_8	gg Dr_8 Fl_8 El_8
+!	gg Cr_8 dg LAl_8 eg LAl_8	brl LA_4	_'	''!I
+
+"Part 3"
+& sharpf sharpc	I!'' E_8
+!	gg LAr_8 dg LAl_8 eg LAl_8	gg Fr_8 Dl_8 strlg Dl_8
+!	gg Br_8 dg Bl_8 eg Bl_8	gg Dr_8 Cl_8 gg Bl_8
+!	gg LAr_8 dg LAl_8 eg LAl_8	gg Fr_8 Dl_8 strlg Dl_8
+!	gg Fr_8 El_8 strla El_8	dbe E_4 F_8  !t
+
+& sharpf sharpc	'24	gg LAr_8 dg LAl_8 eg LAl_8	gg Fr_8 Dl_8 strlg Dl_8
+!	gg Br_8 dg Bl_8 eg Bl_8	gg Dr_8 Cl_8 gg Bl_8
+!	gg LAr_8 dg LAl_8 eg LAl_8	gg Fr_8 El_8 strlg El_8
+!	gg Fr_8 Dl_8 strlg Dl_8	gstd D_4	_'	''!I
+
+"Part 4"
+& sharpf sharpc 	
+I!''	E_8
+!	HAr_8 LAl_8 dg LAl_8	gg Fr_8 Dl_8 strlg Dl_8
+!	gg Br_8 dg LGl_8 eg LGl_8	gg Dr_8 Cl_8 Bl_8
+!	HAr_8 LAl_8 dg LAl_8	gg Fr_8 Dl_8 strlg Dl_8
+!	gg Fr_8 El_8 strla El_8	dbe E_4 F_8  !t
+
+& sharpf sharpc	'1  HAr_8 LAl_8 dg LAl_8	gg Fr_8 Dl_8 strlg Dl_8
+!	gg Br_8 dg LGl_8 eg LGl_8	gg Dr_8 Cl_8 Bl_8
+!	gg LAr_8 dg LAl_8 eg LAl_8	gg Fr_8 El_8 strlg El_8
+!	gg Fr_8 Dl_8 strlg Dl_8	gstd D_4	_'	''!I

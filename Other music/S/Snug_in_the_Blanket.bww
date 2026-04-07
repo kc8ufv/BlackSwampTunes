@@ -1,0 +1,59 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,0)
+
+TuneFormat,(1,0,F,L,500,500,500,500,L,0,0)
+
+TuneTempo,120
+
+"Snug in the Blanket",(T,L,0,0,arial,16,700,0,0,18,0,0,0)
+
+"Jig",(Y,C,0,0,arial,14,400,0,0,18,0,0,0)
+
+"Trad ??",(M,R,0,0,arial,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,arial,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 6_8 I!'' 
+gg Er_8 strla Er_8 Fl_8			tg HGr_8 Fr_8 HGl_8	!
+LAr_8 dg LAr_8 eg LAl_8			dbhg HG_4	E_8	!
+gg Fr_8 HAr_8 Fl_8				tg HGr_8 Er_8 Cl_8	!
+gg Dr_8 Cr_8 Dl_8				dbf F_4	D_8	!t
+
+
+& sharpf sharpc  
+gg Er_8 strla Er_8 Fl_8			tg HGr_8 Fr_8 HGl_8	!
+LAr_8 dg LAr_8 eg LAl_8			dbhg HG_4	E_8	!
+gg Fr_8 HAr_8 Fl_8				tg HGr_8 Er_8 Cl_8	!
+gg Dr_8 Fr_8 gg El_8			thrd D_4 'd	''!I
+
+
+
+& sharpf sharpc I!'' 
+gg Cr_8 strlg Cr_8 Dl_8			gg E_4	abr LA_8	!
+gg Er_8 LAr_8 Fl_8				gg E_4	abr LA_8	!
+gg Cr_8 strlg Cr_8 Dl_8			gg E_4	abr LA_8	!
+gg Br_8 strlg Br_8 Cl_8			gg Dr_8 Br_8 dg LGl_8	!t
+
+
+& sharpf sharpc  
+gg Cr_8 strlg Cr_8 Dl_8			gg E_4	abr LA_8	!
+gg Er_8 LAr_8 Fl_8				gg E_4	abr LA_8	!
+gg Fr_8 HAr_8 Fl_8				tg HGr_8 Er_8 Cl_8	!
+gg Dr_8 Fr_8 gg El_8			thrd D_4 'd	''!I
+
+
+
+
+
+
+
+

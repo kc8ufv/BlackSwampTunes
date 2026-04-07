@@ -1,0 +1,48 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+"Converted from  Pipe Write file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+TuneFormat,(1,0,F,L,500,500,500,500,L,0,0)
+
+"Christmas Carousin'",(T,L,0,0,Times New Roman,14,700,0,0,18,0,0,0)
+
+"Reel",(Y,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+TuneTempo,98
+
+"Traditional",(F,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+ "Line 1 ---" 
+& sharpf sharpc C_ 
+I!'' HA_8 	
+! hdbe E_8 "a2,pga0,-gb0,{ba1-db1",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+D_0 	
+! gbr LA_4 	gg Fr_8 'f El_16 	gg Dr_16 Br_8 'b ag Br_8 HAl_8 	
+! hdbe Er_8 'e LAl_16 	gbr LA_4 	gg B_4 	tar LA_0 	dg B_8 	
+! gbr LA_4 	gg Fr_8 'f El_16 	thrd D_4 	lgstd D_8  "Line 2 ---" ''!I
+
+& sharpf sharpc 
+! HA_8 	
+! hdbf Fr_8 'f Dr_16 gg Fr_16 HAl_8 	'ha hdbf Fr_8 'f Dr_16 gg Fr_16 HAl_8 	'ha 
+! E_4 	grp Er_8 Fl_8 	gg Dr_16 Br_8 'b ag Br_8 HAl_8 	
+! hdbf Fr_8 'f Dr_16 gg Fr_16 HAl_8 	'ha hdbf Fr_8 'f Dr_16 gg Fr_16 HAl_8 	'ha 
+! E_4 	grp Er_8 Fl_8 	thrd D_4 	lgstd D_8  "Line 3 ---" !t
+
+
+& sharpf sharpc 
+! HA_8 	
+! hdbf Fr_8 'f Dr_16 gg Fr_16 HAl_8 	'ha hdbf Fr_8 'f Dr_16 gg Fr_16 HAl_8 	'ha 
+! E_4 	grp Er_8 Fl_8 	gg Dr_16 Br_8 'b ag Br_8 El_8 	
+! dbha HA_4 	'ha F_8 	gg E_4 	grp Er_8 Fl_8 	
+! dbhg HGr_8 'hg HAr_16 HGr_8 'hg El_16 	thrd D_4 	lgstd D_8 	 !I

@@ -1,0 +1,62 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,44
+
+"Company's Lament",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Piobaireachd",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Footer",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+
+"I Ground",(I,N,0,0,Lucida Sans,14,700,1,0,34,0,0,0)
+& sharpf sharpc
+ gg LA_4 dg C_2  rodin LA_2  
+! gg Er_32 strla El_8 ''e  echola E_2
+! gg F_2 B_16 grp C_2 B_8  
+! gg Er_32 strla El_8 ''e  echola E_2
+''!I
+
+&  sharpf sharpc
+ gg B_8 tra D_2 C_4 strlg LA_2  
+! gg Fr_32 stre Fl_8 ''f echoe F_2
+! gg F_2 gg E_4 dbha HA_2 E_4 
+! gg Fr_32 stre Fl_8 ''f echoe F_2
+! dbha HA_2 E_8 gg F_2 C_8  
+! gg Er_32 strla El_8 ''e  echola E_2
+! gg F_2 B_8 grp C_2 B_8  
+! gg Fr_32 stre Fl_8 ''f echoe F_2
+!t
+
+"Varation I",(I,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+&  sharpf sharpc
+ gg LA_4 'la dg C_8 gg LA_8  dg B_2
+!  gg Er_32 strla El_8 ''e  echola E_2
+! gg F_4 'f E_8 gg F_8 HA_2
+! Er_32 strla El_8 ''e  echola E_2
+!t
+
+&  sharpf sharpc
+ gg B_8 tra D_4 'd gg LA_8 dg C_2
+! gg Fr_32 stre Fl_8 ''f echoe F_2
+! gg F_4 'f E_8 gg F_8 HA_2
+! gg Fr_32 stre Fl_8 ''f echoe F_2
+! gg F_4 'f E_8 gg F_8 HA_2
+! Er_32 strla El_8 ''e  echola E_2
+! gg F_4 'f B_8 grp C_8 HA_2
+! gg Fr_32 stre Fl_8 ''f echoe F_2
+!t

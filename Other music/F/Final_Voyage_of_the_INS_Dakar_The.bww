@@ -1,0 +1,81 @@
+Bagpipe Reader:1.0
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+InstrumentMappings,(71,71,46,34,1000,30,50)
+GracenoteDurations,(26,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,2000,1500,1500,1500,L,0,0)
+TuneTempo,74
+
+"The Final Voyage of the INS Dakar",(T,L,0,0,Times New Roman,14,700,0,0,18,0,0,0)
+"DN Siegel",(M,R,0,0,Times New Roman,12,400,,0,18,0,0,0)
+"THE FINAL VOYAGE OF THE INS DAKAR (c) 2002 David N. Siegel, POB 9647, Karmiel 21901, Israel.",(F,C,0,0,Times New Roman,8,400,0,0,18,0,0,0)
+"Slow Hornpipe",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+"Sank in 3000 metres of water on a voyage from Portsmouth to Haifa in 1968",(I,L,0,0,Times New Roman,8,400,0,0,0,0,0,0) 
+
+& sharpf sharpc 2_4
+gg Fr_16 'f El_32
+I!''
+Dr_32 eg Bl_16 'b strlg Br_16 'b El_32	strla Er_16 'e Fl_32 dbhg  HGr_16 'hg El_32 !
+thrd Dr_16 'd LAl_32 gg ^3s Br_16 Cr_16  Dl_16 ^3e 	dbc    Cr_8  gg Br_16 'b El_32 !
+dbhg HGr_8 tg Fr_16 'f  Bl_32	gg ^3s  Er_16 Fr_16 HGl_16 ^3e    tg Er_16 'e Dl_32 !
+dbc Cr_16 'c LAl_32  gg ^3s Cr_16  El_16  Fl_16 ^3e 	gg Br_8 strlg Br_16 'b El_32  !t
+
+& sharpf sharpc
+Dr_32 eg Bl_16 'b strlg  Br_16 'b El_32	strla Er_16 'e Fl_32 dbhg  HGr_16 'hg El_32 !
+thrd Dr_16 'd LAl_32 gg ^3s Br_16 Cr_16  Dl_16 ^3e 	dbc    Cr_8  dbe Er_16 'e Fl_32 !
+ ^3s HGr_16  LAr_16 Bl_16 ^3e   gg ^3s  Cr_16 Er_16 Fl_16 ^3e 	gg ^3s  Er_16 Fr_16 HGl_16 ^3e  tg Er_16 'e HAl_32 !
+^3s  Fr_16 Er_16 Cl_16 ^3e gg ^3s LAr_16 Dr_16   Cl_16 ^3e   	TuneTempo,80 gg  ^3s Br_32 dg Bl_16 strlg Bl_16  ^3e 'b TuneTempo,74 gg Br_16 'b dg Cl_32   ''!I
+
+
+
+" 2 "
+& sharpf sharpc
+I!'' 
+gg ^3s Fr_16  Er_16 Fl_16 ^3e  gg Br_16 'b dg Cl_32	 gg  ^3s Dr_16  Cr_16  Bl_16 ^3e  gg LAr_16 'la Cl_32 !
+Dr_32 eg Bl_16 'b gg LAr_16 'la Bl_32		dbc Cr_8  gg ^3s Dr_16  Er_16 Fl_16 ^3e  !
+dbhg HGr_8 tg Fr_16 'f  Bl_32	gg ^3s  Er_16 Fr_16 HGl_16 ^3e    tg Er_16 'e Dl_32 !
+dbc Cr_16 'c LAl_32  gg ^3s Cr_16  El_16  Fl_16 ^3e 	gg Br_8 strlg Br_16 'b El_32  !t
+
+& sharpf sharpc
+gg ^3s Fr_16  Er_16 Fl_16 ^3e  gg Br_16 'b dg Cl_32	 gg  ^3s Dr_16  Cr_16  Bl_16 ^3e  gg LAr_16 'la  Cl_32 !
+Dr_32 eg Bl_16 'b gg LAr_16 'la Bl_32		dbc  Cr_8  dbe Er_16 'e Fl_32 !
+^3s HGr_16   LAr_16 Bl_16 ^3e    gg ^3s  Cr_16 Er_16 Fl_16 ^3e 	gg ^3s  Er_16 Fr_16 HGl_16 ^3e  tg Er_16 'e HAl_32 !
+^3s  Fr_16 Er_16 Cl_16 ^3e gg ^3s LAr_16 Dr_16   Cl_16 ^3e   	TuneTempo,80 gg  ^3s Br_32 dg Bl_16 strlg Bl_16  ^3e 'b TuneTempo,74 gg Br_16 'b Cl_32   ''!I
+
+" 3 "
+& sharpf sharpc
+I!''
+gg ^3s Cr_16 LAl_16  Cl_16 ^3e   dbb  Br_16 'b dg Cl_32 	thrd  Dr_16 'd Fl_32  dbe Er_16 'e  Dl_32 !
+gg ^3s Cr_16  Bl_16  LAl_16 ^3e gg LAr_16 'la Bl_32 	dbc Cr_16 'c El_32  strla Er_16 'e Fl_32 !
+dbhg HGr_8 tg Fr_16 'f  Bl_32	gg ^3s  Er_16 Fr_16 HGl_16 ^3e    tg Er_16 'e Dl_32 !
+dbc Cr_16 'c LAl_32  gg ^3s Cr_16  El_16  Fl_16 ^3e 	gg Br_8 strlg Br_16 'b dg Cl_32  !t
+
+& sharpf sharpc
+gg ^3s Cr_16 LAl_16  Cl_16 ^3e   dbb  Br_16 'b dg Cl_32 	thrd  Dr_16 'd Fl_32  dbe Er_16 'e  Dl_32 !
+gg ^3s Cr_16  Bl_16  LAl_16 ^3e gg LAr_16 'la Bl_32 	dbc Cr_8 dbe Er_16 'e Fl_32 !
+^3s HGr_16   LAr_16 Bl_16 ^3e    gg ^3s  Cr_16 Er_16 Fl_16 ^3e 	gg ^3s  Er_16 Fr_16 HGl_16 ^3e  tg Er_16 'e HAl_32 !
+^3s  Fr_16 Er_16 Cl_16 ^3e gg ^3s LAr_16 Dr_16   Cl_16 ^3e   	TuneTempo,80 gg  ^3s Br_32 dg Bl_16 strlg Bl_16  ^3e 'b TuneTempo,74 gg Br_16 'b Cl_32   ''!I
+
+
+
+
+" 4 "
+
+& sharpf sharpc
+I!'' 
+gg ^3s Dr_32  Br_16 strlg Bl_16 ^3e 'b  gg ^3s Br_16 LAr_16 Bl_16 ^3e 	thrd Dr_16 'd  gg Bl_32  strlg Br_16 'b  El_32 !
+gg ^3s Dr_32  Br_16 strlg Bl_16 ^3e 'b  gg ^3s Br_16  Cr_16 Dl_16 ^3e   	 gg LAr_16 'la dg Cl_32  dbe Er_16 'e Fl_32 !
+dbhg HGr_8 tg Fr_16 'f  Bl_32	gg ^3s  Er_16 Fr_16 HGl_16 ^3e    tg Er_16 'e Dl_32 !
+dbc Cr_16 'c LAl_32  gg ^3s Cr_16  El_16  Fl_16 ^3e 	gg Br_8 strlg Br_16 'b El_32  !t
+
+
+& sharpf sharpc
+gg  ^3s Dr_32  Br_16 strlg Bl_16 ^3e 'b  gg ^3s Br_16 LAr_16 Bl_16 ^3e 	thrd Dr_16 'd  gg Bl_32  strlg Br_16 'b  El_32 !
+gg ^3s Dr_32  Br_16 strlg Bl_16 ^3e 'b  gg ^3s Br_16  Cr_16 Dl_16 ^3e   	 dbc  Cr_8  dbe Er_16 'e Fl_32   !
+ ^3s HGr_16  LAr_16 Bl_16 ^3e   gg ^3s  Cr_16 Er_16 Fl_16 ^3e 	gg ^3s  Er_16 Fr_16 HGl_16 ^3e  tg Er_16 'e HAl_32 !
+^3s  Fr_16 Er_16 Cl_16 ^3e gg ^3s LAr_16 Dr_16   Cl_16 ^3e   	TuneTempo,80 gg  ^3s Br_32 dg Bl_16 strlg Bl_16  ^3e 'b TuneTempo,74 '1 gg Br_16 'b Cl_32 _' '2 gg B_8 _'   ''!I
+

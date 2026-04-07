@@ -1,0 +1,75 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,1,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,87
+
+"Morag Ramsay",(T,C,0,0,Verdana,16,400,0,0,18,0,0,0)
+
+"March",(Y,L,0,0,Verdana,10,400,0,0,18,0,0,0)
+
+"Peter R. MacLeod",(M,R,0,0,Verdana,10,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+"Part 1, 1st Line"
+& sharpf sharpc	2_4	I!'' E_8
+!	gg LAr_8 tar LAr_16 'la dg Bl_32	dbe Er_16 'e LAr_32 gg Bl_32 dg LAl_16 'la
+!	dbe Er_16 'e Dr_32 gg El_32 HGl_16 'hg	hdbe Er_8 dbd Dr_16 'd Bl_32
+!	gg LGr_16 'lg dg LGl_32 eg LGr_16 'lg Bl_32	thrd Dr_16 'd Er_32 gg Bl_32 Dl_16 'd
+!	gg Er_32 HGr_16 'hg tg Br_32 Dl_16 'd	dbb Br_8 gg LAr_32 dg LGl_16 'lg 	!t
+
+"Part 1, 2nd Line"
+& sharpf sharpc	'22	gg LAr_8 tar LAr_16 'la dg Bl_32	dbe Er_16 'e LAr_32 gg Bl_32 dg LAl_16 'la
+!	gg Er_32 HGr_16 'hg tg Br_32 Dl_16 'd	dbe Er_8 dbha HAl_8
+!	fg HGr_16 'hg Fl_32 dbe Er_16 'e Dl_32	dbb Br_16 'b gg LAl_32 dg LGr_16 'lg LAl_32
+!	dbb Br_8 eg LAl_8 brl LA_8 _'	''!I
+
+"Part 2, 1st Line"
+& sharpf sharpc I!'' E_8
+!	gbr LAr_8 HAr_16 'ha HGl_32	HAr_16 'ha El_32 strla Er_16 'e HAl_32
+!	dbe Er_16 'e Dr_32 gg El_32 HGl_16 'hg	hdbe Er_8 dbd Dr_16 'd Bl_32
+!	gg LGr_32 dg LGr_16 'lg HGr_16 'hg Fl_32	tg HGr_16 'hg Dr_32 gg Bl_32 Dl_16 'd
+!	gg Er_32 HGr_16 'hg tg Br_32 Dl_16 'd	dbb Br_8 gg LAr_32 dg LGl_16 'lg 	!t
+
+"Part 2, 2nd Line, 1st Time"
+& sharpf sharpc 
+'1	gbr LAr_8 HAr_16 'ha HGl_32	HAr_16 'ha El_32 strla Er_16 'e HAl_32
+!	gg Er_32 HGr_16 'hg tg Br_32 Dl_16 'd	dbe Er_8 dbha HAl_8
+!	fg HGr_16 'hg Fl_32 dbe Er_16 'e Dl_32	dbb Br_16 'b gg LAl_32 dg LGr_16 'lg LAl_32
+!	dbb Br_8 eg LAl_8 brl LA_8 _'	''!I
+
+"Part 3, 1st Line"
+& sharpf sharpc I!'' E_8
+!	gg LAr_8 tar LAr_16 'la dg Bl_32	gg LAr_8 tar LAr_16 'la dg Bl_32
+!	dbe Er_8 tar LAr_16 'la dg Bl_32	gg Er_32 HGl_16 'hg tg Dr_32 El_16 'e
+!	gg LGr_16 'lg dg LGl_32 eg LGr_16 'lg Dl_32	gg Br_8 tar LGr_16 'lg dg Bl_32
+!	gg Er_32 HGr_16 'hg tg Br_32 Dl_16 'd	dbb Br_8 gg LAr_32 dg LGl_16 'lg 	!t
+
+"Part 3, 2nd Line"
+& sharpf sharpc	'22	gg LAr_8 tar LAr_16 'la dg Bl_32	gg Br_8 tar LAr_16 'la dg Bl_32
+!	gg Er_32 HGr_16 'hg tg Br_32 Dl_16 'd	dbe Er_8 dbha HAl_8
+!	fg HGr_16 'hg Fl_32 dbe Er_16 'e Dl_32	dbb Br_16 'b gg LAl_32 dg LGr_16 'lg LAl_32
+!	dbb Br_8 eg LAl_8 brl LA_8 _'	''!I
+
+"Part 4, 1st Line"
+& sharpf sharpc I!'' dbhg HG_8
+!	HAr_16 'ha El_32 strla Er_16 'e HGl_32	HAr_16 'ha El_32 strla Er_16 'e HAl_32
+!	HGr_16 'hg El_32 strla Er_16 'e HAl_32	hdbe Er_8 gg Br_32 Dl_16 'd
+!	tg HGr_16 'hg Dr_32 cg Dr_16 'd El_32	tg HGr_16 'hg Dr_32 cg Dr_16 'd El_32
+!	tg Er_16 'e Dl_32 cg Dr_16 'd HGl_32	tdbb Br_8 gg LAr_32 dg LGl_16 'lg	!t
+
+& sharpf sharpc '1	HAr_16 'ha El_32 strla Er_16 'e HGl_32	HAr_16 'ha El_32 strla Er_16 'e HAl_32
+!	gg Er_32 HGr_16 'hg tg Br_32 Dl_16 'd	dbe Er_8 dbha HAl_8
+!	fg HGr_16 'hg Fl_32 dbe Er_16 'e Dl_32	dbb Br_16 'b gg LAl_32 dg LGr_16 'lg LAl_32
+!	dbb Br_8 eg LAl_8 brl LA_8 _'	_'	''!I

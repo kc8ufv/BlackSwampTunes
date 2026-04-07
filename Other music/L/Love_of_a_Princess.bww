@@ -1,0 +1,79 @@
+Bagpipe Music Writer Gold:1.0
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(40,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,C,500,500,500,500,P,1,0)
+
+TuneTempo,40
+
+"Love of a Princess",(T,C,0,0,Times New Roman,20,800,0,1,18,0,0,0)
+"3 4 Air",(Y,L,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"Arrgd Aitch",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"Braveheart",(F,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+& sharpf sharpc  3_4
+I!	LAr_8 Bl_8
+!	Er_8 'e HGl_16	Fr_8 'f HGr_32 Fl_32	Er_8 Dl_8
+!	gg Dr_8 'd El_16	B_4					strlg Br_8 Dl_8
+!	Er_8 'e HGl_16	Fr_8 HGr_16 Fl_16 		Er_8 Dl_8
+!	gg D_4 			E_4					Br_8 Dl_8
+!t
+
+& sharpf sharpc 
+!	Er_8 'e HGl_16		Fr_8 'f HGr_32 Fl_32	Er_8 Dl_8
+!	gg Dr_8 'c El_16		B_4 					strlg Br_8 Dl_8
+!	Er_8 'e HGl_16		Fr_8 HGr_16 Fl_16 		Er_8 Dl_8
+!	gg B_4				^ts E_4				E_4 ^te
+!I
+
+& sharpf sharpc 4_4
+I!''	gg E_4		ag Er_8 Dl_8		LA_4		LGr_8 LAl_8
+!	naturalc Cr_16 Bl_8 'b	LAr_8 LGl_8		HG_4 'hg		tg HG_8
+!	TuneTempo,50 9_8 LGr_8 LAr_8 Bl_8	LAr_8 Br_16 LAl_16 LGr_16 LAl_16	Dr_8 Br_8 Dl_8
+!	4_4 E_4			Fr_8	HGl_8		tg HG_4		Fr_8 El_8
+!t
+
+& sharpf sharpc 
+!	D_4			Er_8 Fl_8			dbf F_4 'f		eg F_8
+!	dbe E_2			
+! 	
+!
+''!I
+
+& sharpf sharpc  3_4
+I!	LAr_8 Bl_8
+!	Er_8 'e HGl_16	Fr_8 'f HGr_32 Fl_32	Er_8 Dl_8
+!	gg Dr_8 'd El_16	B_4					strlg Br_8 Dl_8
+!	Er_8 'e HGl_16	Fr_8 HGr_16 Fl_16 		Er_8 Dl_8
+!	gg D_4 			E_4					Br_8 Dl_8
+!t
+
+& sharpf sharpc 
+!	Er_8 'e HGl_16		Fr_8 'f HGr_32 Fl_32	Er_8 Dl_8
+!	gg Dr_8 'c El_16		B_4 					strlg Br_8 Dl_8
+!	Er_8 'e HGl_16		Fr_8 HGr_16 Fl_16 		Er_8 Dl_8
+!	gg B_4				^ts E_4				E_4 ^te
+!I
+
+
+
+
+
+
+
+
+
+
+
+
+
+!t

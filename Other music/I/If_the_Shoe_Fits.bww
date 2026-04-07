@@ -1,0 +1,112 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,60,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,88
+
+"If the Shoe Fits...",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+"Chris Hamilton, 1995",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+"",(F,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+
+& sharpf sharpc 2_4
+I!'' !
+HA_8	!
+hdbf F_4				
+gg Br_16 'b Cl_32 gg Dl_16 'd El_32	!
+gg Fr_16 'f Bl_32 HAl_16 'ha LAl_32	
+dbc Cr_8 gg Br_32 LAl_16 'la		!
+dbf F_4  	
+gg Br_16 'b Cl_32 gg Dl_16 'd Bl_32	!
+dbc Cr_8 eg LAl_8		
+gg LAr_16 'la dg Cl_32 HAl_16 'ha El_32	!t
+& sharpf sharpc
+dbf F_4	
+gg Br_16 'b Cl_32 gg Dl_16 'd El_32	!
+gg Fr_16 'f Bl_32 HAl_16 'ha LAl_32	
+dbc Cr_8 gg Br_32 LAl_16 'la		!
+dbf Fr_16 'f Bl_32 strlg Br_16 'b HAl_32	
+strhg HAr_16 'ha Fl_32 gg El_16 'e Cl_32	!
+gg Cr_32 Dl_16 'd eg Bl_8		
+grp B_8					''!I
+
+& sharpf sharpc
+I!'' !
+F_8	!
+dbha HAr_8 'ha Fl_16			
+gg Br_16 'b Fl_32 stre Fr_16 'f Cl_32	!
+dbe Er_16 'e LAl_32 HAl_16 'ha LAl_32	
+dbc Cr_8 gg Br_32 LAl_16 'la		!
+dbha HAr_8 'ha Fl_16			
+gg Br_16 'b Fl_32 stre Fr_16 'f El_32	!
+dbc Cr_8 eg LAl_8			
+gg Fr_16 'f Er_32 gg Cl_32 El_16 'e	!t
+& sharpf sharpc
+dbha HAr_8 'ha Fl_16			
+gg Br_16 'b Fl_32 stre Fr_16 'f Cl_32	!
+dbe Er_16 'e LAl_32 HAl_16 'ha LAl_32	
+dbc Cr_8 gg Br_32 LAl_16 'la		!
+dbf Fr_16 'f Bl_32 strlg Br_16 'b HAl_32	
+strhg HAr_16 'ha Fl_32 gg El_16 'e Cl_32	!
+gg Cr_32 Dl_16 'd eg Bl_8		
+grp B_8					''!I
+
+& sharpf sharpc
+I!'' !
+HA_8	!
+Fr_16 'f Bl_32 pelb Bl_8	
+gg Cr_16 'c Bl_32 strlg Bl_8 ^tb	!
+Br_16 'b Fl_32 stre Fl_16 'f Bl_32	
+HAr_16 'ha Bl_32 gg Fl_16 'f Cl_32	!
+gg Er_16 'e LAl_32 gbr LAl_8			
+gg Cr_16 'c dg LAl_32 eg LAl_8 ^tla	!
+LAr_16 'b El_32 strla El_16 'e Cl_32	
+HAr_16 'ha Cl_32 gg El_16 'e Cl_32	!t
+& sharpf sharpc
+gg Fr_16 'f Bl_32 pelb Bl_8	
+gg Cr_16 'c Bl_32 strlg Bl_8 ^tb	!
+Br_16 'b Fl_32 stre Fl_16 'f Bl_32	
+HAr_16 'ha Bl_32 gg Fl_16 'f Bl_32	!
+dbf Fr_16 'f Bl_32 strlg Br_16 'b HAl_32	
+strhg HAr_16 'ha Fl_32 gg El_16 'e Cl_32	!
+gg Cr_32 Dl_16 'd eg Bl_8		
+grp B_8					''!I
+
+& sharpf sharpc
+I!'' !
+F_8	!
+dbha HAr_8 'ha Fl_16			
+stre Fr_16 'f HAl_32 Bl_8 ^tb		!
+Br_16 'b HAl_32 Fl_16 'f Bl_32		
+HAr_16 'ha Bl_32 gg Fl_16 'f Cl_32	!
+gg Er_16 'e LAl_32 gbr LAl_8			
+gg Cr_16 'c El_32 gg LAl_8 ^tla	!
+LAr_16 'la dg Cl_32 dbe El_16 'e Cl_32	
+HAr_16 'ha Cl_32 gg El_16 'e Cl_32	!t
+& sharpf sharpc
+dbha HAr_8 'ha Fl_16			
+stre Fr_16 'f HAl_32 Bl_8 ^tb		!
+Br_16 'b HAl_32 Fl_16 'f Bl_32		
+HAr_16 'ha Bl_32 gg Fl_16 'f Bl_32	!
+dbf Fr_16 'f Bl_32 strb Br_16 'b HAl_32	
+strhg HAr_16 'ha Fl_32 gg El_16 'e Cl_32	!
+gg Cr_32 Dl_16 'd eg Bl_8		
+grp B_4					''!I
+

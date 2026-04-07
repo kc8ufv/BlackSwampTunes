@@ -1,0 +1,76 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,750,1500,750,500,P,1,0)
+
+TuneTempo,72
+
+"Miss Delicia Chisholm",(T,C,0,0,Arial,15,700,0,0,18,0,0,0)
+
+
+"March",(Y,L,0,0,Arial,12,400,0,0,18,0,0,0)
+
+
+"William Fraser",(M,R,0,0,Arial,12,400,150,0,18,0,0,0)
+
+
+"arr. George Bell, Parlin, NJ",(F,R,0,0,Arial,12,400,150,0,18,0,0,0)
+
+
+& sharpf sharpc 2_4 I!'' space	 E_8 space	
+!	gg LAr_8 'la Bl_16			dbla LAr_8 eg LGl_8
+!	thrd Dr_8 'd El_16			gg F_4
+!	gg Fr_8 abr LAl_8			thrd Dr_8 Fl_8
+!	HAr_16 'ha Fr_32 gg El_16 'e Dl_32 	dbe Er_8 Fl_8				!t
+
+& sharpf sharpc
+!	gg LAr_8 'la Bl_16			dbla LAr_8 eg LGl_8
+!	thrd Dr_8 'd El_16			gg F_4
+!	gg Fr_8 abr LAl_8			gg Fr_32 HAr_16 'ha El_16 'e Fl_32
+!	thrd D_4				lgstd D_8			space		''!I
+
+& sharpf sharpc I!'' dbhg HG_8	space
+!	dbha HAr_8 'ha HGl_16	hdbf Fr_8 thrd Dl_8
+!  	gg LAr_8 thrd Dl_8	gg F_4			
+!	gg Fr_8 abr LAl_8			thrd Dr_8 Fl_8
+!	HAr_16 'ha Fr_32 gg El_16 'e Dl_32 	dbe Er_8 dbhg HGl_8				!t
+
+& sharpf sharpc
+!	dbha HAr_8 'ha HGl_16	hdbf Fr_8 thrd Dl_8
+!  	gg LAr_8 thrd Dl_8	gg F_4			
+!	gg Fr_8 abr LAl_8			gg Fr_32 HAr_16 'ha El_16 'e Fl_32
+!	thrd D_4				lgstd D_8			space		''!I
+
+& sharpf sharpc 2_4 I!'' space	E_8 space	
+!	gg LAr_8 'la Bl_16			thrd Dr_8 eg LAl_8			
+!	dbb Br_8 strlg LAl_8		gg F_4
+!	gg Fr_8 abr LAl_8			thrd Dr_8 Fl_8
+!	HAr_16 'ha Fr_32 gg El_16 'e Dl_32 	dbe Er_8 Fl_8				!t
+
+& sharpf sharpc
+!	gg LAr_8 'la Bl_16			thrd Dr_8 eg LAl_8
+!	dbb Br_8 strlg LAl_8		gg F_4
+!	gg Fr_8 abr LAl_8			gg Fr_32 HAr_16 'ha El_16 'e Fl_32
+!	thrd D_4					lgstd D_8			space		''!I
+
+& sharpf sharpc I!''  dbhg HG_8	space
+!	HA_4						grp HAr_8 'ha HGl_16
+!  	hdbf Fr_8 thrd Dl_8					dbha HAr_8 'ha  HGl_16			
+!	hdbf Fr_8 abr LAl_8					gg Fr_8 HAl_8
+!	Cr_32 Er_16 'e gg LAl_16 'la dg Cl_32 	dbe Er_8 dbhg HGl_8		!t
+
+& sharpf sharpc
+!	HA_4						grp HAr_8 'ha HGl_16
+!  	hdbf Fr_8 thrd Dl_8					dbha HAr_8 'ha  HGl_16			
+!	hdbf Fr_8 abr LAl_8					gg Fr_32 HAr_16 'ha El_16 'e Fl_32
+!	thrd D_4							lgstd D_8			space		''!I
+

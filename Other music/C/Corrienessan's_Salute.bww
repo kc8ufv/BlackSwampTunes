@@ -1,0 +1,140 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(60,100,65,25,220)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,50
+
+"Corrienessan's Salute",(T,C,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+
+
+
+"I. GROUND",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+
+& sharpf sharpc C
+I!	'bis cadged Cr_8 'c Bl_16		pgrp C_4				gg Er_8 'e Cl_16 		gg E_4
+!	gg Br_16 pgrp Cl_8 'c			gg Er_8 'e Bl_16		cadged C_4			rodin LA_4 bis_'
+!	gg Br_16 pgrp Cl_8 'c			Fr_8 'f Cl_16			gg Er_8 'e Fl_16		gg Cr_8 El_8 fermate
+!	cadged Cr_8 fermatc rodin LAl_8	pgrp C_4				cadged B_4			din LA_4 fine			!I
+
+
+& sharpf sharpc
+I! 	cadged Cr_8 'c Bl_16			pgrp C_4				gg Er_8 'e Cl_16 		gg E_4
+!	gg Br_16 pgrp Cl_8 'c			gg Er_8 'e Bl_16		cadged C_4			rodin LA_4
+!	gg Br_16 pgrp Cl_8 'c			Fr_8 'f Cl_16			gg Er_8 'e Fl_16		gg Cr_8 El_8 fermate
+!	cadged Cr_8 rodin LAl_8			pgrp C_4				cadged Br_32 strlg Bl_8 ''b echolg B_4
+!	gg Br_16 pgrp Cl_8 'c			Fr_8 'f Cl_16			gg Er_8 'e Fl_16		gg Cr_8 El_8 fermate
+!	cadged Cr_8 fermatc rodin LAl_8	pgrp C_4				cadged B_4			din LA_4				!I
+
+
+& sharpf sharpc
+I! 	cadged Cr_8 'c Bl_16			pgrp C_4				gg Er_8 'e Cl_16 		gg E_4
+!	gg Br_16 pgrp Cl_8 'c			gg Er_8 'e Bl_16		cadged C_4			rodin LA_4
+!	pdare Fr_8 'f El_16				gg Cr_8 'c Fl_16		gg Er_8 'e Cl_16		gg Br_8 El_8 fermate
+!	cadged Cr_8 fermatc rodin LAl_8	pgrp C_4				cadged B_4			din LA_4				!I
+
+
+
+VariationTempo,(58,64)
+"II. VAR.1  [S]   III. DOUBLING [D]",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+
+& sharpf sharpc segno
+I!	'bis gg C_4			eg LAr_8 'la dg Cl_16				gg E_4				gg LAr_8 'la El_16
+!	'si gg C_4			eg LAr_8 fermatla El_8 fermate		cadged C_4			rodin LA_4 'la _'
+!	'do gg C_4			eg LAr_8 'la El_16					gg C_4				eg LAr_8 'la dg Cl_16 _' bis_'
+!	gg B_4				eg LAr_8 'la Fl_16					gg E_4				gg LAr_8 'la El_16
+!	'si gg C_4			eg LAr_8 fermatla dg Cl_8 fermatc		cadged B_4			din LA_4 _'
+!	'do gg C_4			eg LAr_8 'la dg Cl_16				gg B_4				eg LGr_8 'lg dg Bl_16 _' 		!I
+
+
+& sharpf sharpc
+I!	gg C_4				eg LAr_8 'la dg Cl_16				gg E_4				gg LAr_8 'la El_16
+!	'si gg C_4			eg LAr_8 fermatla El_8 fermate		cadged C_4			rodin LA_4 _'
+!	'do gg C_4			eg LAr_8 'la El_16					gg C_4				eg LAr_8 'la dg Cl_16 _'
+!	gg B_4				eg LAr_8 'la Fl_16					gg E_4 				gg LAr_8 'la El_16	
+!	'si gg C_4			eg LAr_8 fermatla dg Cl_8 fermatc		cadged Br_32 strlg Bl_8 ''b echolg		B_4 _'
+!	'do gg C_4			eg LAr_8 'la dg Cl_16				gg E_4				gg LAr_8 'la El_16 _'
+!	gg B_4				eg LAr_8 'la Fl_16					gg E_4				gg LAr_8 'la El_16
+!	'si gg C_4			eg LAr_8 fermatla dg Cl_8 fermatc		cadged B_4			din LA_4 _'
+!	'do gg C_4			eg LAr_8 'la dg Cl_16				gg B_4				eg LGr_8 'lg dg Bl_16 _' 	!I
+
+
+& sharpf sharpc
+I!	gg C_4				eg LAr_8 'la dg Cl_16				gg E_4				gg LAr_8 'la El_16
+!	'si gg C_4			eg LAr_8 fermatla El_8 fermate		cadged C_4			rodin LA_4 _'
+!	'do gg C_4			eg LAr_8 'la El_16					gg C_4				eg LAr_8 'la dg Cl_16 _'
+!	gg F_4				gg LAr_8 'la Fl_16					gg E_4				gg LAr_8 'la El_16
+!	'si gg C_4			eg LAr_8 fermatla dg Cl_8 fermatc		cadged B_4			din LA_4 _'
+!	'do gg C_4			eg LAr_8 'la dg Cl_16				gg B_4				eg LGr_8 'la dg Bl_16 _'	!I dalsegno
+
+
+VariationTempo,(60,66)
+
+"IV. TAORLUATH  [S]   V. DOUBLING [D]",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+
+& sharpf sharpc segno
+I!	'bis C_4 pt			dg C_4				E_4 pt					E_4
+!	C_4 pt				E_4					'si cadged C_4			rodin LA_4 _'		'do C_4 pt 	dg C_4 _'  bis_'
+!	B_4 pt				F_4					E_4 pt					E_4
+!	C_4 pt 				dg C_4				'si cadged B_4			din LA_4 _'		'do B_4 ptlg	dg B_4 _'			!I
+
+
+& sharpf sharpc
+I!	C_4 pt				dg C_4				E_4 pt					E_4
+!	C_4 pt				E_4					'si cadged C_4			rodin LA_4 _'			'do C_4 pt 	dg C_4 _'
+!	B_4 pt				F_4					E_4 pt					E_4
+!	C_4 pt 				dg C_4				'si cadged Br_32 strlg Bl_8 ''b echolg	B_4 _'		'do E_4 pt E_4 _'
+!	B_4 pt				F_4					E_4 pt					E_4
+!	C_4 pt 				dg C_4				'si cadged B_4			din LA_4 _'			'do B_4 ptlg	dg B_4 _'			!I
+
+
+& sharpf sharpc
+I!	C_4 pt				dg C_4				E_4 pt					E_4
+!	C_4 pt				E_4					'si cadged C_4			rodin LA_4 _'			'do C_4 pt 	dg C_4 _'
+!	F_4 pt				F_4					E_4 pt 					E_4
+!	C_4 pt				dg C_4				'si cadged B_4			din LA_4 _'			'do B_4 ptlg	B_4 _'			!I dalsegno
+
+
+VariationTempo,(60,66)
+
+ "VI. CRUNLUATH  [S]   VII. DOUBLING [D]",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+
+& sharpf sharpc segno
+I!	'bis C_4 pc			LAr_8 dg Cl_16				E_4 pc					LAr_8 El_16
+!	'si  C_4 pc			LAr_8 fermatla El_8 fermate  		cadged C_4				rodin LA_4 _'
+!	'do C_4 pc			LAr_8 El_16				  	C_4 pc					LAr_8 dg Cl_16 _'  bis_'
+!	B_4 pc				LAr_8 Fl_16					E_4 pc					LAr_8 El_16
+!	'si  C_4 pc			LAr_8 fermatla dg Cl_8 fermatc  	cadged  B_4				din LA_4 _'
+!	'do C_4 pc			LAr_8 dg Cl_16				B_4 pc					LGr_8 dg Bl_16 _'			!I
+
+
+& sharpf sharpc
+I!	C_4 pc				LAr_8 dg Cl_16				E_4 pc					LAr_8 El_16
+!	'si  C_4 pc			LAr_8 fermatla El_8 fermate 		cadged C_4				rodin LA_4 _'
+!	'do C_4 pc			LAr_8 El_16				  	C_4 pc					LAr_8 dg Cl_16 _'
+!	B_4 pc				LAr_8 Fl_16					E_4 pc					LAr_8 El_16
+!	'si  C_4 pc			LAr_8 fermatla dg Cl_8 fermatc  	cadged Br_32 strlg Bl_8 ''b echolg	B_4 _'
+!	'do C_4 pc			LAr_8 dg Cl_16				E_4 pc					LAr_8 El_16 _'
+!	B_4 pc				LAr_8 Fl_16					E_4 pc					LAr_8 El_16
+!	'si  C_4 pc			LAr_8 fermatla dg Cl_8 fermatc  	cadged  B_4				din LA_4 _'
+!	'do C_4 pc			LAr_8 dg Cl_16				B_4 pc					LGr_8 dg Bl_16 _'			!I
+
+
+& sharpf sharpc
+I!	C_4 pc				LAr_8 dg Cl_16				E_4 pc					LAr_8 El_16
+!	'si  C_4 pc			LAr_8 fermatla El_8 fermate 		cadged C_4				rodin LA_4 _'
+!	'do C_4 pc			LAr_8 El_16				  	C_4 pc					LAr_8 dg Cl_16	_'
+!	F_4 pc				LAr_8 Fl_16					E_4 pc					LAr_8 El_16
+!	'si  C_4 pc			LAr_8 fermatla dg Cl_8 fermatc	cadged  B_4				din LA_4 _'
+!	'do C_4 pc			LAr_8 dg Cl_16				B_4 pc					LGr_8 dg Bl_16 _'			!I  dalsegno  dacapoalfine
+
+

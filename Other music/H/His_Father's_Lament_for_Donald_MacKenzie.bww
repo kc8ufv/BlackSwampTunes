@@ -1,0 +1,214 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,55)
+
+GracenoteDurations,(30,40,30,50,110,200,800,1200,250,250,400,500,200)
+
+FontSizes,(90,100,55,40,0)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,42
+
+"His Father's Lament for Donald MacKenzie",(T,C,0,0,Times New Roman,15,700,0,0,18,0,0,0)
+
+"John Ban MacKenzie, 1863",(M,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+
+"I. GROUND",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc C
+I!''  	cadged Cr_8 'c Bl_16	gg LAr_8 'la dg Cl_16	gg Er_32 strla El_8 ''e	echola E_4 
+!	gg Fr_8 'f El_16		gg Cr_8 Fl_8			gg Er_32 strla El_8 ''e	echola E_4
+! 	cadged Cr_8 'c Bl_16	gg LAr_8 'la dg Cl_16	gg Er_32 strla El_8 ''e	echola E_4
+!	gg Fr_8 'f El_16		gg Cr_8 El_8			cadged B_4			din LA_4	fine	''!I
+
+
+& sharpf sharpc
+I!	gg Fr_8 'f El_16		gg Cr_8 Fl_8			gg Er_32 strla El_8 ''e	echola E_4
+!	cadged Cr_8 'c Bl_16	gg LAr_8 'la dg Cl_16	gg Er_32 strla El_8 ''e	echola E_4
+!	gg Fr_8 'f El_16		gg Cr_8 Fl_8			gg Er_32 strla El_8 ''e	echola E_4
+!	gg Fr_8 'f El_16		gg Cr_8 El_8			cadged B_4			din LA_4		!I
+
+
+& sharpf sharpc
+I!	gg Fr_8 'f El_16		gg Cr_8 Fl_8			gg Er_32 strla El_8 ''e	echola E_4
+!	cadged Cr_8 'c Bl_16	gg LAr_8 'la dg Cl_16	gg Er_32 strla El_8 ''e	echola E_4
+!	gg Fr_8 'f El_16 		gg Cr_8 'c Fl_16		gg Er_8 'e Cl_16		gg Br_8 El_8
+!	gg Fr_8 'f El_16		gg Cr_8 El_8			cadged B_4			din LA_4		!I
+
+
+
+TuneTempo,44
+"II. VAR. I",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!''  	cadged Cr_8 'c Bl_16	gg LAr_8 'la dg Cl_16		gg Er_32 strla El_8 ''e	echola E_4 
+!	HA_4				podro Cr_8 'c Fl_16	 		gg Er_32 strla El_8 ''e	echola E_4
+! 	cadged Cr_8 'c Bl_16	gg LAr_8 'la dg Cl_16		gg Er_32 strla El_8 ''e	echola E_4 
+!	HA_4				podro Cr_8 El_8			cadged B_4			din LA_4	''!I
+
+
+& sharpf sharpc
+I! 	HA_4				podro Cr_8 'c Fl_16	 		gg Er_32 strla El_8 ''e	echola E_4
+!	cadged Cr_8 'c Bl_16	gg LAr_8 'la dg Cl_16		gg Er_32 strla El_8 ''e	echola E_4
+!	HA_4				podro Cr_8 'c Fl_16	 		gg Er_32 strla El_8 ''e	echola E_4
+!	HA_4				podro Cr_8 El_8			cadged B_4			din LA_4		!I
+
+
+& sharpf sharpc
+I! 	HA_4				podro Cr_8 'c Fl_16	 		gg Er_32 strla El_8 ''e	echola E_4
+!	cadged Cr_8 'c Bl_16	gg LAr_8 'la dg Cl_16		gg Er_32 strla El_8 ''e	echola E_4
+!	HA_4				podro Cr_8 'c Fl_16	 		gg E_4				podro Cr_8 'c HAl_16
+!	E_4					podro Cr_8 El_8			cadged B_4			din LA_4		!I
+
+
+
+TuneTempo,50
+"III. VAR. II",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!''	'1 cadged _' '2 gg _' Cr_8 ''c eg LAl_32	gg Cr_8 ''c eg LAl_32	gg Er_8 'e fg LAl_16  		gg Er_8 'e fg LAl_16
+!	gg Fr_8 ''f gg LAl_32		gg Fr_8 ''f gg LAl_32	gg Er_8 'e fg LAl_16		gg Er_8 'e fg LAl_16
+!	gg Cr_8 ''c  eg LAl_32	  	gg Cr_8 ''c eg LAl_32	gg Er_8 'e fg LAl_16		gg Er_8 'e fg LAl_16
+!	gg Fr_8 ''f gg LAl_32		gg Er_8 'e fg LAl_16	gg Cr_8 ''c eg LAl_32		gg Br_8 ''b eg LAl_32	''!I		
+
+& sharpf sharpc
+I!	gg Fr_8 ''f gg LAl_32		gg Fr_8 ''f gg LAl_32	gg Er_8 'e fg LAl_16  		gg Er_8 'e fg LAl_16
+!	gg Cr_8 ''c eg LAl_32		gg Er_8 'e fg LAl_16	gg Er_8 'e fg LAl_16		gg Er_8 'e fg LAl_16	
+!	gg Fr_8 ''f gg LAl_32		gg Fr_8 ''f gg LAl_32	gg Er_8 'e fg LAl_16		gg Er_8 'e fg LAl_16
+!	gg Fr_8 ''f gg LAl_32		gg Er_8 'e fg LAl_16	gg Cr_8 ''c eg LAl_32 		gg Br_8 ''b eg  LAl_32 	!I
+
+& sharpf sharpc
+I!	gg Fr_8 ''f gg LAl_32		gg Fr_8 ''f gg LAl_32	gg Er_8 'e fg LAl_16		gg Er_8 'e fg LAl_16
+!	gg Cr_8 ''c eg LAl_32		gg Er_8 'e fg LAl_16	gg Er_8 'e fg LAl_16		gg Er_8 'e fg LAl_16
+!	HAr_8 ''ha LAl_32			gg Fr_8 ''f gg LAl_32	gg Er_8 'e fg LAl_16		HAr_8 ''ha LAl_32
+!	gg Fr_8 ''f  gg LAl_32 		gg Er_8 'e fg LAl_16	gg Cr_8 ''c eg LAl_32		gg Br_8 ''b eg LAl_32	!I
+
+
+
+TuneTempo,56
+"IV. VAR. II DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!''  	gg Cr_8 ''c eg Cl_32		gg Cr_8 ''c eg Cl_32	gg Er_8 'e fg El_16			gg Er_8 'e fg El_16
+!	gg Fr_8 ''f gg Fl_32			gg Fr_8 ''f gg Fl_32		gg Er_8 'e fg El_16			gg Er_8 'e fg El_16
+!	gg Cr_8 ''c eg Cl_32		gg Cr_8 ''c eg Cl_32	gg Er_8 'e fg El_16			gg Er_8 'e fg El_16
+!	gg Fr_8 ''f gg Fl_32			gg Er_8 'e fg El_16		gg Cr_8 ''c eg Cl_32		gg Br_8 ''b eg Bl_32	''!I
+
+& sharpf sharpc
+I!	gg Fr_8 ''f gg Fl_32			gg Fr_8 ''f gg Fl_32		gg Er_8 'e fg El_16			gg Er_8 'e fg El_16
+!	gg Cr_8 ''c eg Cl_32		gg Er_8 'e  fg El_16		gg Er_8 'e  fg El_16			gg Er_8 'e fg El_16
+!	gg Fr_8 ''f gg Fl_32			gg Fr_8 ''f  gg Fl_32	gg Er_8 'f fg El_16			gg Er_8 'e fg El_16
+!	gg Fr_8 ''f gg Fl_32			gg Er_8 'e fg El_16		gg Cr_8 ''c eg Cl_32		gg Br_8 ''b eg Bl_32	!I
+
+& sharpf sharpc
+I!	gg Fr_8 ''f  gg Fl_32		gg Fr_8 ''f gg Fl_32		gg Er_8 'e fg El_16			gg Er_8 'e fg El_16
+!	gg Cr_8 ''c eg Cl_32		gg Er_8 'e fg El_16		gg Er_8 'e fg El_16			gg Er_8 'e fg El_16
+!	pdili HAr_8 ''ha strhg HAl_32	Fr_8 ''f gg Fl_32		gg Er_8 'e fg El_16			pdili HAr_8 ''ha strhg HAl_32
+!	Fr_8 ''f gg Fl_32			gg Er_8 'e fg El_16		gg Cr_8 ''c eg Cl_32		gg Br_8 ''b eg Bl_32	!I		
+
+
+
+TuneTempo,52
+"V. VAR. III",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!''	gg LAr_8 'la dg Cl_16		gg LAr_16 dg Cl_8 'c	gg Er_32 strla El_8 ''e	echola E_4
+!	gg LAr_8 'la Fl_16			gg LAr_16 Fl_8  'f		gg Er_32 strla El_8 ''e	echola E_4
+!	gg LAr_8 'la dg Cl_16		gg LAr_16 dg Cl_8 'c	gg Er_32 strla El_8 ''e	echola E_4
+!	gg LAr_8 'la Fl_16			gg LAr_16 El_8 'e		cadged B_4			din LA_4		 ''!I
+
+
+& sharpf sharpc
+I!''	gg LAr_8 'la Fl_16			gg LAr_16 Fl_8 'f		gg Er_32 strla El_8 ''e	echola E_4
+!	gg LAr_8 'la dg Cl_16		gg LAr_16 dg Cl_8 'c	gg Er_32 strla El_8 ''e	echola E_4
+!	'1 gg LAr_8 'la Fl_16		gg LAr_16 Fl_8 'f		gg Er_32 strla El_8 ''e	echola E_4 _'
+!	'2 gg LAr_8 'la HAl_16		LAr_16 Fl_8 'f			gg LAr_8 'la El_16		gg LAr_16 HAl_8 'ha _'
+!	'1 gg _' LAr_8 'la Fl_16			gg LAr_16 El_8 'e		cadged B_4			din LA_4			 ''!I
+
+
+
+TuneTempo,56
+"VI. VAR. III. DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!''	gg LAr_32 dg Cl_8 ''c		gg LAr_32 dg Cl_8 ''c	gg LAr_32 El_8 ''e	 	gg LAr_32 El_8 ''e
+!	gg LAr_32 Fl_8 ''f			gg LAr_32 Fl_8  ''f		gg LAr_32 El_8 ''e		gg LAr_32 El_8 ''e
+!	gg LAr_32 dg Cl_8 ''c		gg LAr_32 dg Cl_8 ''c	gg LAr_32 El_8 ''e		gg LAr_32 El_8 ''e
+!	gg LAr_32  Fl_8 ''f			gg LAr_32 El_8 ''e		gg LAr_32 dg Cl_8 ''c	gg LAr_32 dg Bl_8 ''b	''!I
+
+& sharpf sharpc
+I!''	gg LAr_32 Fl_8 ''f			gg LAr_32 Fl_8  ''f		gg LAr_32 El_8 ''e		gg LAr_32 El_8 ''e
+!	gg LAr_32 dg Cl_8 ''c		gg LAr_32 El_8 ''e		gg LAr_32 El_8 ''e		gg LAr_32 El_8 ''e
+!	'1 gg LAr_32 Fl_8 ''f		gg LAr_32 Fl_8  ''f		gg LAr_32 El_8 ''e		gg LAr_32 El_8 ''e _'
+!	'2 gg LAr_32 HAl_8 ''ha		LAr_32 Fl_8 ''f			gg LAr_32 El_8 ''e		gg LAr_32 HAl_8 ''ha _'
+!	'1 gg _' LAr_32  Fl_8 ''f			gg LAr_32 El_8 ''e		gg LAr_32 dg Cl_8 ''c	gg LAr_32 dg Bl_8 ''b	''!I
+
+
+
+TuneTempo,52
+"VII. TAORLUATH",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!'' 	cadged C_4 tar	LAr_8 'la dg Cl_16		gg Er_32 strla El_8 ''e		echola E_4
+!	F_4 ptbrea		LAr_8 'la Fl_16	 	gg Er_32 strla El_8 ''e		echola E_4
+!	cadged C_4 tar	LAr_8 'la dg Cl_16		gg Er_32 strla El_8 ''e		echola E_4
+!	F_4 ptbrea		LAr_16 El_8 'e			cadged B_4				din LA_4		''!I
+ 	
+& sharpf sharpc
+I!''	F_4 ptbrea		LAr_8 'la Fl_16	 	gg Er_32 strla El_8 ''e		echola E_4
+!	cadged C_4 tar	LAr_8 'la dg Cl_16		gg Er_32 strla El_8 ''e		echola E_4
+!	'1 F_4 ptbrea		LAr_8 'la Fl_16	 	gg Er_32 strla El_8 ''e		echola E_4 _'
+!	'2 HA_4 ptbrea		LAr_8 'la Fl_16		E_4 ptbrea				LAr_8 'la HAl_16 _'
+!	'1 gg _' F_4 tar	LAr_16 El_8 'e			cadged B_4				din LA_4		''!I
+
+
+
+TuneTempo,58
+"VIII. TAORLUATH DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!'' 	C_4 ptbrea			LAr_8 'la dg Cl_16		E_4 ptbrea		LAr_8 'la El_16
+!	F_4 ptbrea			LAr_8 'la Fl_16	 	E_4 ptbrea		LAr_8 'la El_16
+!	C_4 ptbrea			LAr_8 'la dg Cl_16		E_4 ptbrea		LAr_8 'la El_16
+!	F_4 ptbrea			LAr_8 'la El_16		C_4 ptbrea		LAr_8 'la dg Bl_16		''!I
+
+& sharpf sharpc
+I!''	F_4 ptbrea			LAr_8 'la Fl_16	 	E_4 ptbrea		LAr_8 'la El_16
+!	C_4 ptbrea			LAr_8 'la dg Cl_16		E_4 ptbrea		LAr_8 'la El_16
+!	'1 F_4 ptbrea			LAr_8 'la Fl_16	 	E_4 ptbrea		LAr_8 'la El_16 _'
+!	'2 HA_4 ptbrea			LAr_8 'la Fl_16		E_4 ptbrea		LAr_8 'la HAl_16 _'
+!	'1 gg _' F_4 tar		LAr_8 'la El_16 		C_4 ptbrea		LAr_8 'la dg Bl_16		 ''!I
+
+
+
+TuneTempo,52
+"IX. CRUNLUATH",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!'' 	cadged C_4 crunl	^3s Er_8 LAr_8 dg Cl_8 ^3e		gg Er_32 strla El_8 ''e		echola E_4
+!	F_4 pc			LAr_8 Fl_8	 				gg Er_32 strla El_8 ''e		echola E_4
+!	cadged C_4 crunl	^3s Er_8 LAr_8 dg Cl_8 ^3e		gg Er_32 strla El_8 ''e		echola E_4
+!	F_4 pc			LAr_8 fermatla El_8 fermate   	cadged B_4				din LA_4		''!I
+
+
+& sharpf sharpc
+I!''	F_4 pc			LAr_8 Fl_8	 				gg Er_32 strla El_8 ''e		echola E_4
+!	cadged C_4 crunl	^3s Er_8 LAr_8 dg Cl_8 ^3e		gg Er_32 strla El_8 ''e		echola E_4
+!	'1 F_4 pc			LAr_8 Fl_8	 				gg Er_32 strla El_8 ''e		echola E_4 _'
+!	'2 HA_4 pc		LAr_8 Fl_8					E_4 pc					LAr_8 HAl_8 _'
+!	'1 gg _' F_4 crunl	Er_8 LAr_8 fermatla El_8 fermate	cadged B_4				din LA_4		''!I
+
+
+
+TuneTempo,58
+"X. CRUNLUATH DOUBLING",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!'' 	C_4 pc			LAr_8 dg Cl_16		E_4 pc		LAr_8 El_16
+!	F_4 pc			LAr_8 Fl_16	 		E_4 pc		LAr_8 El_16
+!	C_4 pc			LAr_8 dg Cl_16		E_4 pc		LAr_8 El_16
+!	F_4 pc			LAr_8 El_16			C_4 pc		LAr_8 dg Bl_16		''!I
+
+
+& sharpf sharpc
+I!''	F_4 pc			LAr_8 Fl_16	 		E_4 pc		LAr_8 El_16
+!	C_4 pc			LAr_8 dg Cl_16		E_4 pc		LAr_8 El_16
+!	'1 F_4 pc			LAr_8 Fl_16	 		E_4 pc		LAr_8 El_16 _'
+!	'2 HA_4 pc		LAr_8 Fl_16			E_4 pc		LAr_8 HAl_16 _'
+!	'1 gg _' F_4 crunl	Er_8 LAr_8 El_16 		C_4 pc		LAr_8 dg Bl_16		''!I  dacapoalfine

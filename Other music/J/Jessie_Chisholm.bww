@@ -1,0 +1,56 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Converted from  BMW Dos file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+"Jessie Chisholm",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Slow Time",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+""",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"CYMRU",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+TuneTempo,90
+
+
+& sharpf sharpc 2_4 dbe Er_16 'e Dl_32
+!	gg Cr_32 dg LAr_16 'la gg Cl_16 El_32 'e		dbha HAr_8 HGr_32 HAl_16 'ha
+!	hdbf Fr_8 gg El_8					strla Er_8 HAl_8
+!	Fr_16 'f HGl_32 HAl_16 'ha El_32			gg Fr_32 HAr_16 'ha Cl_32 El_16 'e
+!	dbf Fr_8 gg Bl_8					tar Br_8 dbe Er_16 'e Dl_32			!t
+
+& sharpf sharpc
+!	gg Cr_32 dg LAr_16 'la gg Cl_16 El_32 'e		dbha HAr_8 HGr_32 HAl_16 'ha
+!	hdbf Fr_8 gg El_8					strla Er_8 HAl_8
+!	gg HAr_16 'ha El_32 gg Fl_16 'f Dl_32			gg Fr_32 HAr_16 'ha Cl_32 HAl_16 'ha
+!	hdbc Cr_8 eg LAl_8					brl LA_8					''!I
+
+& sharpf sharpc ''!I dbe Er_16 'e Dl_32
+!	gg Cr_32 dg LAr_16 'la gg Cl_16 El_32 'e		dbe Er_8 Dr_32 eg Cl_16 'c
+!	thrd Dr_16 'd Er_32 gg Fl_16 'f Dl_32			HAr_16 'ha HGr_32 tg Fl_16 'f El_32
+!	Fr_16 'f HGl_32 HAl_16 'ha El_32			gg Fr_32 HAr_16 'ha Cl_32 El_16 'e
+!	dbf Fr_8 gg Bl_8					tar Br_8 dbe Er_16 'e Dl_32			!t
+
+& sharpf sharpc
+!	gg Cr_32 dg LAr_16 'la gg Cl_16 'c El_32 		dbe Er_8 Dr_32 eg Cl_16 'c
+!	thrd Dr_16 'd Er_32 gg Fl_16 'f Dl_32			HAr_16 'ha HGr_32 tg Fl_16 'f El_32
+!	Fr_16 'f HGl_32 HAl_16 'ha El_32			gg Fr_32 HAr_16 'ha Cl_32 HAl_16
+!	hdbc Cr_8 eg LAl_8					brl LAr_8 dbe Er_16 'e Dl_32			!I
+
+& sharpf sharpc !I
+!	gg Cr_32 dg LAr_16 'la gg Cl_16 'c El_32		dbe Er_8 Dr_32 eg Cl_16 'c
+!	thrd Dr_16 'd Er_32 gg Fl_16 'f Dl_32			HAr_16 'ha HGr_32 tg Fl_16 'f El_32
+!	Fr_16 'f HGl_32 HAl_16 'ha El_32			gg Fr_32 HAr_16 'ha Cl_32 El_16 'e
+!	dbf Fr_8 gg Bl_8					tar Br_8 El_8					!t

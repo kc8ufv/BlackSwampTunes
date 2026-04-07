@@ -1,0 +1,41 @@
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,120 
+
+"Go Tell It On The Mountain",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+
+& sharpc sharpf 4_4
+I! gg F_2 stre Fr_8 'f El_16	Dr_8 'd Bl_16
+! gg LA_2 thrd  D_2
+! gg E_8 strla E_4 grp E_8 gg D_4 E_4
+! gg  Fr_8 'f El_16	Fr_8 'f El_16 thrd D_2 !t
+
+& sharpc sharpf
+! gg F_2 stre Fr_8 'f El_16	Dr_8 'd Bl_16
+! gg LA_2 thrd  D_4 'd HG_8
+! gg F_4 stre F_4 gg Er_8 Dl_8 E_4
+! thrd D_2 'd gg D_4 !I
+
+& sharpc sharpf
+I! gg F_4 HA_4 strhg HA_4 B_4
+! HA_4 F_2 D_4
+! dbe E_4 strla E_4 gg D_4 E_4
+! gg F_2 'f D_4 !t
+
+& sharpc sharpf
+! gg F_4 HA_4 strhg HA_4 B_4
+! HA_4 F_2 D_4
+! dbe E_4 strla E_4 gg D_4 B_4
+! gg LA_2 grp HG_2 !I

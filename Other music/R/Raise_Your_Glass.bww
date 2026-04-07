@@ -1,0 +1,55 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,70,250)
+
+TuneFormat,(1,0,F,L,500,500,500,590,P,0,0)
+
+TuneTempo,135
+
+"Raise Your Glass",(T,L,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Composed by Doug North  piper Toronto Fire Services P&D c2007",(M,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+"Drummers shout out the chorus lines 1st two quarter notes - to be echoed back by the audience 2nd two - By Permission of the Author  norththepiper@yahoo.ca",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc "part 1"
+ 4_4 I! 
+	gg Cr_8 'c Dl_16	 gg Er_8 Dl_8	 gg Cr_8 HAl_8	 dbf Fr_8 El_8 ! gg Dr_8  El_8 dbc C_4 HA_4 dbe E_4 ! gg LAr_8 'la Bl_16	 grp Cr_8 El_8	 gg Fr_8 HAl_8	 dbf Fr_8 El_8 ! dbd Dr_8 Cl_8 B_2 strla B_4 
+!	gg Cr_8 'c Dl_16	 gg Er_8 Dl_8	 gg Cr_8 HAl_8	 dbf Fr_8 El_8 ! gg Dr_8  El_8 dbc C_4 HA_4 dbe E_4 ! gg LAr_8 'la Bl_16	 grp Cr_8 El_8	 gg Fr_8 HAl_8	 Dr_8 Cl_8 ! gg Br_8 El_8 gg LA_2 brl LA_4
+
+!t
+& sharpf sharpc "chorus"  "raise your glass - echo, raise 'em high - echo........ raise your glass - echo, drink 'em dry - echo" 
+  
+!	"Raise your glass  -     Raise it high",(I,L,0,0,Times New Roman,9,700,0,0,0,0,0,0) HA_4 dbha HA_4 D_4 peld D_4 ! HA_4 dbha HA_4 C_4 pelc ^ts C_4  ! C_8 ^te strla C_8 gg Br_8 Cl_8	 gg Dr_8 Fl_8	 dbe Er_8 Dl_8 ! gg Cr_8 HAl_8 E_2 brl LA_4 
+!	"Raise your glass  -     Drink it dry",(I,L,0,0,Times New Roman,9,700,0,0,0,0,0,0) HA_4 dbha HA_4 D_4 peld D_4 ! HA_4 dbha HA_4 C_4 pelc ^ts C_4  ! C_8 ^te strla C_8 gg Br_8 Cl_8	 gg Dr_8 Fl_8	 dbe Er_8 Dl_8 ! dbc Cr_8 Bl_8 gg LA_2 brl LA_4
+!t
+& sharpf sharpc "part 2"
+
+!	gg Cr_8 'c Dl_16 gg E_8 strla E_4 C_8 gg Fr_8 'f El_16 ! gg Dr_8 El_8 dbc C_2 strla C_4 ! gg Cr_8 'c  Dl_16 gg	 Er_8 LAl_8	 HAr_8 El_8	 gg Fr_16 ^ts El_8 'e ! Er_8 ^te  Cl_8  dbb B_2 strla B_4  
+!	gg Cr_8 'c Dl_16 gg E_8 strla E_4 C_8 gg Fr_8 'f El_16 ! gg Dr_8 El_8 dbc C_4 gg E_4 dbha HA_4 ! gg HA_8 'ha F_16 gg E_4 HAr_8 'ha Cl_16	 Dr_8 Cl_8 ! gg Br_8 Cl_8 eg LA_2 brl LA_4	
+!t
+& sharpf sharpc "chorus"  "raise your glass - echo, raise 'em high - echo........ raise your glass - echo, drink 'em dry - echo" 
+
+!	HA_4 dbha HA_4 D_4 peld D_4 ! HA_4 dbha HA_4 C_4 pelc ^ts C_4  ! C_8 ^te strla C_8 gg Br_8 Cl_8	 gg Dr_8 Fl_8	 dbe Er_8 Dl_8 ! gg Cr_8 HAl_8 E_2 brl LA_4 
+!	HA_4 dbha HA_4 D_4 peld D_4 ! HA_4 dbha HA_4 C_4 pelc ^ts C_4  ! C_8 ^te strla C_8 gg Br_8 Cl_8	 gg Dr_8 Fl_8	 dbe Er_8 Dl_8 ! dbc Cr_8 Bl_8 gg LA_2 brl LA_4
+!t  
+& sharpf sharpc "part 3"
+
+!	gg Cr_8 'c Bl_16	gg LAr_8 El_8 	strla Er_8 Cl_8	 gg Dr_8 Fl_8 ! strla Fr_8 Dl_8	 gg Cr_8 El_8	 strla Er_8 Cl_8 dbb B_4 ! gg LAr_8 'la  Bl_16 	grp Cr_8 HAl_8	 tg HAr_8 'ha El_16 	gg Fr_16 El_8 'e ! gg Cr_8 El_8 gg B_2 strla B_4 
+!	gg Cr_8 'c Bl_16 	gg LAr_8 El_8 	strla Er_8 Cl_8	 gg Dr_8 Fl_8 ! strla Fr_8 Dl_8	 gg Cr_8 El_8	 strla Er_8 Cl_8 dbb B_4 ! gg LAr_8 'la  Bl_16 	grp Cr_8 HAl_8	 tg HAr_8 'ha El_16 	gg Cr_16 El_8 'e ! gg Dr_8 Bl_8 LA_2 brl LA_4
+!t
+& sharpf sharpc "chorus"  "raise your glass - echo, raise 'em high - echo........ raise your glass - echo, drink 'em dry - echo" 
+  
+!	HA_4 dbha HA_4 D_4 peld D_4 ! HA_4 dbha HA_4 C_4 pelc ^ts C_4  ! C_8 ^te strla C_8 gg Br_8 Cl_8	 gg Dr_8 Fl_8	 dbe Er_8 Dl_8 ! gg Cr_8 HAl_8 E_2 brl LA_4 
+!	HA_4 dbha HA_4 D_4 peld D_4 ! HA_4 dbha HA_4 C_4 pelc ^ts C_4  ! C_8 ^te strla C_8 gg Br_8 Cl_8	 gg Dr_8 Fl_8	 dbe Er_8 Dl_8 ! dbc Cr_8 Bl_8 gg LA_2 brl LA_4
+!I

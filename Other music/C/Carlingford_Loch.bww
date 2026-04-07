@@ -1,0 +1,67 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Converted from  BMW Dos file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+"Carlingford Loch",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Slow Air",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"arr. B.Baker & M.Clarke",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+TuneTempo,46
+
+
+& sharpf sharpc 6_8 I!''
+!       thrd D_4 'd             gg Fr_8 HAl_8           tg HGr_8 Fl_8           
+!       Er_8 thrd Dl_8 Fl_8     gbr LA_4 'la
+!       thrd Dr_8 dbc Cl_8      dbb B_4 'b              Cr_16 Dl_8 lgstd Dl_8 
+!       gg LAr_8 HGl_8 El_8             gg F_4                          gg Fr_16 HGl_16 HAr_8           E_2                             !t
+
+
+& sharpf sharpc
+!       thrd D_4 'd             gg Fr_8 HAl_8           tg HGr_8 Fl_8
+!       Er_8 thrd Dl_8 Fl_8     gbr LA_4 'la
+!       '1 thrd Dr_8 gg El_8                            dbf Fr_8 Er_16 Dl_16
+!       dbhg HGr_8 tg Fl_8      gg E_2                  D_8                             lgstd D_2 'd _' ''!I
+
+& sharpf sharpc '23
+!       thrd D_4 'd             gg E_4 'e
+!       dbf F_4 'f              E_4
+!       thrd D_4                dbhg HG_4 'hg           tg F_4 'f
+!       dbe E_2 'e              D_4                     lgstd D_2 'd _'                                         !t
+
+
+& sharpf sharpc I!''
+!       thrd Dr_8 gg Cl_8       B_4                     F_4                     dbf F_8 
+!       Er_8 thrd Dl_16 'd Cl_8                         gg B_4 
+!       Cr_16 Dl_8 Bl_8                 strlg LA_4              HAr_8 HGl_8 dbf Fl_8 'f
+!       thrd D_4                gg Br_8 'b Cl_16 Dl_8 Bl_8                              dbc C_2 'c                      !t
+
+
+& sharpf sharpc '1
+!       thrd Dr_8 gg Cl_8       dbb B_4                 F_4                     dbf F_8
+!       Er_8 thrd Dl_16 'd Fl_8                         dbhg HG_4
+!       Fr_16 El_8 thrd Dl_8                            dbe E_4                 strlg LA_4
+!       HA_4                    HG_4                    tg Fr_8 'f El_16 gg Dl_8 Cl_8                   dbb B_2 'b _'   ''!I
+
+& sharpf sharpc '2
+!       gg LAr_8 Bl_8 Cl_8              thrd Dr_8 Cl_8 gg thrd Dl_8
+!       dbe Er_8 gg Fl_8 Dl_8           gg Er_8 gg Fl_8 HGl_8
+!       tg Fr_8 El_8 gg Dl_8            gg Er_8 Dl_8 dg Cl_8
+!       dbb B_4                         strlg LA_4 'la          dbha HA_2                       ^tha HA_2 _'            !t
+
+

@@ -1,0 +1,33 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,280)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,60
+
+"Sgt. MacKenzie.",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Air",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"We Were Soldiers.",(M,R,0,0,Times New Roman,14,500,2,0,18,0,0,0)
+
+& sharpf sharpc  9_8
+I!'' gg 	LA_4 					B_8  	grp  		C_4 'c 		dg 		C_4 'c  		eg 	Cr_8 'c dg Bl_16 Cl_8      
+!    thrd 	Dr_8 'd Cl_16 Dl_8 			E_4 'e  	^ts  		E_4 'e 				E_4 ^te  'e  
+!   		F_4 						E_8 		grp  		C_4 'c 		ag		C_4 'c  		ag 	Cr_8 'c dg Bl_16 Cl_8  
+!    thrd 	D_4    					C_8 		dbla ^ts 	LA_4 'la				LA_4 ^te 'la 	abr 	LA_4  'la    ''!I
+
+& sharpf sharpc  
+I!'' grp 	HA_4 			eg 		F_8 		dbf		Fr_16 El_8 	dbe  ^ts  	E_4 'e 			E_4 ^te  'e 
+!    grp 	HA_4 			eg 		F_8 		dbf		Fr_16 El_8 	dbe  ^ts  	E_4 'e 			E_4 ^te  'e 
+!    grp 	HA_4 			eg 		F_8 		dbf		Fr_16 El_8 	dbe  ^ts  	E_4 'e 			E_4 ^te  'e 
+!    gg 	C_8 				thrd 		D_4  			C_8 			dbla ^ts 	LA_4  'la   		LA_4 ^te  'la 				abr		LA_4  'la ''!I

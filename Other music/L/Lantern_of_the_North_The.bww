@@ -1,0 +1,38 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,50
+
+"The Lantern of the North",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Slow Air",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"D. MacLeod",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+& sharpf sharpc 12_8 I!''  
+gg Fr_8 'f El_16  Dl_8 gg E_4  F_8 gg LA_4 'la brl LA_4 'la ! 
+gg LGr_8 'lg dg LAl_16 eg LAl_8 gg B_4 grp  B_8 gg LA_4 'la brl LA_4 'la ! 
+gg Br_8 'b Cl_16 Dl_8 dbb B_4 eg LA_8 dbb B_4 'b thrd D_4 'd !  
+dbe E_4 D_8 gg Fr_8 'f El_16 Dl_8 dbb B_4 'b '1 strlg LA_4 'la _'  '2 strlg LA_4  _' 
+''!I
+
+& sharpf sharpc  I!''  gg LA_8 ! 
+thrd Dr_8  'd El_16 Fl_8 dbha  HA_4 D_8  gg F_4 'f stre F_4 'f ! 
+dbe Er_8 'e Dl_16 eg Bl_8 thrd D_4 B_8 gg LA_4 'la brl LA_4 'la ! 
+gg Br_8 'b Cl_16 Dl_8 dbb B_4  eg LA_8 dbb B_4 'b thrd D_4 'd ! 
+dbe E_4 D_8 gg Fr_8 'f El_16 Dl_8 lgstd  '1 ^ts D_4 'd D_4  ^te _' '2 D_4 'd _' 
+
+
+
+''!I

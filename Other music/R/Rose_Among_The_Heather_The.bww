@@ -1,0 +1,54 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,70,250)
+
+TuneTempo,124
+
+TuneFormat,(1,1,F,L,500,500,500,500,L,0,0)
+
+
+"The Rose Among The Heather",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Strathspey",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Traditional",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+
+
+& sharpf sharpc C
+I!''	gg F_4 grp					Fr_8 'f El_16					thrd Dr_8 'd El_16		dbd Dr_8 'd Bl_16
+!	gg LA_4 tar					LAr_8 'la Dl_16				gg Cr_16 El_8 'e		strla E_4
+!	gg F_4 grp					Fr_8 'f El_16					thrd Dr_8 'd El_16		dbd Dr_8 'd Bl_16
+!	gg C_4						grp Er_8 'e HAl_16				Fr_16 Dl_8 'd			lgstd D_4				''!I
+
+
+
+& sharpf sharpc
+I!''	dbb Br_8 'b LAl_16				gg LGr_8 'lg dg Bl_16			gg LA_4 				tar LA_4
+!	dbb Br_16 eg LAl_8 'la			gg ^3s Br_8 Cr_8 Dl_8 ^3e		gg Cr_16 El_8 'e		strla E_4
+!	dbb Br_8 'b LAl_16				gg LGr_8 'lg dg Bl_16			gg LA_4				tar LA_4
+!	gg ^3s Br_8 Cr_8 Dl_8 ^3e			gg ^3s Er_8 Fr_8 HGl_8 ^3e	tg Fr_16 Dl_8 'd		lgstd D_4				''!I 	
+
+
+
+& sharpf sharpc
+I!	dbf F_4						^3s HAr_8 HGr_8 Fl_8 ^3e	dbe E_4				tg ^3s HGr_8 Fr_8 El_8 ^3e
+!	thrd D_4						gg ^3s Fr_8 Er_8 Dl_8 ^3e		dbc C_4				gg Er_8 'e Cl_16 	
+!	gg Br_8 'b Cl_16				thrd Dr_8 'd Bl_16				gg LAr_8 'la Dl_16		gg Fr_16 HAl_8 'ha 	
+!	strf HGr_8 'hg Fl_16			dbe Er_8 'e Dl_16				gg Fr_16 HAl_8 'ha		strhg HA_4				!t
+
+& sharpf sharpc
+	hdbf F_4						^3s HAr_8 HGr_8 Fl_8 ^3e	dbe E_4				tg ^3s HGr_8 Fr_8 El_8 ^3e
+!	thrd D_4						gg ^3s Fr_8 Er_8 Dl_8 ^3e		dbc C_4				gg Er_8 'e Cl_16
+!	gg Br_8 'b Cl_16				thrd Dr_8 'd Bl_16				gg LA_4				tar LAr_8 'la Dl_16 	
+!	gg C_4						grp Er_8 'e HAl_16				Fr_16 Dl_8 'd			lgstd D_4				!I 

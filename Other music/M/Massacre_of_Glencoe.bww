@@ -1,0 +1,53 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Converted from  BMW Dos file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+"Massacre of Glencoe",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Slow Air",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+TuneTempo,46
+
+
+		      
+& sharpf sharpc 6_8 I!'' LA_8
+!       gg Fr_8 'f Er_8 Dl_8	   gg LA_4 'la     thrd D_8
+!       dbb Br_8 'b gg LGl_8	   gg LA_4 'la     brl LA_8
+!       gg Fr_8 'f Er_8 Dl_8	   gg LA_4 'la     thrd D_8
+!       gg Cr_8 El_8 'e	        strla E_4 'e	   LA_8	   !t
+
+& sharpf sharpc
+!       gg Fr_8 'f Er_8 Dl_8	   gg LA_4 'la     thrd D_8
+!       dbb Br_8 'b gg LGl_8	   gg LA_4 'la     brl LA_8
+!       gg Br_8 dg LGl_8 'lg Dl_8       gg C_4	 grp E_8
+!       dbe Er_8 Dl_8 'd	       lgstd D_4			    ''!I
+
+& sharpf sharpc I!''
+!       gg LA_8	Fr_8 'f grp Fl_8	       Er_8 'e grp El_8
+!       gg F_8	 HA_4 'ha        F_8     thrd D_4 'd	    gg F_4
+!       gg E_4	 HG_4 'hg        E_8     LA_4 'la        brl LA_8
+!       gg Fr_8 'f HAl_8 Fl_8 'f	       E_4 'e	 gg LA_8	!t
+
+& sharpf sharpc
+!       thrd Dr_8 Fl_8 thrd Dl_8        gg Er_8 HGl_8 El_8
+!       gg Fr_8 HAl_8 'ha Fl_16	thrd D_4 
+!       strlg LAr_8 gg Bl_8 dg LGl_8 'lg	       thrd D_4
+!       gg C_4 'c       grp E_8	gg Er_8 Dl_8 lgstd Dl_8 'd	     ''!I
+
+

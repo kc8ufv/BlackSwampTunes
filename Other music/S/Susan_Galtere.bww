@@ -1,0 +1,84 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(109,109,46,34,1000,50,70)
+
+GracenoteDurations,(30,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(100,100,60,100,250)
+
+TuneFormat,(1,0,F,L,500,500,500,500,P,0,0)
+
+TuneTempo,75
+
+"SUSAN GALTERE",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Iain Sherwood 1998",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc	2_4	I!''	dbe Er_16 'e Cl_32
+!	gg LAr_8 tar LAr_16 'la Bl_32	gg Cr_32 Er_16 'e HAr_16 'ha El_32
+!	dbf Fr_16 'f Er_32 Fl_32 HAl_16 'ha	hdbe Er_8 gg Cr_16 'c Dl_32
+!	dbe Er_8 HAr_16 'ha El_32	dbc Cr_8 eg LAr_16 'la Cl_32
+!	dbe Er_16 'e Cr_32 gg Bl_32 dg LAl_16 'la	grp Br_8 dbe Er_16 'e Cl_32	!t
+
+
+& sharpf sharpc
+	gg LAr_8 tar LAr_16 'la Bl_32	gg Cr_32 Er_16 'e HAr_16 'ha El_32
+!	dbf Fr_16 'f Er_32 Fl_32 HAl_16 'ha	hdbe Er_8 gg Cr_16 'c Dl_32
+!	dbe Er_16 'e Cl_32 HAr_16 'ha Cl_32	gg Br_32 Fr_16 'f gg El_16 'e Dl_32
+!	gg Cr_32 Dr_16 'd gg Br_32 Cl_16 'c	gbr LA_8	''!I
+
+& sharpf sharpc	I!''	gg Fr_16 'f HGl_32
+!	HAr_16 'ha HGl_32 tg Fr_16 'f El_32	gg Cr_32 Er_16 'e HAr_16 'ha El_32
+!	hdbf Fr_16 'f Er_32 gg Fl_32 HAl_16 'ha	hdbf Fr_16 'f Er_32  Cl_32 Bl_16 'b
+!	dbe Er_8 HAr_16 'ha El_32	dbc Cr_8 eg LAr_16 'la Cl_32
+!	dbe Er_16 'e Cr_32 gg Bl_32 dg LAl_16 'la	grp Br_8 gg Fr_16 'f HGl_32	!t
+
+
+& sharpf sharpc
+	HAr_16 'ha HGl_32 tg Fr_16 'f El_32	gg Cr_32 Er_16 'e HAr_16 'ha El_32
+!	hdbf Fr_16 'f Er_32 gg Fl_32 HAl_16 'ha	hdbe Er_8 gg Cr_16 'c Dl_32
+!	dbe Er_16 'e Cl_32 HAr_16 'ha Cl_32	gg Br_32 Fr_16 'f gg El_16 'e Dl_32
+!	gg Cr_32 Dr_16 'd gg Br_32 Cl_16 'c	gbr LA_8	''!I
+
+
+& sharpf sharpc	I!''	dbe Er_16 'e Bl_32
+!	dbc C_4 grpb LAr_8 'la Bl_16
+!	gg Cr_32 Er_16 'e HAr_16 'ha El_32	dbf Fr_16 'f Er_32 Fl_32 HAl_16 'ha
+!	gg Cr_8 darodo Bl_8	gg Cr_8 tar LAr_16 'la Cl_32
+!	dbe Er_16 'e Cr_32 gg Bl_32 dg LAl_16 'la	grp Br_8 dbe Er_16 'e Bl_32	!t
+
+
+& sharpf sharpc
+	dbc C_4 grpb LAr_8 'la Bl_16
+!	gg Cr_32 Er_16 'e HAr_16 'ha El_32	dbf Fr_16 'f Er_32 Fl_32 HAl_16 'ha
+!	hdbe Er_16 'e Cl_32 HAr_16 'ha Cl_32	gg Br_32 Fr_16 'f gg El_16 'e Dl_32
+!	gg Cr_32 Dr_16 'd gg Br_32 Cl_16 'c	gbr LA_8	''!I
+
+& sharpf sharpc	I!'' gg Fr_16 'f HGl_32
+!	HAr_8 Er_32 pele El_16 'e	dbf Fr_16 'f Er_32 Cl_32 El_16 'e
+!	hdbf Fr_16 'f Er_32 gg Fl_32 HAl_16 'ha	hdbf Fr_16 'f Er_32  Cl_32 Bl_16 'b
+!	gg Cr_8 darodo Bl_8	gg Cr_8 tar LAr_16 'la Cl_32
+!	dbe Er_16 'e Cr_32 gg Bl_32 dg LAl_16 'la	grp Br_8 '1 dbe Fr_16 'f HGl_32	!t
+
+& sharpf sharpc
+	HAr_8 Er_32 pele El_16 'e	dbf Fr_16 'f Er_32 Cl_32 El_16 'e
+!	hdbf Fr_16 'f Er_32 gg Fl_32 HAl_16 'ha	hdbe Er_8 gg Cr_16 'c Dl_32
+!	dbe Er_16 'e Cl_32 HAr_16 'ha Cl_32	gg Br_32 Fr_16 'f gg El_16 'e Dl_32
+!	gg Cr_32 Dr_16 'd gg Br_32 Cl_16 'c	gbr LA_8	_'	''!I
+
+	
+& sharpf sharpc
+'2	dbe Er_16 'e Cl_32
+!	gg LAr_8 tar LAr_16 'la Bl_32	gg Cr_32 Er_16 'e HAr_16 'ha HGl_32
+!	hdbf Fr_16 'f Er_32 gg Fl_32 HAl_16 'ha	hdbf Fr_16 'f Er_32  gg Cl_32 dg Bl_16 'b
+!	gg Cr_32 Er_16 'e dbf Fr_16 'f Bl_32	gg Cr_32 Er_16 'e HAr_16 'ha Dl_32
+!	gg Cr_32 Dr_16 'd gg Br_32 Cl_16 'c	gbr LA_8	_'	!I
+

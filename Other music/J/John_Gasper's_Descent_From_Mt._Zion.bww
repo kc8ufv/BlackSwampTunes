@@ -1,0 +1,85 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(30,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(80,90,100,80,250)
+
+TuneFormat,(1,0,F,L,1000,1000,1000,1000,L,0,0)
+
+TuneTempo,100
+
+"lbiq .p cec cil - oeiv xd oiO xtqb oe'b ly dcixid",(T,R,0,0,Davka David,18,700,0,0,18,0,0,0)
+
+"John Gasper's Descent From Mt. Zion - by D.N. Siegel",(Y,L,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"John Gasper was a Fulbright Fellow at Hebrew University 2003-04, on leave from PhD studies at Carnegie-Mellon.",(F,C,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc  6_8
+I!'' 
+D_8  !
+gg LGr_8 'la  dg Bl_16   El_8 	thrd Dr_8 'd HGl_16 tg Bl_8  !
+gg LA_4 'la brl LAr_8 'la  gg Bl_16  Dl_8 ! 
+dbe Er_8 'e HAl_16 HGl_8	hdbf Fr_8 'f  LAl_16   dg Bl_8 !
+dbe Er_8 'e gg Fl_16 HAl_8  		fg HG_4 LG_8  !t
+
+& sharpf sharpc
+gg LGr_8 'la  dg Bl_16   El_8 	thrd Dr_8 'd HGl_16  tg Bl_8  !
+gg LA_4 'la brl LAr_8 'la  gg Bl_16  Dl_8 ! 
+gg Er_16 HGr_8 'hg   HAl_8	fg HGr_8 'f   El_16 gg Dl_8  !
+dbe Er_8 'e   Dr_16  Bl_16 LGl_16    	   gg LA_4
+''!I
+
+
+" 2 "
+& sharpf sharpc  
+I!'' 
+E_8  !
+gg LAr_8 'la  Dl_16 eg Bl_8 	gg  LG_4   dg  B_8  !
+thrd D_4 lgstd  D_8 		eg Br_8 'b gg  LAl_16  dg  LGl_8 ! 
+dbe Er_8 'e HAl_16 HGl_8	hdbf Fr_8 'f  LAl_16   dg Bl_8 !
+dbe Er_8 'e gg Fl_16 HAl_8  		fg HG_4 LG_8  !t
+
+& sharpf sharpc
+gg LAr_8 'la  Dl_16 eg Bl_8 	gg  LG_4   dg  B_8  !
+thrd D_4 lgstd  D_8 		eg Br_8 'b gg  LAl_16  dg LGl_8 ! 
+gg Er_16 HGr_8 'hg  HAl_8	fg HGr_8 'f   El_16 gg Dl_8  !
+dbe Er_8 'e   Dr_16  Bl_16 LGl_16    	   gg LA_4
+''!I
+
+" 3 "
+& sharpf sharpc  
+I!'' 
+D_8  !
+gg  Br_16 Dl_8 'd  eg Bl_8  	gg LGr_8 'lg   dg Bl_16 gg LAl_8  !
+brl  LAr_8 'la dg Bl_16 HGl_8  	tg Er_8 'e Dl_16 eg Bl_8 ! 
+dbe Er_8 'e HAl_16 HGl_8	hdbf Fr_8 'f  LAl_16   dg Bl_8 !
+dbe Er_8 'e gg Fl_16 HAl_8  		fg HG_4  LG_8  !t
+
+& sharpf sharpc
+gg  Br_16 Dl_8 'd  eg Bl_8  	gg LGr_8 'lg   dg Bl_16 gg LAl_8  !
+brl  LAr_8 'la dg Bl_16 HGl_8  	tg Er_8 'e Dl_16 eg Bl_8 ! 
+gg Er_16 HGr_8 'hg  HAl_8	fg HGr_8 'f   El_16 gg Dl_8  !
+dbe Er_8 'e   Dr_16  Bl_16 LGl_16    	   gg LA_4
+''!I
+
+
+" 4 "
+& sharpf sharpc  
+I!'' 
+LG_8  !
+gg LAr_8 'la  dg Bl_16  HAl_8 	Er_32 Fl_32  HGr_8 'hg  LGl_8  !
+dbe E_4 thrd  D_8 		gg Br_8 'b HGl_16 tg LGl_8 ! 
+dbe Er_8 'e HAl_16 HGl_8	hdbf Fr_8 'f  LAl_16   dg Bl_8 !
+dbe Er_8 'e gg Fl_16 HAl_8  		fg HG_4 LG_8  !t
+
+& sharpf sharpc
+gg LAr_8 'la  dg Bl_16  HAl_8 	Er_32 Fl_32  HGr_8 'hg  LGl_8  !
+dbe E_4 thrd  D_8 		gg Br_8 'b HGl_16 tg LGl_8 ! 
+gg Er_16 HGr_8 'hg  HAl_8	fg HGr_8 'f   El_16 gg Dl_8  !
+dbe Er_8 'e   Dr_16  Bl_16 LGl_16    	   gg LA_4
+''!I

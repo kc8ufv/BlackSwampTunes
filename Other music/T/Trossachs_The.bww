@@ -1,0 +1,45 @@
+Bagpipe Reader:1.0
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+InstrumentMappings,(71,71,46,34,1000,30,50)
+GracenoteDurations,(31,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(80,90,100,70,250)
+
+TuneFormat,(1,0,F,L,1500,1000,1000,1000,L,0,0)
+TuneTempo,62
+
+"The Trossachs",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+"Air",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"DN Siegel",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"THE TROSSACHS (c) 2004 David N. Siegel, POB 9647, Karmiel 21901, The Galilee, Israel.",(F,R,0,0,Times New Roman,8,400,0,0,18,0,0,0)
+
+& sharpf sharpc 2_4
+I!''  gg LAr_16  'la Bl_32 !
+grp Cr_8 'c  gg Dr_32 El_32	 thrd Dr_8   Fl_8 !
+dbe Er_16 Fr_32 Er_32 gg Dr_32  Cl_32   Bl_16 	gg LAr_8 'la gg Cr_32 El_32 !
+gg Fr_16 'f  Er_32 gg Cr_32  Dl_32 El_16	gg Fr_32  HAr_16 'ha HGr_32 Fl_32  El_16  !
+gg Fr_16 HGr_32  HAr_32  Fl_32 gg El_16 'e		gg Br_16   Cr_32   Bl_32  gg LAr_16 'la Bl_32 !t
+
+& sharpf sharpc
+grp Cr_8 'c  gg Dr_32 El_32	 thrd Dr_8   Fl_8 !
+dbe Er_16 Fr_32 Er_32 gg Dr_32  Cl_32 Bl_16		gg LAr_8 'la Br_32 Cl_32  !
+thrd Dr_16 Br_32  Cl_32 gg Dr_32 El_32 Fl_16  		dbe Er_16  LAr_32 dg Cl_32  gg Dr_32 Cl_32  Bl_16   !
+gg LA_4  brl LA_8   ''!I
+
+" -2- "
+& sharpf sharpc 
+I!''  gg Fr_32 HGl_16 'hg  !
+HAr_16  HGr_32  Fl_32  gg Dr_32 El_32  Fl_16		thrd Dr_16  Er_32 Fl_32 gg Fr_32 El_32  Dl_16	!
+dbe Er_16 Dr_32 Cr_32 dg Cl_32 eg  Bl_16 'b	gg LAr_8 'la gg Cr_32 El_32 !
+gg Fr_16 'f  Er_32 gg Cr_32  Dl_32 El_16	gg Fr_32  HAr_16 'ha HGr_32 Fl_32  El_16  !
+gg Fr_16 HGr_32  HAr_32  Fl_32 gg El_16 'e		gg Br_16  Cr_32 Dl_32  gg Er_32 Fl_32 HGl_16 !t
+
+& sharpf sharpc
+HAr_16  HGr_32  Fl_32  gg Dr_32 El_32  Fl_16		thrd Dr_16  Er_32 Fl_32 gg Fr_32 El_32  Dl_16	!
+dbe Er_16 Dr_32 Cr_32 dg Cl_32 eg  Bl_16 'b	gg LAr_8 'la Br_32 Cl_32  !
+thrd Dr_16 Br_32  Cl_32 gg Dr_32 El_32 Fl_16  		dbe Er_16  LAr_32 dg Cl_32  gg Dr_32 Cl_32  Bl_16   !
+gg LA_4  brl LA_8   ''!I
+
+
+
+

@@ -1,0 +1,47 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,120,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,75
+
+"The Highland Clearances",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Slow Air",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 3_4 
+I! gg Br_8 ^ts Fl_8		F_4 ^te 			gg Fr_8 El_8 
+!  gg Fr_8 ^ts Bl_8 		B_4 ^te 'b 		C_8
+!  thrd D_4			dbc ^ts C_4 		Cr_8 ^te	Bl_8 
+!  gg Br_8 dg Cl_8		strlg ^ts LA_4		LAr_8 ^te dg Cl_8 !t
+
+& sharpf sharpc
+   gg Br_8 ^ts Fl_8		F_4 ^te 			gg Fr_8 El_8 
+!  gg Fr_8 ^ts Bl_8 		B_4 	^te			gg Fr_8 El_8
+!  dbha ^ts HA_4		HA_4 ^te			hdbf Fr_8 El_8
+!  dbc ^ts C_4			C_4 ^te			gg Br_8 strlg LAl_8 !t
+
+& sharpf sharpc
+   gg Br_8 ^ts Fl_8		F_4 ^te 			gg Fr_8 El_8 
+!  gg Fr_8 ^ts Bl_8 		B_4 'b ^te 		C_8
+!  thrd D_4			dbc ^ts C_4 		Cr_8 ^te	Bl_8 
+!  gg Br_8 dg Cl_8		strlg ^ts LA_4		LAr_8 ^te dg Cl_8 !t
+
+& sharpf sharpc
+   gg Br_8 ^ts Fl_8		F_4 ^te 			gg Fr_8 El_8 
+!  gg Fr_8 ^ts Bl_8 		B_4 	^te			gg Cr_8 Bl_8
+!  strlg LA_4			thrd D_4			C_4
+!  & C 				dbb ^ts B_2		B_2 ^te !I

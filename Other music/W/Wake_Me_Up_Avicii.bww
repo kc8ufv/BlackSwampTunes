@@ -1,0 +1,57 @@
+Bagpipe Reader:1.0
+Bagpipe Bagpipe Musicworks Gold:1.0:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,120,50,60,250)
+
+TuneFormat,(1,1,F,L,500,500,500,500,P,0,0)
+
+TuneTempo,80
+
+"Wake Me Up - Avicii",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"Zachary Sperry",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+& sharpf sharpc 4_4 I! LA_8
+I!	gg Br_8 dg Cl_8	hvthrd D_4	gstd  D_4		dbc Br_8 'b Cr_32 Bl_32
+!	LA_4 	brl   LA_2 	LA_8	gg LA_8
+!	gg Br_8 dg Cl_8 	thrd D_4 		fg F_4 	grp HG_4 
+!	HA_4	Fr_32 El_32 Dl_8 'd 	D_4 'd 	gg LA_8 !I  
+
+& sharpf sharpc sharpf sharpc
+!	gg Br_8 dg Cl_8 	thrd D_4 		fg F_4 	grp HG_4 
+!	HA_4	Fr_32 El_32 Dl_8 'd 	D_4 'd 	gg LA_8
+!	gg Br_8 dg Cl_8	hvthrd D_4	dblg D_4		dbc Br_8 'b Cr_32 Bl_32
+!	LA_4 	brl   LA_2 	LA_8 !I
+
+TuneTempo,120
+
+& sharpf sharpc sharpf sharpc
+I!''	gg B_4	gg Br_8 'b LAl_16
+!	gg Br_16 Dl_16 Bl_8	Br_16 LAr_16 gg Br_16 LAl_16
+!	gg D_4 	gstd D_4 
+!	gg Er_16 Dl_16 El_8 	gg Fr_8 Dl_8 ''!I
+
+& sharpf sharpc sharpf sharpc
+I!''	gg B_4	gg Br_8 'b LAl_16
+!	gg Br_16 Dl_16 Bl_8	Br_16 LAr_16 gg Br_16 LAl_16
+!	gg D_4 	gstd D_4 
+!	gg Er_16 Dl_16 El_8 	gg Fr_8 HGl_8 ''!I
+"Title",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Type",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Composer/Arranger",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Footer",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc

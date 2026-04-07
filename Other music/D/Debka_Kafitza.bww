@@ -1,0 +1,130 @@
+Bagpipe Reader:1.0
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+InstrumentMappings,(71,71,45,33,1000,30,50)
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+TuneTempo,115
+
+"Debka Kafitza",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+"Debka",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"DN Siegel",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"Footer",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+
+& sharpf sharpc  2_4
+I!''  
+gg Cr_16 dg Cl_16 eg LAl_16 dg Cl_16	Dr_16  Cl_16   dg Cr_16   Bl_16    !
+gg Cr_16 dg Cl_16 Dr_16  Cl_16  	gg Br_16  Cl_16  gg Cl_16  Dl_16 !
+gg Cr_16 dg Cl_16 Dl_16 gg Dl_16	cg Dr_16   Cl_16  gg  LAr_16 dg Bl_16  !
+gg Cr_16 dg Cl_16  gg LAl_16 dg Bl_16	 gg Dr_16  Bl_16 gg Bl_16 LAl_16 !t
+
+& sharpf sharpc  
+gg Cr_16 dg Cl_16 gg LAl_16 dg Cl_16	Dr_16  Cl_16   dg Cr_16   Bl_16    !
+gg Cr_16 dg Cl_16 Dr_16  Cl_16  	gg Br_16  Cl_16  gg Cl_16  Dl_16 !
+gg Cr_16 dg Cl_16 Dl_16 gg Dl_16	cg Dr_16  LAl_16 gg LAr_16 dg Bl_16  !
+gg Cr_8  LAr_16  Bl_16		 gg Cr_16   dg Cl_16 eg Cl_8   ''!I
+
+
+" chorus "
+& sharpf sharpc  
+I! 
+gg Fr_16   HAl_16  Fl_16 Dl_16		HAr_16 Dl_16   gg Fr_16  HAl_16   !
+HGr_16 HAl_16 Fr_16 Dl_16  		HAr_16   El_16  gg Dl_16 cg Dl_16 !
+HGr_16 tg HGl_16 Fl_16  El_16		 Fr_16 HGl_16 tg Er_16 Dl_16  !
+gg Cr_16 dg Cl_16  gg LAl_16 dg Bl_16	 gg Dr_16  Bl_16 gg Bl_16 LAl_16 !t
+& sharpf sharpc  
+gg Fr_16   HAl_16  Fl_16 Dl_16		HAr_16 Dl_16   gg Fr_16  HAl_16   !
+HGr_16 HAl_16 Fr_16 Dl_16  		HAr_16   El_16  gg Dl_16 cg Dl_16 !
+Er_16 gg El_16 HGl_16  Cl_16		 Fr_16 HGl_16 tg Er_16 Dl_16  !
+gg Cr_8  LAr_16  Bl_16		 gg Cr_16   dg Cl_16 eg Cl_8 !I
+
+" 2 "
+& sharpf sharpc  
+I!''  
+Er_16 gg El_16 strla El_16 Dl_16	gg Dr_16  Cl_16   gg Cr_16 Bl_16   !
+gg Er_16 Dl_16  gg Dr_16 Cl_16  	Dr_16  Cl_16  gg Cl_16 dg Bl_16 !
+gg Cr_16 eg Cl_16 gg El_16  LAl_16		 Dr_16  Cl_16 gg Cr_16 Dl_16  !
+gg Cr_16 dg Cl_16  gg LAl_16 dg Bl_16	 gg Dr_16  Bl_16 gg Bl_16 LAl_16 !t
+
+& sharpf sharpc  
+Er_16 gg El_16 strla El_16 Dl_16	gg Dr_16  Cl_16   gg Cr_16 Bl_16   !
+gg Er_16 Dl_16  gg Dr_16 Cl_16  	Dr_16  Cl_16  gg Cl_16 dg Bl_16 !
+gg Cr_16 dg Cl_16 gg El_16  LAl_16		 Dr_16 eg Cl_16 gg Cr_16 Dl_16  !
+gg Cr_8  LAr_16  Bl_16		 gg Cr_16   dg Cl_16 eg Cl_8 ''!I
+
+
+" chorus "
+& sharpf sharpc  
+I! 
+gg Fr_16   HAl_16  Fl_16 Dl_16		HAr_16 Dl_16   gg Fr_16  HAl_16   !
+HGr_16 HAl_16 Fr_16 Dl_16  		HAr_16   El_16  gg Dl_16 cg Dl_16 !
+HGr_16 tg HGl_16 Fl_16  El_16		 Fr_16 HGl_16 tg Er_16 Dl_16  !
+gg Cr_16 dg Cl_16  gg LAl_16 dg Bl_16	 gg Dr_16  Bl_16 gg Bl_16 LAl_16 !t
+& sharpf sharpc  
+gg Fr_16   HAl_16  Fl_16 Dl_16		HAr_16 Dl_16   gg Fr_16  HAl_16   !
+HGr_16 HAl_16 Fr_16 Dl_16  		HAr_16   El_16  gg Dl_16 cg Dl_16 !
+Er_16 gg El_16 HGl_16  Cl_16		 Fr_16 HGl_16 tg Er_16 Dl_16  !
+gg Cr_8  LAr_16  Bl_16		 gg Cr_16   dg Cl_16 eg Cl_8 !I
+
+
+" 3 "
+& sharpf sharpc   
+I!''  
+gg Br_16   Cl_16  Dl_8		 Er_16  gg El_16     Dr_16  Cl_16    !
+gg Dr_16  Bl_16 gg Br_16 Dl_16  	gg Dr_16 Cl_16  gg  Bl_8  !
+LAr_16 gg Bl_16 Dl_16 cg Dl_16	gg Er_16  LAl_16 gg LAr_16 dg Bl_16  !
+gg Cr_16 dg Cl_16  gg LAl_16 dg Bl_16	 gg Dr_16  Bl_16 gg Bl_16 LAl_16 !t
+
+& sharpf sharpc  
+gg Br_16   Cl_16  Dl_8		 Er_16  gg El_16     Dr_16  Cl_16    !
+gg Dr_16  Bl_16 gg Br_16 Dl_16  	gg Dr_16 Cl_16  gg  Bl_8  !
+LAr_16  gg Bl_16 Dl_16 cg Dl_16	gg Er_16  LAl_16 gg LAr_16 dg Bl_16  !
+gg Cr_8  LAr_16  Bl_16		 gg Cr_16   dg Cl_16 eg Cl_8   ''!I
+
+
+
+" chorus "
+& sharpf sharpc  
+I! 
+gg Fr_16   HAl_16  Fl_16 Dl_16		HAr_16 Dl_16   gg Fr_16  HAl_16   !
+HGr_16 HAl_16 Fr_16 Dl_16  		HAr_16   El_16  gg Dl_16 cg Dl_16 !
+HGr_16 tg HGl_16 Fl_16  El_16		 Fr_16 HGl_16 tg Er_16 Dl_16  !
+gg Cr_16 dg Cl_16  gg LAl_16 dg Bl_16	 gg Dr_16  Bl_16 gg Bl_16 LAl_16 !t
+& sharpf sharpc  
+gg Fr_16   HAl_16  Fl_16 Dl_16		HAr_16 Dl_16   gg Fr_16  HAl_16   !
+HGr_16 HAl_16 Fr_16 Dl_16  		HAr_16   El_16  gg Dl_16 cg Dl_16 !
+Er_16 gg El_16 HGl_16  Cl_16		 Fr_16 HGl_16 tg Er_16 Dl_16  !
+gg Cr_8  LAr_16  Bl_16		 gg Cr_16   dg Cl_16 eg Cl_8 !I
+
+" 4 "
+& sharpf sharpc  
+I!'' 
+gg Br_16   Fl_16  gg Bl_16 dg Bl_16		gg Fr_16 Bl_16   gg Br_16  Fl_16   !
+HGr_16 Fl_16 gg Fr_16 Bl_16  		gg Dr_16   Cl_16  gg Bl_16 Fl_16 !
+Er_16 gg El_16 HGl_16  Cl_16		 Fr_16 HGl_16 tg Er_16 Dl_16  !
+gg Cr_16 dg Cl_16  gg LAl_16 dg Bl_16	 gg Dr_16  Bl_16 gg Bl_16 LAl_16 !t
+& sharpf sharpc  
+gg Br_16   Fl_16  gg Bl_16 dg Bl_16		gg Fr_16 Bl_16   gg Br_16  Fl_16   !
+HGr_16 Fl_16 gg Fr_16 Bl_16  		gg Dr_16   Cl_16  gg Bl_16 Fl_16 !
+Er_16 gg El_16 HGl_16  Cl_16		 Fr_16 HGl_16 tg Er_16 Dl_16  !
+gg Cr_8  LAr_16  Bl_16		 gg Cr_16   dg Cl_16 eg   Cl_8  ''!I
+
+" 5 "
+& sharpf sharpc  
+I!'' 
+gg Fr_16   HAl_16  Fl_16 Dl_16		HAr_16 Dl_16   gg Fr_16  HAl_16   !
+HGr_16 HAl_16 Fr_16 Dl_16  		HAr_16   El_16  gg Dl_16 cg Dl_16 !
+HGr_16 tg HGl_16 Fl_16  El_16		 Fr_16 HGl_16 tg Er_16 Dl_16  !
+gg Cr_16 dg Cl_16  gg LAl_16 dg Bl_16	 gg Dr_16  Bl_16 gg Bl_16 LAl_16 !t
+& sharpf sharpc  
+gg Fr_16   HAl_16  Fl_16 Dl_16		HAr_16 Dl_16   gg Fr_16  HAl_16   !
+HGr_16 HAl_16 Fr_16 Dl_16  		HAr_16   El_16  gg Dl_16 cg Dl_16 !
+Er_16 gg El_16 HGl_16  Cl_16		 Fr_16 HGl_16 tg Er_16 Dl_16  !
+gg Cr_8  LAr_16  Bl_16		 gg Cr_16   dg Cl_16 eg Cl_8 ''!I
+
+& sharpf sharpc  
+gg C_4 D_8 E_8 F_8 'f dbhg HG_2 fermathg LG_8 LA_16 'la B_16 C_16 D_16 E_16 F_16 HG_16 'hg  HA_4 gg HA_2 fermatha fermatha
+!t

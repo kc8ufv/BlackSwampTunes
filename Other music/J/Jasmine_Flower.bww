@@ -1,0 +1,52 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+InstrumentMappings,(71,71,45,33,1000,60,70)
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,100,100,250)
+TuneFormat,(1,0,F,L,500,500,500,500,P,1,0)
+
+TuneTempo,84
+
+"Jasmine Flower",(T,C,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+"March 2/4",(Y,L,0,0,Times New Roman,12,700,255,0,18,0,0,0)
+"Chinese - Traditional",(M,R,0,0,Times New Roman,12,700,255,0,18,0,0,0)
+"",(F,L,0,0,Times New Roman,12,700,255,0,18,0,0,0)
+
+
+& sharpf sharpc	2_4
+I!''	gg C_4		space	gg Cr_8 El_8
+!	gg Fr_8 HAl_8			strhg HAr_8 Fl_8
+!	gg E_4		space	strla Er_8 Fl_8
+!	dbe E_2		space	space			space		''!I
+
+& sharpf sharpc	space	space
+	gg E_4		space	strla E_4			space
+!	gg E_4		space	Cr_8 El_8
+!	gg F_4		space	stre F_4
+!	gg E_2		space	space			space		!t
+
+& sharpf sharpc	space	space
+	gg C_4		space	eg Br_8 Cl_8
+!	dbe E_4		space	gg Cr_8 Bl_8
+!	gg LA_4		space	brl LAr_8 Bl_8
+!	strlg LA_2	space	space	space	space		!t
+
+& sharpf sharpc	space	space
+	gg Cr_8 Bl_8			eg LAr_8 Cl_8
+!	gg B_4 'b		space	C_8				space
+!	dbe E_4		space	gg Fr_8 HAl_8
+!	dbe E_2		space	space	space	space		!t
+
+& sharpf sharpc	space	space
+	gg E_4		space	gg Fr_8 HAl_8
+!	Er_8 Fl_8		space	gg Dr_8 Bl_8
+!	gg LA_2		space	space			space
+!	gg B_4		space	eg D_4			space		!t
+
+& sharpf sharpc	space	space
+	gg E_4 'e		space	F_8
+!	gg Dr_8 El_8	space	gg Dr_8 Bl_8
+!	strlg LA_2	space	space			space
+!	brl LA_2		space	space			space		!I

@@ -1,0 +1,51 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,73,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,110
+
+"Cutty`s Wedding",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Strathspey",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc C
+I!'' 	gstb B_4 	thrd Dr_8 'd El_16 	dbf Fr_8 'f Bl_16 	thrd D_4 
+!	gstb B_4 	thrd Dr_8 'd El_16 	dbf Fr_8 'f El_16 	gg Fr_16 HAl_8 'ha 
+!	hstb  B_4 	thrd Dr_8 'd El_16 	dbf Fr_8 'f Bl_16 	thrd D_4 
+!	gg Er_8 'e Fl_16 	dbe Er_8 'e Dl_16 	dbc Cr_8 'c eg LAl_16 	gg Cr_16 El_8 'e ''!I
+
+& sharpf sharpc 
+I! 	thrd Dr_8 'd El_16 	gg Fr_8 'f HGl_16 	dbha HAr_8 'ha Dl_16 	dbf F_4 
+!	thrd Dr_8 'd El_16 	gg Fr_8 'f El_16 	dbf Fr_8 'f El_16 	gg Fr_16 HAl_8 'ha 
+!	thrd Dr_8 'd El_16 	gg Fr_8 'f HGl_16 	dbha HAr_8 'ha Dl_16 	dbf F_4 
+!	gg Er_8 'e Fl_16 	dbe Er_8 'e Dl_16 	dbc Cr_8 'c eg LAl_16 	gg Cr_16 El_8 'e !t
+
+& sharpf sharpc 
+	thrd Dr_8 'd El_16 	gg Fr_8 'f HGl_16 	dbha HAr_8 'ha Dl_16 	dbf F_4 
+!	thrd Dr_8 'd El_16 	gg Fr_8 'f El_16 	dbf Fr_8 'f El_16 	gg Fr_16 HAl_8 'ha 
+!	thrd Dr_8 'd HAl_16 	Fr_16 HAl_8 'ha 	thrd Dr_8 'd HAl_16 	Fr_16 HAl_8 'ha
+!	Er_8 'e Fl_16 	dbe Er_8 'e Dl_16 	dbc Cr_8 'c eg LAl_16 	gg Cr_16 El_8 'e !I
+
+
+
+
+
+
+
+
+
+

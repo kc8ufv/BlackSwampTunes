@@ -1,0 +1,112 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,61,62,64,66,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,40,75)
+
+GracenoteDurations,(32,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,88,80,250)
+
+TuneFormat,(1,0,M,L,500,170,500,170,P,0,0)
+
+TuneTempo,120
+
+"The Padre's Pride ",(T,L,0,0,Mondine SF,20,700,0,0,18,0,0,0)
+
+"Samba Rhythm ",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"by Andi MacInnes",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"copyright (c) July 2003 Andi MacInnes ",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& C 
+	gg Fr_8 'f dbd Dl_8 'd LAl_8		gg Er_8 'e dbc Cl_8 'c LAl_8 !
+	gg Dr_8 'd dbb Bl_8 'b LGl_8		gg LAr_8 'la dg Cl_8 'c El_8 !
+	gg Fr_8 'f dbd Dl_8 'd Fl_8		dbhg HGr_8 'hg tg El_8 'e HGl_8 !
+	tdbf Fr_8 'f gg Dl_8 'd Bl_8		dbe Er_8 'e  gg LAl_8 'la Dl_8 !t
+
+
+&
+	gg Fr_8 'f dbd Dl_8 'd LAl_8		gg Er_8 'e dbc Cl_8 'c LAl_8 !
+	gg Dr_8 'd dbb Bl_8 'b LGl_8		gg LAr_8 'la dg Cl_8 'c El_8 !
+	gg Fr_8 'f gstd Dl_8 'd HGl_8		hdbc Cr_8 'c gg Dl_8 'd El_8 !
+	thrd Dr_8 'd gg Dl_8 'd Cl_8		thrd Dr_8 'd gg LAl_8 'la Dl_8 !I
+
+
+
+
+& I!
+	dbha HAr_8 'ha hdbf Fl_8 'f Dl_8	dbhg HGr_8 'hg hdbe El_8 'e Cl_8 !
+	dbha HAr_8 'ha hdbf Fl_8 'f LAl_8	thrd Dr_8 'd eg LAl_8 'la Fl_8 !
+	dbe Er_8 'e gg Cl_8 'c dg LAl_8	gg Fr_8 'f dbd Dl_8 'd eg LAl_8 !
+	dbha HAr_8 'ha hdbf Fl_8 'f LAl_8	dbe Er_8 'e gg Fl_8 'f HGl_8 !t
+
+
+&
+	dbha HAr_8 'ha hdbf Fl_8 'f Dl_8	dbhg HGr_8 'hg hdbe El_8 'e Cl_8 !
+	dbha HAr_8 'ha hdbf Fl_8 'f LAl_8	thrd Dr_8 'd eg LAl_8 'la HGl_8 !
+	tg Fr_8 'f gstd Dl_8 'd HGl_8		hdbc Cr_8 'c gg Dl_8 'd El_8 !
+	thrd Dr_8 'd gg Dl_8 'd Cl_8		thrd Dr_8 'd gg LAl_8 'la Dl_8 !I
+
+
+
+
+& I!
+	gg Fr_8 'f gg Dl_8 'd LAl_8		gbr LAr_8 'la dbha HAl_8 'ha Fl_8 !
+	dbe Er_8 'e gg Cl_8 'c LAl_8		gbr LAr_8 'la  dbhg HGl_8 'hg El_8 !
+	dbd Dr_8 'd gg Bl_8 'b LGl_8		dblg LGr_8 'lg gg Bl_8 'b Dl_8 !
+	gg LAr_8 'la dg Cl_8 'c El_8		dbhg HGr_8 'hg tg El_8 'e HGl_8 !t
+
+
+&
+	tg Fr_8 'f gg Dl_8 'd LAl_8		gbr LAr_8 'la dbha HAl_8 'ha Fl_8 !
+	dbe Er_8 'e gg Cl_8 'c LAl_8		gbr LAr_8 'la  dbhg HGl_8 'hg El_8 !
+	gg Fr_8 'f gstd Dl_8 'd HGl_8		hdbc Cr_8 'c gg Dl_8 'd El_8 !
+	thrd Dr_8 'd gg Dl_8 'd Cl_8		thrd Dr_8 'd gg LAl_8 'la Dl_8 !I
+
+
+
+
+& I!
+	HAr_8 abr LAl_16 HAl_8 'ha Fl_8	dbhg HGr_8 'hg tg El_8 'e LAl_8 !
+	gg Fr_8 'f HAl_8 'f Dl_8			dbe Er_8 'e gg Cl_8 'c dg LAl_8 !
+	HAr_8 abr LAl_16 HAl_8 'ha Fl_8	dbhg HGr_8 'hg tg El_8 'e HGl_8 !
+	hdbf Fr_8 'f gg Dl_8 'd Bl_8		dbe Er_8 'e  gg LAl_8 'la Dl_8 !t
+
+
+&
+	HAr_8 abr LAl_16 HAl_8 'ha Fl_8	dbhg HGr_8 'hg tg El_8 'e LAl_8 !
+	gg Fr_8 'f HAl_8 'f Dl_8			dbe Er_8 'e gg Cl_8 'c dg LAl_8 !
+	gg Fr_8 'f gstd Dl_8 'd HGl_8		hdbc Cr_8 'c gg Dl_8 'd El_8 !
+	thrd Dr_8 'd gg Dl_8 'd Cl_8		thrd D_2 !I
+
+
+"3rd & 4th part harmony ",(I,L,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+& C I!
+	gg F_2 'f		D_4 !
+	dbe E_2 'e 	C_4 !
+	gg D_2 'd		B_4 !
+	strlg LA_2 	gg B_4 'b 	D_8 !t
+
+
+&
+	gg F_2 'f		D_4 !
+	dbe E_2 'e 	C_4 !
+	gg D_2 		hdbc Cr_8 'c gg Bl_8 'b LAl_8 !
+	gg Fr_8 'f eg Fl_8 'f HGl_8		hdbf F_4 'f HG_8 !I
+
+
+& I!
+	HA_2	fg HG_2 !
+	F_2		dbe E_2 !
+	gg D_2	C_2 !
+	gg B_2	strlg LAr_8 'la gg Fl_8 'f HGl_8 !t
+
+
+&
+	HA_2	fg HG_2 !
+	F_2		dbe E_2 !
+	gg D_2 		hdbc Cr_8 'c gg Bl_8 'b LAl_8 !
+	gg Fr_8 'f eg Fl_8 'f HGl_8		hdbf F_2 !I

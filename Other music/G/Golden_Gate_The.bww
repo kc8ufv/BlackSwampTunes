@@ -1,0 +1,127 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(109,109,46,34,1000,60,70)
+
+GracenoteDurations,(30,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,60,80,0)
+
+TuneFormat,(1,1,F,L,500,500,500,500,P,0,0)
+
+TuneTempo,50
+
+"THE GOLDEN GATE - A SALUTE TO CHEE'S 80 YEARS",(T,L,0,0,Goudy Old Style,16,700,0,0,18,0,0,0)
+
+"",(Y,C,0,0,Goudy Old Style,12,400,0,0,18,0,0,0)
+
+"Iain Sherwood, Feb 15, 2000",(M,R,0,0,Goudy Old Style,10,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+
+"Urlar",(I,L,0,0,Goudy Old Style,10,700,0,0,0,0,0,0) 
+
+& sharpf sharpc C
+I!''	cadged C_4 Br_16 dg Cl_8 'c	gg E_4	 Fr_16 gg LAl_8 'la
+!	grp B_4 LAr_16 eg Bl_8 'b	grp C_4  Dr_16 eg Bl_8 'b
+!	cadged C_4 Br_16 dg Cl_8 'c	gg E_4	 Fr_16 gg LAl_8 'la
+!	'1	grp B_4 Cr_16 eg Bl_8 'b	gg E_4 hiharin LA_4   _'
+!	'2	grp B_4 Er_16 Dl_8 'd	gg C_4 darodo B_4	_'	''!I
+
+& sharpf sharpc 
+edre E_4 Cr_16 gg El_8 'e dare F_4 gg Fr_16 El_8 'e
+!	strla E_4 Cr_16 El_8 'e	gg C_4 darodo B_4
+!	cadged C_4 Br_16 dg Cl_8 'c	gg E_4  Fr_16 gg LAl_8 'la
+!	grp B_4 LAr_16 eg Bl_8 'b	grp C_4  Dr_16 eg Bl_8 'b	!t
+
+& sharpf sharpc 
+edre E_4 Cr_16 gg El_8 'e dare F_4 gg Fr_16 El_8 'e
+!	strla E_4 Cr_16 gg El_8 'e	gg C_4 darodo B_4
+!	cadged C_4 Br_16 dg Cl_8 'c	gg E_4 Fr_16 gg LAl_8 'la
+!	grp B_4 Cr_16 eg Bl_8 'b	gg E_4 hiharin LA_4 fermatla	fine	!I
+
+"Variation I. Thumb",(I,L,0,0,Goudy Old Style,10,700,0,0,0,0,0,0) 
+& sharpf sharpc 
+I!''	cadged C_4 Br_16 dg Cl_8 'c	gg E_8 HA_4  LA_8 
+!	grp B_4 LAr_16 dg Bl_8 'b	grp C_4  Dr_16 eg Bl_8 'b
+!	cadged C_4 Br_16 dg Cl_8 'c	gg E_8  HA_4 LA_8
+!	'1	grp B_4 Cr_16 Bl_8 'b	gg E_4 hiharin LA_4	_'
+!	'2	grp B_4 Er_16 Dl_8 'd	gg C_4 darodo B_4	_'	''!I
+
+& sharpf sharpc 
+edre E_4 Cr_16 gg El_8 'e dili HA_4 gg HAr_16 El_8 'e
+!	strla E_4 Cr_16 gg El_8 'e	gg C_4 darodo B_4
+!	cadged C_4 Br_16 dg Cl_8 'c	gg E_8  HA_4 LA_8
+!	grp B_4 LAr_16 eg Bl_8 'b	grp C_4  Dr_16 eg Bl_8 'b	!t
+
+& sharpf sharpc 
+edre E_4 Cr_16 gg El_8 'e dili HA_4 gg HAr_16 El_8 'e
+!	strla E_4 Cr_16 gg El_8 'e	gg C_4 darodo B_4
+!	cadged C_4 Br_16 eg Cl_8 'c	gg E_8 HA_4  LA_8
+!	grp B_4 Cr_16 eg Bl_8 'b	gg E_4 hiharin LA_4	!I
+
+TuneTempo,65
+"Variation II.",(I,L,0,0,Goudy Old Style,10,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 
+I!''	gg C_4 eg LAr_8 'la dg Cl_16	gg Er_8 'e Fl_16	 gg LAr_8 'la dg Cl_16
+!	gg B_4	dg LGr_8 'lg dg Bl_16	gg Cr_8 'c Dl_16	eg B_4 fermatb
+!	gg C_4 eg LAr_8 'la dg Cl_16	gg Er_8 'e Fl_16	 gg LAr_8 'la dg Cl_16
+!	gg B_4	dg LGr_8 'lg dg Bl_16	gg LAr_8 'la tar LAl_16	dg LA_4	''!I
+
+& sharpf sharpc 
+	gg E_4 gg LAr_8 'la dg Cl_16	gg Er_8 'e Fl_16	gg LAr_8 'la dg Cl_16
+!	gg E_4 gg LAr_8 'la dg Bl_16	gg Cr_8 'c Dl_16	eg B_4 fermatb
+!	gg C_4 eg LAr_8 'la dg Cl_16	gg Er_8 'e Fl_16	 gg LAr_8 'la dg Cl_16
+!	gg B_4	dg LGr_8 'lg dg Bl_16	gg Cr_8 'c Dl_16	gg Br_8 'b dg Cl_16	!t
+
+
+& sharpf sharpc 
+	gg E_4 gg LAr_8 'la dg Cl_16	gg Er_8 'e Fl_16	gg LAr_8 'la dg Cl_16
+!	gg E_4 gg LAr_8 'la gg El_16	gg Cr_8 'c Dl_16	eg B_4 fermatb
+!	gg C_4 eg LAr_8 'la dg Cl_16	gg Er_8 'e Fl_16	 gg LAr_8 'la dg Cl_16
+!	gg B_4	dg LGr_8 'lg dg Bl_16	gg LAr_8 'la tar LAl_16	dg LA_4	!I
+
+TuneTempo,70
+"Taorluath",(I,L,0,0,Goudy Old Style,10,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 
+I!''	C_4 pt gg LAr_8 dg Cl_8	E_4 pt gg LAr_8  El_8
+!	C_4 pt gg LAr_8 dg Cl_8	B_4 ptlg gg LGr_8 dg Bl_8
+!	C_4 pt gg LAr_8 dg Cl_8	E_4 pt gg LAr_8 dg Cl_8
+!	B_4 ptlg gg LGr_8 dg Bl_8	LA_4 pt LA_4 pt	''!I
+
+& sharpf sharpc 
+	E_4 pt gg LAr_8 dg Cl_8	E_4 pt gg LAr_8 dg Cl_8
+!	C_4 pt gg LAr_8 dg Cl_8	B_4 ptlg gg LGr_8 dg Bl_8
+!	C_4 pt gg LAr_8 dg Cl_8	E_4 pt gg LAr_8  El_8
+!	C_4 pt gg LAr_8 dg Cl_8	B_4 ptlg gg LGr_8 dg Bl_8	!t
+
+& sharpf sharpc 
+	E_4 pt gg LAr_8 dg Cl_8	E_4 pt gg LAr_8 dg Cl_8
+!	C_4 pt gg LAr_8 dg Cl_8	B_4 ptlg gg LGr_8 dg Bl_8
+!	C_4 pt gg LAr_8 dg Cl_8	E_4 pt gg LAr_8 dg Cl_8
+!	B_4 ptlg gg LGr_8 dg Bl_8	LA_4 pt LA_4 pt	!I
+
+"Crunluath",(I,L,0,0,Goudy Old Style,10,700,0,0,0,0,0,0) 
+& sharpf sharpc 
+I!''	C_4 pc gg LAr_8 dg Cl_8	E_4 pc gg LAr_8  El_8
+!	C_4 pc gg LAr_8 dg Cl_8	B_4 pclg gg LGr_8 dg Bl_8
+!	C_4 pc gg LAr_8 dg Cl_8	E_4 pc gg LAr_8 dg Cl_8
+!	B_4 pclg gg LGr_8 dg Bl_8	LA_4 pc LA_4 pc	''!I
+
+& sharpf sharpc 
+	E_4 pc gg LAr_8 dg Cl_8	E_4 pc gg LAr_8 dg Cl_8
+!	C_4 pc gg LAr_8 dg Cl_8	B_4 pclg gg LGr_8 dg Bl_8
+!	C_4 pc gg LAr_8 dg Cl_8	E_4 pc gg LAr_8  El_8
+!	C_4 pc gg LAr_8 dg Cl_8	B_4 pclg gg LGr_8 dg Bl_8	!t
+
+& sharpf sharpc 
+	E_4 pc gg LAr_8 dg Cl_8	E_4 pc gg LAr_8 dg Cl_8
+!	C_4 pc gg LAr_8 dg Cl_8	B_4 pclg gg LGr_8 dg Bl_8
+!	C_4 pc gg LAr_8 dg Cl_8	E_4 pc gg LAr_8 dg Cl_8
+!	B_4 pclg gg LGr_8 dg Bl_8	LA_4 pc LA_4 pc	dacapoalfine !I

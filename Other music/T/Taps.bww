@@ -1,0 +1,28 @@
+Bagpipe Reader:1.0
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,61,62,64,66,67,69)
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+InstrumentMappings,(71,71,45,33,500,60,70)
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(100,100,100,90,250)
+TuneFormat,(1,0,M,L,1000,1000,500,500,P,0,0)
+TuneTempo,46
+
+"Taps",(T,C,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+"Slow Air",(Y,L,0,0,Times New Roman,12,700,255,0,18,0,0,0)
+"Traditional",(M,R,0,0,Times New Roman,12,700,255,0,18,0,0,0)
+"Arr: Scott Leslie",(F,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+"1"
+& 3_4
+LAr_8 'la strlg LAl_16 space !
+thrd D_2  gg LAr_8 'la thrd Dl_16 !
+gg F_2  gg LAr_8 'la thrd Dl_16 !
+gg F_4  LAr_8 'la thrd Dl_16 gg F_4  !
+gg LAr_8 'la thrd Dl_16 gg F_2 !t 
+
+"2"
+&
+gg Dr_8 'd gg Fl_16 dbha HA_2 !
+hdbf Fr_8 'f thrd Dl_8 'd strlg LA_4 'la !
+gg LAr_8 'la strlg LAl_16	thrd ^ts D_2 !
+D_2 ^te !t

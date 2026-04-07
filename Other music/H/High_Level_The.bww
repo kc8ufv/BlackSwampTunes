@@ -1,0 +1,61 @@
+Bagpipe Music Writer Gold:1.0
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+InstrumentMappings,(71,71,45,33,1000,60,70)
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,100,80,250)
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+TuneTempo,90
+
+"The High Level",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+"Hornpipe",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"arr/composed by PM A MacDonald, Scots Guards",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"Scots Guards, Vol II",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc  I!'' HAr_16 'ha HGl_32
+!	tg Fr_32 HAr_16 'ha Dr_32 Fl_16 'f			gg Br_32 Dr_16 'd eg LAr_16 'la Dl_32
+!	Fr_16 'f gg LAl_32 Dl_16 'd Fl_32			HAr_16 'ha Fl_32 hdbe Er_16 'e Dl_32
+!	gg Er_32 HGr_16 'hg tg LAl_32 El_16 'e	gg LAr_16 'la Er_32 gg Cl_32 dg LAl_16 'la
+!	gg Cr_32 Er_16 'e LAr_16 'la El_32		HAr_16 'ha HGl_32 dbf Fr_16 'f El_32  !t
+
+& sharpf sharpc  
+	gg Fr_32 HAr_16 'ha Dr_32 Fl_16 'f		gg Br_32 Dr_16 'd eg LAr_16 'la Dl_32
+!	Fr_16 'f gg LAl_32 Dl_16 'd Fl_32			HAr_16 'ha Fl_32 hdbe Er_16 'e Dl_32
+!	gg Cr_32 dg LAr_16 'la gg Cr_32 El_16 'e	gg LAr_16 'la Er_32 gg Cl_32 dg LAl_16 'la
+!	HAr_16 'ha HGl_32 hdbf Fr_16 'f El_32		thrd D_8  ''!I
+
+& sharpf sharpc  I!'' dbe Er_16 'e Dl_32
+!	gg Cr_32 Er_16 'e tg HGr_16 'hg El_32		gg Cr_32 Er_16 'e gg LAr_16 'la El_32
+!	gg Cr_32 dg LAr_16 'la gg Cr_32 El_16 'e	tg HGr_16 'hg Er_32 gg Cl_32 dg LAl_16 'la
+!	gg Dr_16 'd Fl_32 HAr_16 'ha Fl_32		gg Dr_32 Fr_16 'f gg LAr_16 'la Dl_32
+!	Fr_16 'f gg LAl_32 Dr_16 'd Fl_32			HAr_16 'ha Fl_32 dg Er_16 'e Dl_32  !t
+
+& sharpf sharpc
+	gg Cr_32 Er_16 'e tg HGr_16 'hg El_32		gg Cr_32 Er_16 'e gg LAr_16 'la El_32
+!	gg Cr_32 dg LAr_16 'la gg Cr_32 El_16 'e	tg HGr_16 'hg Er_32 gg Cl_32 dg LAl_16 'la
+!	gg Cr_32 dg LAr_16 'la gg Cr_32 El_16 'e	gg LAr_16 'la Er_32 gg Cl_32 dg LAl_16 'la
+!	HAr_16 'ha HGl_32 hdbf Fr_16 'f El_32		thrd D_8  ''!I
+
+& sharpf sharpc  I!'' HAr_16 'ha HGl_32
+!	gg Fr_16 'f Dl_32 strc Dr_16 'd HAl_32		LAr_16 'ha Fr_32 Dl_32 eg LAl_16 'e
+!	Fr_16 'f gg LAl_32 Dr_16 'd Fl_32			HAr_16 'ha Fl_32 gg El_16 'e Dl_32
+!	gg Er_16 'e Cl_32 strlg Cr_16 'c HAl_32		LAr_16 'la Er_32 gg Cl_32 dg LAl_16 'la
+!	gg Cr_32 Er_16 'e gg LAr_16 'la El_32		HAr_16 'ha HGl_32 hdbf Fr_16 'f El_32  !t
+
+& sharpf sharpc  
+	gg Fr_16 'f Dl_32 strc Dr_16 'd HAl_32		LAr_16 'ha Fr_32 Dl_32 eg LAl_16 'e
+!	Fr_16 'f gg LAl_32 Dr_16 'd Fl_32			HAr_16 'ha Fl_32 gg El_16 'e Dl_32
+!	gg Cr_32 dg LAr_16 'la gg Cr_32 El_16 'e	gg LAr_16 'la Er_32 gg Cl_32 dg LAl_16 'la
+!	HAr_16 'ha HGl_32 hdbf Fr_16 'f El_32		thrd D_8  ''!I
+
+& sharpf sharpc  I!'' HAr_16 'ha HGl_32
+!	tg Fr_16 'f LAl_32 brl LAr_16 'la HAl_32		LAr_16 'la Fr_32 LAl_32 brl LAl_16 'la
+!	gg Fr_16 'f LAl_32  brl LAl_16 'la Fl_32		HAr_16 'ha Fr_32 gg El_16 'e Dl_32
+!	gg Er_16 'e Cl_32 strla Cr_16 'c HAl_32		LAr_16 'la Er_32 LAl_32 brl LAl_16 'la
+!	gg Cr_32 Er_16 'e gg LAr_16 'la El_32		HAr_16 'ha HGl_32 hdbf Fr_16 'f El_32 !t
+
+& sharpf sharpc  
+	tg Fr_16 'f LAl_32 brl LAr_16 'la HAl_32		LAr_16 'la Fr_32 LAl_32 brl LAl_16 'la
+!	gg Fr_16 'f LAl_32  brl LAl_16 'la Fl_32		HAr_16 'ha Fr_32 gg El_16 'e Dl_32
+!	gg Cr_32 dg LAr_16 'la gg Cr_32 El_16 'e	gg LAr_16 'la Er_32 gg Cl_32 dg LAl_16 'la
+!	HAr_16 'ha HGl_32 hdbf Fr_16 'f El_32		thrd D_8  ''!I	

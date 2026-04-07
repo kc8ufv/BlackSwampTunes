@@ -1,0 +1,47 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,88,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,90
+
+"The Linen Cap",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Reel",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc C_
+I! dbha HA_4 hdbe Er_8 'e Cl_16 	gg LAr_8 'la dg LAl_16 eg LAl_8 'la dg Cl_16
+! gg Br_8 'b Cl_16 gg Dl_8 'd El_16	gg Fr_8 'f Bl_16 strlg Bl_8 'b El_16
+! dbha HA_4 hdbe Er_8 'e Cl_16 	gg LAr_8 'la dg LAl_16 eg LAl_8 'la dg Cl_16
+! gg Dr_8 'd El_16 gg Fl_8 'f HGl_16 dbha HA_4 brl LAr_8 'la El_16	!t
+
+& sharpf sharpc
+! dbha HA_4 hdbe Er_8 'e Cl_16 	gg LAr_8 'la dg LAl_16 eg LAl_8 'la dg Cl_16
+! gg Br_8 'b Cl_16 gg Dl_8 'd El_16	gg Fr_8 'f Bl_16 strlg Bl_8 'b El_16
+! dbha HA_4 Er_16 HAl_8 'ha 	HGr_8 'hg El_16 strla El_8 'e Cl_16
+! gg Dr_8 'd El_16 gg Fl_8 'f HGl_16 dbha HA_4 brl LA_8 'la !I
+
+& sharpf sharpc HA_16
+I! Cr_16 dg LAl_8 'la gg LAl_16 dg LAl_8 'la	gg Cr_8 'c El_16 strla El_8 'e Cl_16
+! gg Br_8 'b Cl_16 gg Dl_8 'd El_16	gg Fr_8 'f Bl_16 strlg Bl_8 'b HAl_16
+! Cr_16 dg LAl_8 'la gg LAl_16 dg LAl_8 'la	gg Cr_8 'c El_16 strla El_8 'e Cl_16
+! gg Dr_8 'd El_16 gg Fl_8 'f HGl_16 dbha HA_4 brl LAr_8 'la HAl_16 	!t
+
+& sharpf sharpc
+! Cr_16 dg LAl_8 'la gg LAl_16 dg LAl_8 'la	gg Cr_8 'c El_16 strla El_8 'e Cl_16
+! gg Br_8 'b Cl_16 gg Dl_8 'd El_16	gg Fr_8 'f Bl_16 strlg Bl_8 'b El_16
+! dbha HA_4 Er_16 HAl_8 'ha 	HGr_8 'hg El_16 strla El_8 'e Cl_16
+! gg Dr_8 'd El_16 gg Fl_8 'f HGl_16 dbha HA_2 !I

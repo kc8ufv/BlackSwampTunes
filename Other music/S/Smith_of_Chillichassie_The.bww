@@ -1,0 +1,94 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Converted from  BMW Dos file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+"The Smith of Chillichassie",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Reel",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"trad",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+TuneTempo,98
+
+
+
+& sharpf sharpc C_ E_8
+!	  gg LAr_8  dg LAl_8 eg LAl_8  dg Bl_8	   dbe E_4	    gg LAr_8  El_8
+!	  thrd D_4	   eg LGr_8  Dl_8		    gg Br_8 dg Bl_8  eg Bl_8 dg LGl_8 
+!	  gg LAr_8  dg LAl_8 eg LAl_8  dg Bl_8	   dbe E_4	    gg LAr_8  El_8
+!	  thrd D_4	   eg LGr_8  Bl_8		    gg LAr_8 dg LAl_8  eg LAl_8 dg LGl_8 		 !t
+
+& sharpf sharpc
+!	  gg LAr_8  dg LAl_8 eg LAl_8  dg Bl_8	   dbe E_4	    gg LAr_8  El_8
+!	  thrd D_4	   eg LGr_8  Dl_8		    gg Br_8 dg Bl_8  eg Bl_8 dg LGl_8 
+!	  gg LAr_8  dg LAl_8 eg LAl_8  dg Bl_8	   dbe E_4	    gg LAr_8  dg Bl_8
+!	  dbhg HG_4	  tg Dr_8  Bl_8			 gg LAr_8 dg LAl_8  eg LAl_8 dg LGl_8 		 !I
+
+& sharpf sharpc
+!	  dbhg HG_4	  tg Fr_8  HGl_8			HAr_8  El_8 gg Fl_8 Dl_8 
+!	  dbhg HG_4	  tg Fr_8 HGl_8 		    tg Br_8 dg Bl_8  eg Bl_8 dg LGl_8 
+!	  dbhg HG_4	  tg Fr_8  tg HGl_8		  HAr_8  El_8 gg Fl_8 Dl_8 
+!	  dbhg HG_4	  tg Dr_8  Bl_8			 gg LAr_8 dg LAl_8  eg LAl_8 dg LGl_8 		 !t
+
+& sharpf sharpc
+!	  dbhg HG_4	  tg Fr_8  HGl_8			HAr_8  El_8 gg Fl_8 Dl_8 
+!	  dbhg HG_4	  tg Fr_8 HGl_8 		    tg Br_8 dg Bl_8  eg Bl_8 dg LGl_8 
+!	  dbhg HG_4	  tg Fr_8  tg HGl_8		  HAr_8  El_8 gg Fl_8  Dl_8
+!	  gg Er_8 HGl_8  tg Dl_8  Bl_8		   gg LAr_8 dg LAl_8  eg LAl_8 dg LGl_8 		 !I
+
+& sharpf sharpc 
+I!''    gg LAr_8 dg LAl_8  Dl_8 eg LAl_8 			gg Br_8 dg LAl_8  Dl_8 eg LAl_8 
+!	  gg LAr_8 dg LAl_8  Dl_8 eg LAl_8 			gg Br_8 dg Bl_8  eg Bl_8 dg LGl_8 
+!	  gg LAr_8 dg LAl_8  Dl_8 eg LAl_8 			gg Br_8 dg LAl_8  Dl_8 eg LAl_8 
+!	  gg Br_8 El_8  gg Dl_8  Bl_8				   gg LAr_8 dg LAl_8  eg LAl_8 dg LGl_8 		 ''!I
+
+& sharpf sharpc
+!	  dbhg HG_4	  tg Fr_8  El_8			 gg Er_8 HAl_8  gg HAl_8  El_8
+!	  dbhg HG_4	  tg Fr_8 HGl_8 		    tg Br_8 dg Bl_8  eg Bl_8 dg LGl_8 
+!	  dbhg HG_4	  tg Fr_8  El_8			 gg Fr_8  HAl_8 gg HAl_8  El_8
+!	  tg HGr_8  El_8 gg Dl_8  Bl_8		   gg LAr_8 dg LAl_8  eg LAl_8 dg LGl_8 		 !t
+
+& sharpf sharpc
+!	  dbhg HG_4	  tg Fr_8  El_8			 gg Er_8 HAl_8  gg HAl_8  El_8
+!	  dbhg HG_4	  tg Fr_8 HGl_8 		    tg Br_8 dg Bl_8  eg Bl_8 dg LGl_8 
+!	  dbhg HG_4	  tg Fr_8  El_8			 gg Fr_8  HGl_8 HAl_8  Fl_8
+!	  gg Er_8 HGl_8  tg Dl_8  Bl_8		   gg LAr_8 dg LAl_8  eg LAl_8 dg LGl_8 		 !I
+
+& sharpf sharpc
+!	  gg LAr_8  dg LAl_8 eg LAl_8  dg Bl_8		  gbr LA_4	   dbe Er_8  LAl_8
+!	  gg LAr_8  dg LAl_8 eg LAl_8  Dl_8			gg Br_8 dg Bl_8  eg Bl_8 dg LGl_8 
+!	  gg LAr_8  dg LAl_8 eg LAl_8  dg Bl_8		  gbr LA_4	   dbe Er_8  LAl_8
+!	  gg Br_8 El_8  gg Dl_8  Bl_8				   gg LAr_8 dg LAl_8  eg LAl_8 dg LGl_8 		 !t
+
+& sharpf sharpc
+!	  gg LAr_8  dg LAl_8 eg LAl_8  dg Bl_8		  gbr LA_4	   dbe Er_8 LAl_8
+!	  gg Dr_8  Bl_8 strlg Bl_8 Dl_8 				gg Br_8 dg Bl_8  eg Bl_8 dg LGl_8 
+!	  dbhg HG_4	  Er_8 HAl_8 					hdbe E_4			 gg LAr_8 Dl_8 
+!	  dbb B_4	    eg LGr_8 dg Bl_8 				gg LAr_8 dg LAl_8  eg LAl_8 dg LGl_8 		 !I
+
+& sharpf sharpc
+!	  dbhg HG_4	  tg Fr_8 El_8 			 HA_4		  grp HAr_8  HGl_8
+!	  tg Er_8 HGl_8  tg Dl_8 HGl_8 		 tg Br_8 dg Bl_8  eg Bl_8 dg LGl_8 
+!	  dbhg HG_4	  tg Fr_8 El_8 			 HA_4		  grp HAr_8  HGl_8
+!	  tg Er_8 HGl_8  tg Dl_8  Bl_8		   gg LAr_8 dg LAl_8  eg LAl_8 dg LGl_8 		 !t
+
+& sharpf sharpc
+!	  dbhg HG_4	  tg Fr_8 El_8 			 HA_4		  grp HAr_8  HGl_8
+!	  tg Er_8 HGl_8  tg Dl_8 HGl_8 		 tg Br_8 dg Bl_8  eg Bl_8 dg LGl_8 
+!	  dbe E_4	    gg LAr_8 dg Bl_8 		  gbr LA_4	   dbe Er_8 LAl_8 
+!	  gg Er_8 HGl_8  tg Dl_8  Bl_8		   gg LAr_8 dg LAl_8  eg LAl_8 dg LGl_8 		 !t
+

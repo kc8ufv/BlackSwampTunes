@@ -1,0 +1,29 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,168
+
+"Hawaii Five-O",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Theme",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Arr. C/Sgt Mark James",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Atlantic Watch Pipes & Drums",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 4_4 E_4 ! gg LAr_8 gg LAl_8 	gg Br_8 Dr_8 Cl_8 'c ! C_2 ^ts LA_4 ! LA_4 ^te gg LAr_8 gg LAl_8 	LG_8 B_4 ^ts LA_8 ! LA_1 ^te !t 
+& sharpf sharpc ! gg LAr_8 gg LAl_8 		Br_8 Dr_8 Cl_8 'c  ! C_4 'c ^ts dbhg HG_8  HG_2 ^te   ! tg ^ts F_4  tg Fr_8 gg Fl_8 ^te  gg D_4 dbb B_4 'b  ! dbha HA_4 HGr_8 tg Fl_8 	Dr_8 Cl_8 !t
+& sharpf sharpc ! gg  B_8   ^ts strlg LA_8  LA_2  LA_8 ^te   ! HA_4 gg HAr_8 HGl_8 	Fr_8 Dl_8 ! ^ts C_4 C_8 ^te thrd D_4 ! gg C_4 'c dbhg ^ts HG_8 HG_2 ^te !t  
+& sharpf sharpc ! gg Fr_8 gg Fl_8 thrd D_4 ^ts C_8 ! C_2 C_4 C_4 ^te ! LA_4 ^te gg LAr_8 gg LAl_8 	LG_8 B_4 ^ts LA_8 ! LA_1 ^te !t    
+& sharpf sharpc ! gg C_4 'c ^ts dbhg HG_8  HG_2 ^te   ! tg ^ts F_4  tg Fr_8 gg Fl_8 ^te  gg D_4 dbb  B_4 'b ! ^ts B_1 ! B_1 ^te  !t

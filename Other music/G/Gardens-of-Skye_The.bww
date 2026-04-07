@@ -1,0 +1,49 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,67,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,40,50)
+
+GracenoteDurations,(40,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(100,100,100,140,250)
+
+TuneFormat,(1,0,M,C,500,500,550,500,L,0,0)
+
+TuneTempo,90
+
+"The Gardens of Skye",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"4/4 March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"A. Harper / TCMetro",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"TCMetro 2003",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+
+& sharpf sharpc   4_4 I!'' dbc Cr_8 'c Bl_16 
+! 	strlg LA_4 			brl LAr_8 'la Bl_16 			gg Cr_16 El_8 'e 		strla Er_8 'e Cl_16 	
+!	dbb Br_8 strlg LAl_8 	dbc Cr_8 'c Bl_16 			strlg LA_4 			dbc Cr_8 El_8 	
+! 	gg F_4 				stre Fr_8 'f El_16 			gg Fr_16 HAl_8 'ha		fg HGr_8 Fl_8 	
+! 	dbf Fr_8 El_8 	 		strla Er_8 'e Fl_16 			dbe E_4 				dbc Cr_8 El_8 
+!t
+& sharpf sharpc 
+ 	dbha HA_4 			strhg HAr_8 'ha HGl_16 		tg F_4 				dbha HAr_8 'ha HGl_16 	
+!	tg Fr_8 El_8 			dbc Cr_8 eg Bl_8 			dbc C_4 				dbc Cr_8 'c Bl_16 	
+! 	strlg LA_4 			brl LAr_8 'la Bl_16 			gg Cr_16 El_8 'e 		gg Fr_8 'f Cl_16 	
+! 	dbb Br_8 strlg LAl_8 	dbc Cr_8 'c Bl_16 			strlg LA_4 	
+''!I
+& sharpf sharpc  I!'' gg Er_8 'e Fl_16 	
+! 	ggrpc C_4 			gg Cr_8 'c El_16			dbf F_4 				gg Fr_8 HAl_8 	
+! 	hdbe E_4 			strla Er_8 'e Fl_16 			dbe Er_8 Cl_8 			gg Br_8 dg Cl_8 	
+! 	dbe E_4 				strla Er_8 HAl_8 			hdbf F_4 				gg Fr_8 HAl_8 	
+! 	Er_8 'e Fl_16 			dbe Er_8 Cl_8 				dbb B_4 				dbc Cr_8 El_8 	
+!t
+& sharpf sharpc 
+	dbha HA_4 			strhg HAr_8 'ha HGl_16 		tg F_4 				dbha HAr_8 'ha HGl_16 	
+!	tg Fr_8 El_8 			dbc Cr_8 eg Bl_8 			dbc C_4 				dbc Cr_8 'c Bl_16 	
+! 	strlg LA_4 			brl LAr_8 'la Bl_16 			gg Cr_16 El_8 'e 		gg Fr_8 'f Cl_16 	
+! 	dbb Br_8 strlg LAl_8 	dbc Cr_8 'c Bl_16 			strlg LA_4 	
+''!I

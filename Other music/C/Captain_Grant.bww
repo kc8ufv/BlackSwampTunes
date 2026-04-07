@@ -1,0 +1,77 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Converted from  BMW Dos file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+"Captain Grant",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Arr. C. Hamilton",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"1998.3",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+TuneTempo,84
+
+
+& sharpf sharpc 2_4
+I!'' dbe E_8	!
+gg LA_4					
+tar LAr_8 gg Br_32 Dl_16 'd		! 
+dbe E_4					
+thrd Dr_8 HGr_16 'hg Fl_32		!
+dbe Er_8 gg LAl_8			
+brl LAr_8 dbe Er_16 'e Dl_32		!
+gg Br_32 Dl_16 'd gg Br_16 'b LAl_32	
+dblg LGr_8 El_8				!t
+& sharpf sharpc
+gg LA_4					
+tar LAr_8 gg Br_32 Dl_16 'd		! 
+dbe E_4					
+thrd Dr_8 HGr_16 'hg Fl_32		!
+dbe Er_8 LAl_8				
+gg LGr_16 'lg LAr_32 gg Bl_32 dg LGl_16 'lg	!
+gg LA_4					
+brl LA_8				''!I
+& sharpf sharpc
+I!'' dg B_16	!
+gg LAr_8 HAl_8				
+strhg HAr_8 'ha HGl_16			!
+dbha HAr_8 El_8 			
+strla Er_8 'e Fl_16			!
+dbhg HGr_8 HAl_8			
+strf HGr_8 tg Fr_16 'f El_32		!
+gg Dr_16 'd Cl_32 gg Br_16 'b LAl_32	
+gg LGr_16 'lg LAr_32 gg Bl_32 gg LGl_16 'lg	!t
+& sharpf sharpc
+'1
+gg LAr_8 HAl_8				
+strhg HAr_8 'ha HGl_16			!
+dbha HAr_8 El_8 			
+strla Er_8 'e Fl_16			!
+dbhg HGr_8 Bl_8			
+gg LGr_16 'lg LAr_32 gg Bl_32 dg LGl_16 'lg	!
+gg LA_4					
+brl LA_8 'la				_'	''!I
+& sharpf sharpc
+'2
+gg LA_4					
+tar LAr_8 gg Br_32 Dl_16 'd		! 
+dbe E_4					
+thrd Dr_8 HGr_16 'hg Fl_32		!
+dbe Er_8 LAl_8				
+gg LGr_16 'lg LAr_32 gg Bl_32 dg LGl_16 'lg	!
+gg LA_4					
+brl LA_8				_'	!I
+

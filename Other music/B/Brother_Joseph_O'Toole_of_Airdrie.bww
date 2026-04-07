@@ -1,0 +1,88 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,30,50)
+
+GracenoteDurations,(30,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(100,100,75,90,250)
+
+TuneFormat,(1,1,F,L,120,120,120,490,P,0,0)
+
+TuneTempo,70
+
+"Brother Joseph O' Toole of Airdrie",(T,L,0,0,Times New Roman,12,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,Times New Roman,8,400,0,0,18,0,0,0)
+
+"Dave Mason 2000",(M,R,0,0,Times New Roman,8,400,0,0,18,0,0,0)
+
+
+"1st part"
+
+& sharpf sharpc  2_4 I!'' E_8
+
+!	dbha HAr_16 'ha Er_32 dbf Fr_16 'f Dl_32				gg Cr_32 Er_16 'e gg Cr_32 dg LAl_16 'la
+!	grp Er_8 HAr_16 'ha Fl_32							dbe Er_8 gg LAr_32 dg Cl_16 'c
+!	dbhg HGr_16 'hg Dr_32 gg Bl_32 dg LAl_16 'la			gg Br_16 'b dg LGr_32 eg LGr_16 'lg dg Bl_32
+!	thrd Dr_8 tg HGr_16 'hg Dl_32						gg Br_32 dg LGr_16 'lg '22 gg  Er_32 Fl_32  HGl_16 				!t
+
+& sharpf sharpc 
+
+!	dbha HAr_16 'ha Er_32 dbf Fr_16 'f Dl_32			gg Cr_32 Er_16 'e gg Cr_32 dg LAl_16 'la
+!	grp Er_8 HAr_16 'ha Fl_32						dbe Er_8 gg LAr_32 dg Cl_16 'c
+!	dbhg HGr_16 'hg Dr_32 dbb Br_16 'b LAl_32			gg Br_32 dg LGr_16 'lg dbe Er_16 'e Dl_32
+!	dbc Cr_16 'c Br_32 gg Cl_32 El_16 'e				gbr LA_8 _'												''!I
+
+"2nd part"
+
+& sharpf sharpc  I!'' E_8
+
+!	dbc Cr_16 'c Br_32 gg Cl_32 El_16 'e				gg Cr_32 dg LAr_16 'la dbe Er_16 'e LAl_32
+!	gg Cr_32 Er_16 'e HAr_16 'ha Fl_32					dbe Er_8 gg LAr_32 dg Cl_16 'c
+!	dbd Dr_16 'd Br_32 dbc Cr_16 'c LAl_32				gg Br_16 'b dg LGr_32 eg LGr_16 'lg dg Bl_32
+!	thrd Dr_8 tg HGr_16 'hg Dl_32						gg Br_32 dg LGr_16 'lg '1 dbd Dr_16 'd Bl_32						!t
+
+& sharpf sharpc 
+
+!	dbc Cr_16 'c Br_32 gg Cl_32 El_16 'e				gbr  LAr_8 dbe Er_16 'e LAl_32
+!	gg Cr_32 Er_16 'e HAr_16 'ha Fl_32					dbe Er_8 gg LAr_32 dg Cl_16 'c
+!	dbhg HGr_16 'hg Dr_32 dbb Br_16 'b LAl_32			gg Br_32 dg LGr_16 'lg dbe Er_16 'e Dl_32
+!	dbc Cr_16 'c Br_32 gg Cl_32 El_16 'e				gbr LA_8 _'												''!I
+
+
+"3rd part"
+
+& sharpf sharpc  I!'' E_8
+
+!	gg LAr_8 tar LAr_16 'la dg Cl_32						dbe Er_16 'e LAr_32 gg Cl_32 dg LAl_16 'la
+!	grp Er_8 HAr_16 'ha Fl_32							dbe Er_8 gg Cr_32 dg LAl_16 'la
+!	gg LGr_16 'lg dg LGr_32 eg LGr_16 'lg dg Bl_32			dbd Dr_16 'd LGr_32 gg Bl_32 dg LGl_16 'lg
+!	thrd Dr_8 tg HGr_16 'hg Dl_32						gg Br_32 dg LGl_16 'lg '24 gg  Er_32 Dl_32 Bl_16 			!t
+
+& sharpf sharpc 
+
+!	gg LAr_8 tar LAr_16 'la dg Cl_32					dbe Er_16 'e LAr_32 gg Cl_32 dg LAl_16 'la
+!	grp Er_8 HAr_16 'ha Fl_32						dbe Er_8 gg LAr_32 dg Cl_16 'la
+!	dbhg HGr_16 'hg Dr_32 dbb Br_16 'b LAl_32			gg Br_32 dg LGr_16 'lg dbe Er_16 'e Dl_32
+!	dbc Cr_16 'c Br_32 gg Cl_32 El_16 'e				gbr LA_8 _'												''!I
+
+"4th part"
+
+& sharpf sharpc  I!'' E_8
+
+!	dbha HAr_8 grp HAl_8							LAr_32 dg LAr_16 'lg gg Cr_32 dg LAl_16 'la
+!	grp Er_8 HAr_16 'ha Fl_32						dbe Er_8 gg LAr_32 dg Cl_16 'c
+!	dbhg HGr_8 grp HGl_8							LGr_32 dg LGr_16 'lg gg Br_32 dg LGl_16 'lg
+!	thrd Dr_8 tg HGr_16 'hg Dl_32						gg Br_32 dg LGr_16 'lg '1 gg  Er_32 Fl_32  HGl_16			!t	
+
+& sharpf sharpc 
+
+!	dbha HAr_8 grp HAl_8							HGr_16 'hg Fr_32 gg Er_16 'e HGl_32
+!	tg Fr_16 'f Er_32 gg Dr_16 'd Fl_32					dbe Er_8 gg LAr_32 dg Cl_16 'c			
+!	dbhg HGr_16 'hg Dr_32 dbb Br_16 'b LAl_32			gg Br_32 dg LGr_16 'lg dbe Er_16 'e Dl_32
+!	dbc Cr_16 'c Br_32 gg Cl_32 El_16 'e				gbr LA_8 _'												''!I
+

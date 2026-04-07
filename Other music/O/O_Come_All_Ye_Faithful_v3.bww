@@ -1,0 +1,52 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Adeste Fideles  (O Come All Ye Faithful)",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+TuneTempo,96
+
+
+& sharpf sharpc 4_4 D_4 	
+! gg D_2 	LA_4 	D_4 	
+! dbe E_2 	abr LA_2 	
+! dbf F_4 	E_4 	gg F_4 	HG_4 	
+! hdbf F_2 	dbe E_4 	D_4 	!t
+
+
+& sharpf sharpc dbd D_2 	C_4 	B_4 	
+! dbc C_4 	D_4 	dbe E_4 	F_4 	
+! dbc C_2 	dbb B_4 	'b strlg LA_8 	
+! gg LA_2 	brl LA_2 	!t
+
+
+& sharpf sharpc   HA_2 	HG_4 	F_4 	
+!   HG_2 	hdbf F_2 	
+! dbe E_4 	F_4 	thrd D_4 	E_4 	
+! dbc C_4 	'c B_8 	strlg LA_4 	D_4 	!t
+
+
+& sharpf sharpc dbd D_4 	C_4 	D_4 	E_4 	
+! dbd D_2 	eg LA_4 	F_4 	
+! dbf F_4 	E_4 	gg F_4 	HG_4 	
+! hdbf F_2 	dbe E_4 	F_4 	!t
+
+
+& sharpf sharpc   HG_4 	F_4 	gg E_4 	D_4 	
+! dbc C_2 	thrd D_4 	HG_4 	
+! hdbf F_2 	dbe E_4 	'e D_8 	
+! gstd D_2 	'd  !I

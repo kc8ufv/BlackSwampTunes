@@ -1,0 +1,78 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,0)
+
+TuneFormat,(1,0,F,L,500,500,500,500,P,0,0)
+
+TuneTempo,105
+
+
+
+"The Penny Rampage",(T,C,0,0,Arial,16,700,0,0,34,0,0,0)
+
+
+"Hornpipe",(Y,L,0,0,Arial,12,400,0,0,34,0,0,0)
+
+"Rob Galliah",(M,R,0,0,arial,12,500,0,0,34,0,0,0)
+
+"",(F,C,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+& sharpf sharpc 2_4 I!'' E_8 ! 
+gg Dr_16 Bl_16 strlg Bl_16 LAl_16 		dbb Br_8 gg Cr_16 Dl_16 ! 
+gg Er_16 Dl_16 dbc Cl_16 Bl_16 	gg LAr_8 gbr LAl_8 ! 
+gg Cr_16 dg LAl_16 Cl_16 El_16 	gg Fr_16 El_16 gg Dl_16 Cl_16 ! 
+gg Br_16 strlg Bl_16 gg Cl_16 dg LAl_16 	gg Br_16 strlg Bl_16 El_8 !t
+
+& sharpf sharpc '224  gg Dr_16 Bl_16 strlg Bl_16 LAl_16 		dbb Br_8 gg Cr_16 Dl_16 ! 
+gg Er_16 Dl_16 dbc Cl_16 Bl_16 	gg LAr_8 gbr LAl_8 ! 
+gg Cr_16 dg LAl_16 LGl_16 dg LAl_16 	gg Cr_16 El_16 gg Fl_16 El_16 ! 
+gg Dr_16 Cl_16 gg Bl_16 LAl_16 	pelb B_8  _' ''!I
+
+
+& sharpf sharpc I!'' E_8 ! gg Fr_16 Bl_16 pelb Bl_8 	gg Fr_16 El_16 gg Fl_16 HGl_16 !
+HAr_16 HGl_16 HAl_16 Fl_16 	dbe Er_16 LAl_16 gbr LAl_8 !  
+gg Cr_16 dg LAl_16 Cl_16 El_16 	gg Fr_16 El_16 gg Dl_16 Cl_16 !
+gg Br_16 strlg Bl_16 gg Cl_16 dg LAl_16 	gg Br_16 strlg Bl_16 El_8 !t
+
+& sharpf sharpc '1  
+gg Fr_16 Bl_16 pelb Bl_8 	gg Fr_16 El_16 gg Fl_16 HGl_16 ! 
+HAr_16 HGl_16 HAl_16 Fl_16 	dbe Er_16 LAl_16 gbr LAl_8 ! 
+gg Cr_16 dg LAl_16 LGl_16 dg LAl_16 	gg Cr_16 El_16 gg Fl_16 El_16 ! 
+gg Dr_16 Cl_16 gg Bl_16 LAl_16 	pelb B_8  _' ''!I
+
+
+& sharpf sharpc I!'' Dr_16 'd El_32 ! 
+gg Fr_16 Bl_16 strlg Bl_16 Fl_16 	Br_16 strlg Bl_16 Dl_16 Bl_16 ! 
+gg Er_16 LAl_16 gg LAl_16 El_16 	gg LAr_16 dg LAl_16 gg Cl_16 LAl_16 ! 
+gg Cr_16 dg LAl_16 Cl_16 El_16 	gg Fr_16 El_16 gg Dl_16 Cl_16 ! 
+gg Br_16 strlg Bl_16 gg Cl_16 dg LAl_16 	gg Br_16 strlg Bl_16 El_8 !t
+
+
+& sharpf sharpc
+gg Fr_16 Bl_16 strlg Bl_16 Fl_16 	Br_16 strlg Bl_16 Dl_16 Bl_16 ! 
+gg Er_16 LAl_16 gg LAl_16 El_16 	gg LAr_16 dg LAl_16 gg Cl_16 LAl_16 ! 
+gg Cr_16 dg LAl_16 LGl_16 dg LAl_16 	gg Cr_16 El_16 gg Fl_16 El_16 ! 
+gg Dr_16 Cl_16 gg Bl_16 LAl_16 	pelb B_8   ''!I
+
+
+
+& sharpf sharpc I!'' Dr_16 'd El_32 ! 
+gg Fr_16 Bl_16 HAl_16 Bl_16 	gg Fr_16 Bl_16 strlg Bl_16 HAl_16 ! 
+Er_16 LAl_16 HAl_16 LAl_16 	gg Er_16 LAl_16 gg Cl_16 LAl_16 !  
+gg Cr_16 dg LAl_16 Cl_16 El_16 	gg Fr_16 El_16 gg Dl_16 Cl_16 ! 
+gg Br_16 strlg Bl_16 gg Cl_16 dg LAl_16 	gg Br_16 strlg Bl_16 El_8 !t
+
+
+& sharpf sharpc  '1 
+gg Fr_16 Bl_16 HAl_16 Bl_16 	gg Fr_16 Bl_16 strlg Bl_16 HAl_16 !
+Er_16 LAl_16 HAl_16 LAl_16 	gg Er_16 LAl_16 gg Cl_16 LAl_16 !  
+gg Cr_16 dg LAl_16 LGl_16 dg LAl_16 	gg Cr_16 El_16 gg Fl_16 El_16 ! 
+gg Dr_16 Cl_16 gg Bl_16 LAl_16 	pelb B_8 _'   ''!I

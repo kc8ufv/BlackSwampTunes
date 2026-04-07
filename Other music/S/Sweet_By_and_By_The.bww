@@ -1,0 +1,42 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,90
+
+"The Sweet By and By",(T,C,0,0,Verdana,12,400,0,0,18,0,0,0)
+"Hymn",(Y,L,0,0,Verdana,9,400,0,0,18,0,0,0)
+"Joseph P Webster",(M,R,0,0,Verdana,9,400,0,0,18,0,0,0)
+"Arr. Gilbert MacKay, Newton Mearns",(F,R,0,0,Verdana,9,400,0,0,18,0,0,0)
+
+& sharpf sharpc C gg Dr_8 El_8
+! dbf F_4 gg Er_8 Dl_8 dbe E_4 gg D_4
+! grpb LA_2 'la gg Dr_8 El_8
+! dbf F_4 gg Fr_8 Dl_8 dbha HA_4 tg HAr_8 Fl_8
+! dbe E_2 'e gg Dr_8 El_8  !t
+
+& sharpf sharpc dbf F_4 gg Er_8 Dl_8 dbe E_4 gg D_4
+! grpb LA_2 'la dbc C_4
+! grpb LA_4 gg Dr_8 Fl_8 dbe E_4 dbd Dr_8 Cl_8
+! thrd D_2 gstd D_4 !I
+
+& sharpf sharpc gg Fr_8 HGl_8
+! dbha HA_2 'ha gg HAr_8 Fl_8
+! dbe E_2 'e gg Er_8 Fl_8
+! dbhg HG_4 tg HGr_8 fg HGl_8 tg HG_4 tg Fr_8 El_8
+! dbe F_2 'f gg Fr_8 HGl_8 !t
+
+& sharpf sharpc dbha HA_2 'ha eg Fr_8 El_8
+! thrd D_2 'd dbc C_4
+! grpb LA_4 gg Dr_8 Fl_8 dbe E_4 dbd Dr_8 Cl_8
+! thrd D_2 gstd D_4 !I

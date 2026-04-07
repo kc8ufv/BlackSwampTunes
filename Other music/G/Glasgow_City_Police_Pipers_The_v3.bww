@@ -1,0 +1,104 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,60,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,L,0,0)
+
+TuneTempo,132
+
+"The Glasgow City Police Pipers",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Jig",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"P/M Donald MacLeod, MBE ",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Last update: 02/07/2004",(F,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+
+& sharpf sharpc 6_8 	I!''
+	gg LAr_8 dg LAl_8 eg LAl_8			gg Cr_8 HAl_8 Cl_8	
+	!
+	gg Br_8 dg Bl_8 eg Bl_8				gg Cr_8 HAl_8 gg HAl_8
+	!
+	LAr_8 dg LAl_8 eg LAl_8				gg Cr_8 HAl_8 Cl_8
+		!
+	gg Br_8 HAl_8 gg HAl_8				Fr_8 Er_8 Cl_8 
+		!t
+
+& sharpf sharpc
+	gg LAr_8 dg LAl_8 eg LAl_8			gg Cr_8 HAl_8 Cl_8	
+	!
+	gg Br_8 dg Bl_8 eg Bl_8				gg Cr_8 HAl_8 gg HAl_8
+	!
+	gg HA_4 E_8						gg  Fr_8 Er_8 Cl_8
+		!
+	gg Br_8 dg Bl_8 eg Bl_8				gg Cr_8 HAl_8 gg HAl_8 
+	''!I
+
+& sharpf sharpc	I!''
+	Fr_8 HAl_8 gg HAl_8				Er_8 HAl_8 gg HAl_8	
+!
+	Cr_8 HAl_8 gg HAl_8				LAr_8 HAl_8 gg HAl_8	
+!
+	Fr_8 HAl_8 gg HAl_8				Er_8 HAl_8 gg HAl_8	
+!
+	Cr_8 HAl_8 gg HAl_8				Br_8 HAl_8 gg HAl_8 	
+!t
+
+& sharpf sharpc
+	Fr_8 HAl_8 gg HAl_8				Er_8 HAl_8 gg HAl_8	
+!
+	Cr_8 HAl_8 gg HAl_8				LAr_8 HAl_8 gg HAl_8	
+!
+	gg HA_4 E_8						gg  Fr_8 Er_8 Cl_8
+		!
+	gg Br_8 dg Bl_8 eg Bl_8				gg Cr_8 HAl_8 gg HAl_8 
+	''!I
+
+& sharpf sharpc	I!''
+	LAr_8 dg LAl_8 eg LAl_8				gg Cr_8 HAl_8 gg HAl_8
+	!
+	Br_8 dg Bl_8 eg Bl_8				gg Cr_8 HAl_8 gg HAl_8	
+!
+	LAr_8 dg LAl_8 eg LAl_8				gg Cr_8 HAl_8 gg HAl_8
+	!
+	Br_8 HAl_8 gg HAl_8				Cr_8 HAl_8 gg HAl_8 	
+!t
+
+& sharpf sharpc
+	LAr_8 dg LAl_8 eg LAl_8				gg Cr_8 HAl_8 gg HAl_8
+	!
+	Br_8 dg Bl_8 eg Bl_8				gg Cr_8 HAl_8 gg HAl_8	
+!
+	gg HA_4 E_8						gg  Fr_8 Er_8 Cl_8
+		!
+	gg Br_8 dg Bl_8 eg Bl_8				gg Cr_8 HAl_8 gg HAl_8 
+	''!I
+
+& sharpf sharpc	I!''
+	Fr_8 HAl_8 gg HAl_8				Er_8 HAl_8 gg HAl_8	
+!
+	Cr_8 HAl_8 gg HAl_8				Br_8 HAl_8 gg HAl_8	
+!
+	Fr_8 HAl_8 gg HAl_8				Er_8 HAl_8 gg HAl_8	
+!
+	Cr_8 HAl_8 gg HAl_8				Er_8 HAl_8 gg HAl_8 
+!t
+
+& sharpf sharpc
+	Fr_8 HAl_8 gg HAl_8				Er_8 HAl_8 gg HAl_8	
+!
+	Cr_8 HAl_8 gg HAl_8				Br_8 HAl_8 gg HAl_8	
+!
+	gg HA_4 E_8						gg  Fr_8 Er_8 Cl_8
+		!
+	gg Br_8 dg Bl_8 eg Bl_8				gg Cr_8 HAl_8 gg HAl_8 
+	''!I

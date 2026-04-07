@@ -1,0 +1,43 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Converted from  Abc file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+TuneTempo,60
+
+"Gloomy Winter",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Air",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"J.Moore,Tyneside,1841.(42a)",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+TuneTempo,46
+
+& C LAr_8 'la LAl_16 	LAr_8 'la Bl_16 	LAr_8 LGl_8 	 "Note Unmapped E " 
+! Cr_8 'c Cl_16 	Cr_8 'c El_16 	Dr_8 'd Cl_16 	B_4 	
+! LAr_8 'la LAl_16 	Er_8 LAl_8 	LAr_8 'la LGl_16 	 "Note Unmapped E "  "Note Unmapped C " 
+!  "Note Unmapped D "  "Note Unmapped D "  "Note Unmapped E " sharplg LGl_16 	LAr_8  "Note Unmapped A, "  "Note Unmapped A, " ''!I
+& 
+I!''  "Note Unmapped C "  "Note Unmapped C "  "Note Unmapped C "  "Note Unmapped E "  "Note Unmapped D "  "Note Unmapped C "  "Note Unmapped C " 
+!  "Note Unmapped C "  "Note Unmapped A, "  "Note Unmapped A, "  "Note Unmapped C "  "Note Unmapped B, "  "Note Unmapped E "  "Note Unmapped E " 
+! Cr_8 'c Cl_16 	Cr_8 'c El_16 	Dr_8 'd Cl_16 	Br_8 Dl_8 	
+! Cr_8 LAl_8 	^ts Cr_16 Br_16 LAr_16 LGl_16 	^te  "Note Unmapped E " LAl_16 	LA_4 	!t
+
+& Cr_8 'c Cl_16 	HGr_8 'hg Cl_16 	Br_8 'b Cl_16 	D_4 	
+! LA_16 	^tlg Cr_16 Bl_16 	^tlg E_16 	C_16 	^tlg Br_16 LAl_16 	^tlg LG_16 	LAr_8 'la El_16 	E_4 	!t
+
+&  "Note Unmapped E " LGl_16 	^ts LGr_16  "Note Unmapped F "  "Note Unmapped E "  "Note Unmapped D " ^te  "Note Unmapped E " LGl_8 	Br_8 Dl_8 	
+! Cr_8 LAl_8 	^ts Cr_16 Br_16 LAr_16 LGl_16 	^te  "Note Unmapped E " LAl_16 	LA_4 	''!I

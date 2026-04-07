@@ -1,0 +1,57 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,0)
+
+TuneFormat,(1,0,F,C,500,500,500,500,L,0,0)
+
+TuneTempo,70
+
+"Just Over in the Glory Land",(T,C,0,0,arial,16,700,0,0,18,0,0,0)
+
+"Hymn",(Y,L,0,0,arial,12,400,0,0,18,0,0,0)
+
+"Music: Emmett S. Dean, Arr John McFadden",(F,R,0,0,arial,12,400,0,0,18,0,0,0)
+
+"Words: James W. Acuff, Glad Hosannas (Waco, Texas: Trio Music Co., 1906).",(I,L,0,0,arial,11,400,0,0,0,0,0,0) 
+
+
+& sharpf sharpc C_	I!'' gg LAr_8 'la Bl_16	!
+thrd D_4				strc D_4				strc D_4			gg LAr_8 'la Bl_16		!	
+thrd D_4				B_4					strlg LA_4		gg LA_4				!
+gg Br_8 Dl_8			gg Er_8 Dl_8			gg F_4			E_4					!
+gg E_2									^te E_4			gg LAr_8 'la Bl_16		!t
+
+
+
+& sharpf sharpc 
+thrd D_4				strc D_4				strc D_4			gg LAr_8 'la Bl_16		!	
+thrd D_4				B_4					strlg LA_4		gg LA_4				!
+gg Br_8 Dl_8			gg Er_8 Dl_8			gg F_4			E_4					!
+thrd D_2									^td D_4			LA_4				!t
+
+
+& sharpf sharpc 
+gg F_2									^tf Fr_8 'f El_16	gg Dr_8 'd El_16		!	
+gg F_4				E_4					gg D_4			strc D_4				!
+gg D_2									^td Dr_8 'd Cl_16	gg Dr_8 'd El_16		!
+thrd D_4				B_4					strlg LA_4		gg LA_4				!t
+
+
+& sharpf sharpc 
+gg Br_8 Dl_8			gg Er_8 Dl_8			gg F_4			E_4					!
+gg E_2									^te E_4			LA_4				!
+gg F_2									^tf Fr_8 'f El_16	gg Dr_8 'd El_16		!	
+gg F_4				E_4					gg D_4			strc D_4				!t
+
+
+& sharpf sharpc 
+gg D_2									^td Dr_8 'd Cl_16	gg Dr_8 'd El_16		!
+thrd D_4				B_4					strlg LA_4						''!I

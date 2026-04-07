@@ -1,0 +1,40 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,88,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,124
+
+"Munlochry Bridge",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Strathspey",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Arrgt P/M D. Bradford",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Sea Horses Pipe Band 2000",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 
+I!''	hdbf Fr_8 'f El_16	gg Cr_8 'c Bl_16	gg LAr_8 'la El_16 dbc C_4
+!	gg LAr_8 'la Cl_16	hdbf HAr_8 'ha Cl_16	gg Cr_16 El_8 'e	strla Er_16 HAl_8 'ha
+!	hdbf Fr_8 'f El_16	gg Cr_8 'c Bl_16	gg LAr_8 'la El_16 dbc C_4
+!	gg Br_8 'b Cl_16	dbc Cr_16 El_8 'e	chedare F_4 gg Fr_16 HAl_8 'ha ''!I
+& sharpf sharpc 
+I!''	hdbe Er_8 'e Cl_16	gg Er_16 Fl_8 'f	thg HA_4 grp HAr_8 'ha Fl_16 
+!	'1 gg Er_8 'e Fl_16	gg Fr_16  El_16 Cl_8 	gg Cr_16 El_8 'e 	strla Er_16 HAl_8 'ha
+!	hdbe Er_8 'e Cl_16	gg Er_16 Fl_8 'f	thg HA_4 grp HAr_8 'ha Cl_16
+!	gg Br_8 'b Cl_16	dbc Cr_16 El_8 'e	chedare F_4 gg Fr_16 HAl_8 'ha _' ''!I
+
+& sharpf sharpc '2
+!	gg Er_8 'e Fl_16	gg Fr_16  El_16 Cl_8 	gg Cr_16 El_8 'e 	strla Er_8 'e Fl_16
+!	dbha HAr_8 'ha Fl_16	gg Er_8 'e Cl_16	dbha HAr_8 'ha Cl_16	gg LAr_8 'lg Cl_16
+!	gg Br_8 'b Cl_16	dbc Cr_16 El_8 'e	chedare F_4 gg Fr_16 HAl_8 'ha _' !I
+!t

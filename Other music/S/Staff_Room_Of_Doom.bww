@@ -1,0 +1,29 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(100,100,75,80,0)
+
+TuneFormat,(1,0,F,C,500,500,500,500,P,0,0)
+
+TuneTempo,90
+
+"Staff Room Of Doom",(T,C,0,0,arial,16,700,0,0,2,0,0,0)
+
+"Reel",(Y,L,0,0,arial,12,400,0,0,2,0,0,0)
+
+"Rob Galliah",(M,R,0,0,arial,12,400,0,0,2,0,0,0)
+
+"Copyright(c)2003",(F,C,0,0,arial,12,400,0,0,18,0,0,0)
+
+& sharpf sharpc C_ I!  gg Br_8 dg Bl_8 eg Bl_8 Dl_8 		gg Cr_8 dg LAl_8 eg LAl_8 dg LAl_8 !  gg Br_8 dg Bl_8 eg Bl_8 Dl_8	gg Cr_8 LAl_8 	gbr LA_4 ! gg Br_8 dg Bl_8 eg Bl_8 Dl_8	gg Cr_8 El_8 strla El_8 LAl_8 ! gg Cr_8 LAl_8 dg Bl_8 Dl_8 	gg Cr_8 LAl_8 	gbr LA_4 !t
+& sharpf sharpc  gg Br_8 dg Bl_8 eg Bl_8 Dl_8 		gg Cr_8 dg LAl_8 eg LAl_8 dg LAl_8 !  gg Br_8 dg Bl_8 eg Bl_8 Dl_8	gg Cr_8 LAl_8 	gbr LA_4 ! gg Br_8 dg Bl_8 eg Bl_8 Dl_8	 gg Cr_8 dg Cl_8 eg Cl_8 El_8 ! gg Dr_8 eg Dl_8 strlg Dl_8 Fl_8 	gg Er_8 LAl_8 		gbr LA_4 !I
+& sharpf sharpc I!'' HAr_8 Fl_8 gg Dl_8 Fl_8 	gg Er_8 Cl_8 strlg Cl_8 El_8 ! gg Fr_8 Dl_8 strlg Dl_8 Fl_8 		gg Er_8 Cl_8 gg Cl_8 LAl_8 !  HAr_8 Fl_8 gg Dl_8 Fl_8	gg Er_8 HAl_8 Cl_8 El_8 ! gg Cr_8 LAl_8 dg Bl_8 Dl_8 	gg Cr_8 LAl_8 	gbr LA_4 !t
+& sharpf sharpc '1 HAr_8 Fl_8 gg Dl_8 Fl_8 	gg Er_8 Cl_8 strlg Cl_8 El_8 ! gg Fr_8 Dl_8 strlg Dl_8 Fl_8 		gg Er_8 Cl_8 gg Cl_8 LAl_8 !  gg Br_8 dg Bl_8 eg Bl_8 Dl_8	 gg Cr_8 dg Cl_8 eg Cl_8 El_8 ! gg Dr_8 eg Dl_8 strlg Dl_8 Fl_8 	gg Er_8 LAl_8 		gbr LA_4 _' ''!I
+& sharpf sharpc '2 HAr_8 Fl_8 gg Dl_8 Fl_8 	gg Er_8 Cl_8 strlg Cl_8 El_8 ! gg Fr_8 Dl_8 strlg Dl_8 Fl_8 		gg Er_8 Cl_8 gg Cl_8 LAl_8 ! pelb B_4 	gg Br_8 Dl_8 	pelc C_4 	gg Cr_8 El_8 ! peld D_4 	gg Dr_8 Fl_8 	gg Er_8 LAl_8 		gbr LA_4 _'  !I

@@ -1,0 +1,49 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(30,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,60,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,83
+
+"Deaf Judges",(T,C,0,0,verdana,15,700,0,0,18,0,0,0)
+
+"Rant",(Y,L,0,0,verdana,12,400,0,0,18,0,0,0)
+
+"Andy Graham, Nov 2000",(M,R,0,0,verdana,12,400,150,0,18,0,0,0)
+"",(F,R,0,0,verdana,10,400,0,0,18,0,0,0)
+
+"1st part 1st line"
+& sharpf sharpc 2_4  E_2   I!'' ^3s  gg Er_16  Fl_16 HGl_16 ^3e     tg  HGr_16  Fl_16	 dbe  Er_16 Fl_16 ^3s tg  HGl_16 Fl_16  El_16 ^3e ! 
+ dbf  Fr_16  Dr_16 dbd   Dl_16 strc  Dl_16 	gg LAr_16 Dl_16 dbf Fl_16 Dl_16 ! 
+Er_16 gg El_16 strla El_16 Fl_16 	tg HGr_16 Fl_16 dbe El_16 Dl_16 ! 
+gg Br_16 El_16 strla El_16 Fl_16 	^3s tg HGr_16 Fl_16 El_16 ^3e dbf Fl_16 Dl_16   !t 
+
+"1st part 2nd line"
+& sharpc sharpf ^3s  gg Er_16  Fl_16 HGl_16 ^3e     tg  HGr_16  Fl_16		 dbe  Er_16 Fl_16 ^3s tg  HGl_16 Fl_16  El_16 ^3e ! 
+ dbf  Fr_16    Dr_16 dbd   Dl_16 strc  Dl_16	gg LAr_16 Dl_16 dbf Fl_16 Dl_16 ! 
+Er_16 gg El_16 strla El_16 Fl_16 	tg HGr_16 Fl_16 dbe El_16 Dl_16 ! 
+gg Br_16 El_16 strla El_16 Fl_16 	'1 ^3s tg HGr_16   Fl_16 El_16 ^3e gg Dl_8  'd _' 		'2 ^3s tg HGr_16   Fl_16 El_16 ^3e ^3s  gg Dl_16 Cl_16 Bl_16 ^3e  _'  ''!I 
+
+"2nd part 1st line"
+& sharpc sharpf    I!''	gg LAr_16 dg LAl_16 eg LAl_16 dg LGl_16 	Er_16 gg El_16 strla El_16 LAl_16 !
+gg LAr_16 El_16 strla El_16  LAl_16	 gg Er_16 HGl_16 tdbf Fl_16 HGl_16   !
+Er_16 gg El_16 strla El_16 Fl_16 	tg HGr_16 Fl_16 dbe El_16 Dl_16 ! 
+gg Br_16 El_16 strla El_16 Fl_16 	^3s tg HGr_16 Fl_16 El_16 ^3e dbf Fl_16 Dl_16   !t   
+
+"2nd part 2nd line"
+& sharpf sharpc sharpc sharpf gg LAr_16 dg LAl_16 eg LAl_16 dg LGl_16 	Er_16 gg El_16 strla El_16 LAl_16 ! 
+gg LAr_16 El_16 strla El_16 HGl_16 	strf HGr_16 HAl_16 strhg HAr_16 strhg HAl_16 ! 
+Er_16 gg El_16 strla El_16 Fl_16 	tg HGr_16 Fl_16 dbe El_16 Dl_16 ! 
+gg Br_16 El_16 strla El_16 Fl_16 	'1 ^3s tg HGr_16  Fl_16 El_16 ^3e ^3s  gg Dl_16 Cl_16 Bl_16 ^3e  _' 	 '2 ^3s tg HGr_16   Fl_16 El_16 ^3e gg Dl_8 'd   _' ''!I
+
+!t
+
