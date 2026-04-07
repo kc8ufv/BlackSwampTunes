@@ -1,0 +1,80 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Converted from  BMW Dos file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+"Allans Bonnet",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Strathspey",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Arr. G.S. Allan",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"CYMRU",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+TuneTempo,130
+
+
+& sharpf sharpc C HA_8
+!	abr LA_4			dbc Cr_16 eg LAl_8 'la		dbe Er_8 'e Cl_16		dbc Cr_16 eg LAl_8 'la
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Cl_16		dbf Fr_8 'f Bl_16		strlg Br_8 'b HAl_16
+!	abr LA_4			dbc Cr_16 eg LAl_8 'la		dbe Er_8 'e LAl_16		dbc Cr_16 eg LAl_8 'la
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Dl_16		dbc Cr_16 eg LAl_8 'la		abr LAr_8 'la HAl_16		!t
+
+& sharpf sharpc
+!	abr LA_4			dbc Cr_16 eg LAl_8 'la		dbe Er_8 'e LAl_16		dbc Cr_16 eg LAl_8 'la
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Cl_16		dbf Fr_8 'f Bl_16		strlg Br_8 'b El_16
+!	dbha HAr_8 'ha HGl_16		HAr_8 'ha El_16			gg Fr_8 HGl_8 HAl_8 ^3ha	hdbe Er_8 'e Cl_16
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Dl_16		dbc Cr_16 eg LAl_8 'la		brl LA_4			!I
+
+
+
+& sharpf sharpc E_8
+!	dbha HAr_8 'ha Fl_16		dbe Er_8 'e Cl_16		gg LAr_8 'la dg Cl_16		dbe Er_8 'e Cl_16
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Cl_16		dbf Fr_8 'f Bl_16		strlg Br_8 'b El_16
+!	dbha HAr_8 'ha Fl_16		dbe Er_8 'e Cl_16		gg LAr_8 'la dg Cl_16		dbe Er_8 'e Cl_16
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Dl_16		dbc Cr_16 eg LAl_8 'la		brl LAr_8 El_8			!t
+
+& sharpf sharpc
+!	dbha HAr_8 'ha Fl_16		dbe Er_8 'e Cl_16		gg LAr_8 'la dg Cl_16		dbe Er_8 'e Cl_16
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Cl_16		dbf Fr_8 'f Bl_16		strlg Br_8 'b El_16
+!	dbha HA_4			grp HAr_8 'ha HGl_16		tdbf Fr_8 'f Dl_16		dbe Er_8 'e Cl_16
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Dl_16		dbc Cr_16 eg LAl_8 'la		brl LA_4			!I
+
+
+
+& sharpf sharpc HA_4
+!	abr LA_4			dbc Cr_16 eg LAl_8 'la		gbr LA_4			dbe Er_8 'e Cl_16
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Cl_16		dbf Fr_8 'f Bl_16		strlg Br_8 'b HAl_16
+!	abr LA_4			dbc Cr_16 eg LAl_8 'la		gbr LA_4			dbe Er_8 'e Cl_16
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Dl_16		dbc Cr_16 LAl_8 'la		brl LAr_8 HAl_8			!t
+
+& sharpf sharpc
+!	abr LA_4			dbc Cr_16 eg LAl_8 'la		gbr LA_4			dbe Er_8 'e Cl_16
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Cl_16		dbf Fr_8 'f Bl_16		strlg Br_8 'b El_16
+!	dbha HA_4			grp HAr_8 'ha El_16		gg Fr_8 HGl_8 HAl_8 ^3ha	hdbe Er_8 'e Cl_16
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Dl_16		dbc Cr_16 eg LAl_8 'la		abr LA_4			!I
+
+
+
+& sharpf sharpc E_8
+!	dbha HAr_8 'ha HGl_16		HAr_8 'ha El_16			gbr LAr_16 HAl_8 'ha		hdbc Cr_16 eg LAl_8 'la
+!	gg LGr_8 'lg Dl_16		gstb Br_8 'b HGl_16		thrd Dr_16 eg LGl_8 'lg		dbb Br_8 'b El_16
+!	dbha HAr_8 'ha HGl_16		HAr_8 'ha El_16			gbr LAr_16 HAl_8 'ha		hdbe Er_8 'e Cl_16
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Dl_16		dbc Cr_16 LAl_8 'la		brl LAr_8 'la El_16		!t
+
+& sharpf sharpc
+!	dbha HAr_8 'ha El_16		dbc Cr_8 'c HAl_16		abr LAr_8 'la El_16		dbc Cr_16 eg LAl_8 'la
+!	dbhg HGr_8 'hg Dl_16		gstb Br_8 'b HGl_16		dblg LGr_8 'lg Dl_16		dbb Br_16 eg LGl_8 'lg
+!	dbhg HG_4			dbha HAr_8 'ha HGl_16		tdbf Fr_8 'f Dl_16		dbe Er_8 'e Cl_16
+!	thrd Dr_8 'd Fl_16		dbe Er_8 'e Dl_16		dbc Cr_16 eg LAl_8 'la		brl LA_4			!I

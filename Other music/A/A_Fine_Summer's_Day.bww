@@ -1,0 +1,83 @@
+Bagpipe Reader:1.0
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+InstrumentMappings,(71,71,46,34,1000,60,70)
+GracenoteDurations,(26,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,F,L,500,750,500,500,P,0,0)
+TuneTempo,75
+
+"A Fine Summer's Day",(T,L,0,0,Times New Roman,14,700,0,0,18,0,0,0)
+"",(Y,L,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+"DN Siegel",(M,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+"2004 (c) David N. Siegel, POB 9647, Karmiel 21901, Israel.",(F,C,0,0,Times New Roman,08,400,0,0,18,0,0,0)
+"March (73 bpm)",(I,L,0,0,TimesNewRoman,12,400,0,0,18,0,0,0) 
+
+& sharpf sharpc 2_4
+I!'' 
+gg Br_16 'b Dl_32 !
+dbe Er_8 gg Fr_16 'f  El_32   	thrd Dr_8    gg ^3s LAr_16  Bl_16 Dl_16 ^3e  !
+gg Er_16 'e Fl_32 dbe Er_16 'e Dl_32		dbb Br_8 gg Er_16 'e  LGl_32  !
+gg LAr_16 'la  dg Br_32 eg Bl_32  Dl_16 'd 		HAr_16  'ha  Fr_32 El_32  gg Dl_16 'd 		!
+eg  B_4  strlg LAr_8      gg Br_16 'b Dl_32  !t
+	
+
+& sharpf sharpc
+dbe Er_8 gg Fr_16 'f  El_32   	thrd Dr_8    gg ^3s LAr_16  Bl_16 Dl_16 ^3e  !
+dbe  Er_16 'e Fl_32  gg LAl_16 'la dg Bl_32 	eg Br_8 thrd  Dr_16 'd LGl_32  !
+gg LAr_16 'la  Fr_32 gg Dl_32  El_16 'e 		thrd  Dr_16  'd Er_32 Dl_32  eg Bl_16   'b 	!
+gg LA_4  brl LA_8  ''!I
+
+" 2 "
+& sharpf sharpc
+I!'' 
+gg Br_16 'b Dl_32 !
+dbe Er_8  HAl_8  	grp HAr_8 hdbf Fr_16 'f   El_32  !
+gg Fr_32  HAl_16 'ha  thrd  Dr_16 'd  gg El_32		strla Er_8 thrd Dr_16 'e  Bl_32  !
+gg LAr_16 'la  dg Br_32 eg Bl_32  Dl_16 'd 		HAr_16  'ha  Fr_32 El_32  gg Dl_16 'd 		!
+eg  B_4  strlg LAr_8 gg Br_16 'b Dl_32 
+!t
+
+& sharpf sharpc
+dbe Er_8  HAl_8  	grp HAr_8 hdbf Fr_16 'f   El_32  !
+gg Fr_32  HAl_16 'ha  thrd  Dr_16 'd gg El_32		strla Er_8 thrd Dr_16 'e  Bl_32  !
+gg LAr_16 'la  Fr_32 gg Dl_32  El_16 'e 		thrd  Dr_16  'd Er_32 Dl_32  eg Bl_16   'b 	!
+gg LA_4  brl LA_8   ''!I
+
+" 3 "
+& sharpf sharpc
+I!'' 
+thrd Dr_16 'd Bl_32  !
+gg LAr_16 'la  Bl_32  thrd Dr_16 'd LAl_32   	Dr_32 eg Br_16 'b gg  LAr_16 'la dg Bl_32  !
+gg Fr_16 'f   El_32 thrd Dr_16 'd  gg El_32 		strla Er_8  thrd Dr_16 'd  Bl_32  !
+gg LAr_16 'la  dg Br_32 eg Bl_32  Dl_16 'd 		HAr_16  'ha Fr_32 El_32  gg Dl_16 'd 		!
+eg  B_4  strlg LAr_8     thrd Dr_16 'd Bl_32  !
+!t
+
+& sharpf sharpc
+gg LAr_16 'la  Bl_32  thrd Dr_16 'd LAl_32   	Dr_32 eg Br_16 'b gg  LAr_16 'la dg Bl_32  !
+HAr_16 'ha   Fl_32 thrd Dr_16 'd    gg El_32 		strla Er_16 'e Fl_32 thrd Dr_16 'd  Bl_32  !
+gg LAr_16 'la  Fr_32 gg Dl_32  El_16 'e 		thrd  Dr_16  'd Er_32 Dl_32  eg Bl_16   'b 	!
+gg LA_4  brl LA_8   ''!I
+
+
+" 4 "
+& sharpf sharpc
+I!'' 
+thrd  Dr_16 'd Bl_32 !
+gg LAr_16 'la  dg Br_32 eg Bl_32  Dl_16 'd 	  	HAr_16  'ha Er_32  Dl_32  eg Bl_16   'b 	!
+gg LGr_16 'lg LAr_32 Dl_32 eg Bl_16 'b		thrd  Dr_8 ''d  Bl_32  !
+gg LAr_16 'la  dg Br_32 eg Bl_32  Dl_16 'd 		HAr_16  'ha Fr_32 El_32  gg Dl_16 'd 		!
+eg  B_4  strlg LAr_8 thrd Dr_16 'd Bl_32 
+!t
+
+& sharpf sharpc
+gg LAr_16 'la  dg Br_32 eg Bl_32  Dl_16 'd 	  	HAr_16  'ha Er_32  Dl_32  eg Bl_16   'b 	!
+gg LGr_16 'lg LAr_32 Dl_32 eg Bl_16 'b 		thrd  Dr_16 'd  El_32 gg Br_16 'b LGl_32   !
+gg LAr_16 'la  Fr_32 gg Dl_32  El_16 'e 		thrd  Dr_16  'd Er_32 Dl_32  eg Bl_16   'b 	!
+gg LA_4  brl LA_8   ''!I
+
+
+
+

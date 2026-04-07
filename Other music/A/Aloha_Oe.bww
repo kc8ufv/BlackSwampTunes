@@ -1,0 +1,48 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,16,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,53
+
+"ALOHA O'E       ",(T,C,0,0,Times New Roman,14,700,0,0,18,0,0,0)
+
+"Hawai'ian Air",(Y,L,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+"Queen Lili'u'okalani (arr. DN Siegel)",(M,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+"2001 (c) The Composer",(F,C,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 4_4
+ gg LAr_8 Dl_8 !
+dbf F_4 'f E_8 thrd Dr_8 'd Cl_16	 Dr_8 Bl_8 !
+strlg LA_4 'la F_8 dbe Er_8 'e Dl_16	 Er_8 'e   Fl_16 !
+dbhg HGr_8 Fl_8 dbe E_2 LAr_8 Dl_8 !
+dbf F_4 'f E_8 thrd Dr_8 'd Cl_16 	Dr_8 Bl_8 !t
+
+& sharpf sharpc
+strlg LA_4 thrd Dr_8 'd Cl_16 	Br_8 gg Bl_8  dbe 	Er_8 'e Dl_16 !
+Cr_8 gg Cl_8 	dbf Fr_8 'f El_16 thrd D_4 'd ! 
+I! LA_8 !
+gg B_4 thrd D_4 dbhg HG_4 'hg B_8 !
+strlg LA_4  thrd D_4 dbf F_4 'f  D_8 !t
+
+& sharpf sharpc
+Cr_8 'c Bl_16 	dg Cr_8 Dl_8	gg Er_8 strla El_8 	gg Fr_8 dbhg HGl_8 !
+tg F_2 thrd D_4 'd LA_8 !
+gg B_4 thrd D_4 dbhg HG_4 'hg B_8 !
+strlg LA_4 thrd D_4 dbf F_4 'f   thrd D_8 !
+ gg C_4 'c Dr_8 dbf Fl_8 	E_4 dg C_8 ! 
+ thrd ^ts D_2  D_4 'd ^te
+ !I
+
+
+

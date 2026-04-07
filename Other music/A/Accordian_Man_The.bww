@@ -1,0 +1,53 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+"Converted from  Pipe Write file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+TuneFormat,(1,0,F,L,500,500,500,500,L,0,0)
+
+"The Accordian Man",(T,L,0,0,Times New Roman,14,700,0,0,18,0,0,0)
+
+"March",(Y,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+TuneTempo,84
+
+"Composer Not Known",(F,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+ "Line  1 ---" 
+& sharpf sharpc 4_4 
+I!'' LA_8 	
+! gg F_4 	dbe Er_8 Dl_8 	dbhg HG_4 	tdbf Fr_8 El_8 	
+! gg D_8 	^ts F_8 	F_8 	^te D_8 	gg ^ts LA_4 	LA_8 	^te brl LA_8 	
+! gg Br_8 dg LGl_8 	LGr_8 dg Bl_8 	LA_8 	thrd Dr_8 gg Fl_8 	HA_8 	
+! tg HG_8 	^ts F_8 	F_8 	^te D_8 	dbe E_4 	gg LAr_8 thrd Dl_8 	 "Line  2 ---" !t
+
+
+& sharpf sharpc 
+! gg F_4 	dbe Er_8 Dl_8 	dbhg HG_4 	tdbf Fr_8 El_8 	
+! gg D_8 	^ts F_8 	F_8 	^te D_8 	gg ^ts LA_4 	LA_8 	^te brl LA_8 	
+! gg B_8 	^ts E_8 	E_8 	^te D_8 	dbc C_8 	LA_4 	E_8 	
+! thrd D_2 	lgstd D_4 	'd  "Line  3 ---" !t
+
+
+& sharpf sharpc 
+! LA_8 	
+! gg D_8 	^ts F_8 	F_8 	^te HA_8 	tg HG_4 	tdbf Fr_8 El_8 	
+! gg D_8 	^ts F_8 	F_8 	^te D_8 	gg ^ts LA_4 	LA_8 	^te brl LA_8 	
+! gg B_8 	^ts HG_8 	HG_8 	^te F_8 	dbe E_4 	thrd D_4 	
+! gg C_8 	dg ^ts LA_8 	LA_8 	^te brl LA_8 	HAr_8 HGl_8 	gg Fr_8 El_8 	 "Line  4 ---" !t
+
+
+& sharpf sharpc 
+! gg D_8 	^ts F_8 	F_8 	^te HA_8 	tg HG_4 	tdbf Fr_8 El_8 	
+! gg D_8 	^ts F_8 	F_8 	^te D_8 	gg ^ts LA_4 	LA_8 	^te brl LA_8 	
+! gg B_8 	^ts E_8 	E_8 	^te D_8 	dbc C_8 	^ts LAr_8 LAl_8 	^te E_8 	
+! thrd D_2 	lgstd D_4 	'd ''!I
