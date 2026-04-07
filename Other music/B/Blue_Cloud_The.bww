@@ -1,0 +1,188 @@
+Bagpipe Music Writer Gold:1.0
+
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,120
+
+"The Blue Cloud",(T,L,0,0,arial,16,700,0,0,18,0,0,0)
+
+"Jig",(Y,C,0,0,arial,14,400,0,0,18,0,0,0)
+
+"Adam Quinn",(M,R,0,0,arial,14,400,0,0,18,0,0,0)
+
+"Simon Fraser University Pipe Band,played by Stuart Liddell",(F,R,0,0,arial,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc  6_8 I!'' HA_8 !
+LAr_8 dg LAr_8 eg LAl_8				gb space space space C_4	B_8 !
+gb space space space C_4	B_8		gg Cr_8 dg LAr_8 eg LAl_8	!
+gg LGr_8 dg LGr_8 eg LGl_8			gg Cr_8 Dr_8 strc Dl_8	!
+dbe Er_8 Dr_8 Bl_8					dbd Dr_8 Br_8 dg LGl_8 !t
+
+
+& sharpf sharpc  
+gg LAr_8 dg LAr_8 eg LAl_8				gb space space space C_4	B_8 !
+gb space space space C_4	B_8		gg Cr_8 dg LAr_8 eg LAl_8	!
+gg LGr_8 dg LGr_8 eg LGl_8		gg Fr_8 Er_8 Fl_8	!
+C_8	pelc C_4	strlg LA_4	''!I
+
+
+
+
+
+
+
+"2nd Part"
+& sharpf sharpc   I!'' B_8 !
+gg Cr_8 Er_8 strla El_8			gg Er_8 Fr_8 El_8 !
+dbhg HG_4 F_8				dbe Er_8 Cr_8 Bl_8	!
+gb space space space C_4	B_8	gb space space space C_4	B_8 	!
+gg LGr_8 dg LGr_8 eg LGl_8		dbd Dr_8 Br_8 dg LGl_8 !t
+
+
+& sharpf sharpc  
+gg Cr_8 Er_8 strla El_8	gg Er_8 Fr_8 El_8 !
+dbhg HG_4 F_8	dbe Er_8 Cr_8 Bl_8	!
+gg LGr_8 dg LGr_8 eg LGl_8		gg Fr_8 Er_8 Fl_8	!
+C_4	pelc C_8	strlg LA_4	''!I
+
+
+
+
+
+
+
+
+"3rd Part"
+& sharpf sharpc   I!'' B_8 !
+gg LGr_8 dg LGr_8 eg LGl_8			gg Br_8 dg LGr_8 eg Bl_8 !
+dbd Dr_8 Cr_8 Dl_8					gg Fr_8 Er_8 Dl_8	!
+gb space space space C_4	LA_8	gg LAr_8 dg LAr_8 eg LAl_8	!
+gbr LA_4 gg LA_8	gg Cr_8 Br_8 LAl_8 !t
+
+
+& sharpf sharpc  '1 
+gg LGr_8 dg LGr_8 eg LGl_8			gg Br_8 dg LGr_8 eg Bl_8 !
+dbd Dr_8 Cr_8 Dl_8					gg Fr_8 Er_8 Dl_8	!
+gg Cr_8 Er_8 strla El_8	gg Er_8 Fr_8 HGl_8 !
+C_4	pelc C_8	strlg LA_4	_' ''!I
+
+
+& sharpf sharpc  '23 
+gg LGr_8 dg LGr_8 eg LGl_8			gg Br_8 dg LGr_8 eg Bl_8 !
+dbd Dr_8 Cr_8 Dl_8					gg Fr_8 Er_8 Dl_8	!
+gg Cr_8 Er_8 strla El_8	gg Er_8 Fr_8 HGl_8 !
+space space space C_4 'c	gg Er_8 Fr_8 HGl_8	_' 	!I
+
+
+
+
+"4th Part"
+& sharpf sharpc I!'' 
+space space space C_4	HA_8 abr LA_4 HA_8 !
+D_4	peld D_8	dbe Er_8 Dr_8 Cl_8	!
+gg Br_8 dg LGr_8 eg Bl_8		gg Br_8 dg LGr_8 eg Bl_8	!
+D_4 peld  D_8		gg Fr_8 Er_8 Dl_8		!t
+
+
+& sharpf sharpc 	'1 
+space space space C_4	HA_8 abr LA_4 HA_8 !
+D_4	peld D_8	dbe Er_8 Dr_8 Cl_8	!
+gg Cr_8 Er_8 strla El_8	gg Er_8 Fr_8 HGl_8 	!
+D_4 peld  D_8		gg Er_8 Fr_8 HGl_8		_' 	''!I
+
+
+& sharpf sharpc 	'24 
+space space space C_4	HA_8 abr LA_4 HA_8 !
+D_4	peld D_8	dbe Er_8 Dr_8 Cl_8	!
+gg Cr_8 Er_8 strla El_8	gg Er_8 Fr_8 HGl_8 	!
+C_8	pelc C_4	strlg LA_4	B_8		_' 	!I
+
+
+
+"5th Part"
+& sharpf sharpc  
+I!'' gg LGr_8 dg LGr_8 eg LGl_8	dbhg HG_4 E_8	!
+dbd Dr_8 Cr_8 Dl_8			gg LGr_8 Br_8 Dl_8 !
+gg LAr_8 dg LAr_8 eg LAl_8	dbhg HA_4 E_8	!
+dbd Dr_8 Er_8 strla El_8		gg Er_8 Fr_8 HGl_8 	!t
+
+
+& sharpf sharpc  '1 
+LGr_8 dg LGr_8 eg LGl_8	dbhg HG_4 E_8	!
+dbd Dr_8 Cr_8 Dl_8			gg LGr_8 Br_8 Dl_8 !
+gg LAr_8 Er_8 strla El_8			gg Er_8 Fr_8 HGl_8	!
+D_8 peld D_4		gg Er_8 Fr_8 HGl_8 	_'  ''!I
+
+& sharpf sharpc  '25 
+LGr_8 dg LGr_8 eg LGl_8	dbhg HG_4 E_8	!
+dbd Dr_8 Cr_8 Dl_8			gg LGr_8 Br_8 Dl_8 !
+gg LAr_8 Er_8 strla El_8		gg Er_8 Fr_8 HGl_8	!
+space space space C_4 'c	gg Er_8 Fr_8 HGl_8	_' 	!I
+
+
+
+
+
+
+
+"6th Part"
+& sharpf sharpc  I! 	
+space space space C_4 HA_8			space space space C_4 HA_8	!
+space space space C_4 HA_8			hdbe Er_8 Cr_8 strlg LAl_8	!
+gg Cr_8 Dr_8 strc Dl_8					dbd Dr_8 Cr_8 Dl_8		!
+dbd Dr_8 Cr_8 Dl_8						dbd Dr_8 Cr_8 Bl_8		!t
+
+
+
+& sharpf sharpc  
+space space space C_4 HA_8			space space space C_4 HA_8	!
+space space space C_4 HA_8			hdbe Er_8 Cr_8 strlg LAl_8	!
+gg Cr_8 Dr_8 strc Dl_8					dbd Dr_8 Cr_8 Dl_8		!
+dbd Dr_8 Cr_8 Dl_8						dbd Dr_8 Cr_8 Bl_8		!t
+
+& sharpf sharpc  
+space space space C_4 HA_8			space space space C_4 HA_8	!
+space space space C_4 HA_8			hdbe Er_8 Cr_8 strlg LAl_8	!
+gg Cr_8 Dr_8 strc Dl_8					dbd Dr_8 Cr_8 dbd Dl_8		!
+Cr_8 dbd Dr_8 Cl_8						dbd Dr_8 Cr_8 Bl_8		!t
+
+
+
+& sharpf sharpc  
+gg LAr_8 dg LAr_8 eg LAl_8				gb space space space C_4	B_8 !
+gb space space space C_4	B_8			gg Cr_8 dg LAr_8 eg LAl_8	!
+gg LGr_8 dg LGr_8 eg LGl_8				gg Fr_8 Er_8 Fl_8	!
+C_8	pelc C_4							strlg LA_4	!I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

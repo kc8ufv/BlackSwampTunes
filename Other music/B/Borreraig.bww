@@ -1,0 +1,92 @@
+Bagpipe Reader:1.0
+
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(25,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,88,80,250)
+
+TuneFormat,(1,0,M,L,1500,1500,1500,2000,L,0,0)
+
+TuneTempo,150
+
+
+
+"Borreraig",(T,L,0,0,Times New Roman,14,700,0,0,18,0,0,0)
+"DN Siegel",(M,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+"2001 (c) David N. Siegel, POB 9647, Karmiel 21901, The Galilee, Israel.",(F,R,0,0,Times New Roman,8,400,0,0,18,0,0,0)
+"Jig",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+
+
+& sharpf sharpc   6_8
+
+"1"
+I!'' 
+gg LAr_8   Br_8  El_8	gg Br_8  Dl_8 El_8 !
+HAr_8  Dl_8 El_8 	 	gg Dr_8  Er_8 Bl_8 ! 
+gg LGr_8 Bl_8 Dl_8	gg LAr_8  Dl_8  Cl_8 !
+gg Dr_8   Br_8 El_8	 	gg LAr_8 HAr_8 El_8
+!t
+&  sharpf sharpc
+gg LAr_8   Br_8  El_8	gg Br_8  Dl_8 El_8 !
+HAr_8  Dl_8 El_8 	 	gg Dr_8  Er_8 Bl_8 ! 
+gg LGr_8 Dr_8 Bl_8 	gg Cr_8  El_8  LAl_8 !
+HAr_8  Dl_8 Cl_8	 gg LA_4 E_8  
+''!I
+
+
+"2"
+&  sharpf sharpc 
+I!''
+HAr_8 LAr_8 El_8	 gg Dr_8 Fr_8 El_8 !
+gg Dr_8  Br_8 El_8 		gg Cr_8 Er_8 LAl_8 !
+gg LGr_8 Bl_8 Dl_8	gg LAr_8  Dl_8  Cl_8 !
+gg Dr_8   Br_8 El_8	 	gg LAr_8 HAr_8 El_8
+!t
+&  sharpf sharpc 
+HAr_8 LAr_8 El_8	 gg Dr_8 Fr_8 El_8 !
+gg Dr_8  Br_8 El_8 		gg Cr_8 Er_8 LAl_8 !
+gg LGr_8 Dr_8 Bl_8 	gg Cr_8  El_8  LAl_8 !
+HAr_8  Dl_8 Cl_8		 gg LA_4 E_8  
+''!I
+
+
+"3"
+&  sharpf sharpc
+I!''
+gg LGr_8 Br_8 El_8	gg LAr_8 Dr_8 El_8 !
+gg LGr_8 LAr_8 El_8		gg Er_8 Br_8 Dl_8 !
+gg LGr_8 Bl_8 Dl_8	gg LAr_8  Dl_8  Cl_8 !
+gg Dr_8   Br_8 El_8	 	gg LAr_8 HAr_8 El_8
+!t
+&  sharpf sharpc
+gg LGr_8 Br_8 El_8	gg LAr_8 Dr_8 El_8 !
+gg LGr_8 LAr_8 El_8		gg Er_8 Br_8 Dl_8 !
+gg LGr_8 Dr_8 Bl_8 	gg Cr_8  El_8  LAl_8 !
+HAr_8  Dl_8 Cl_8		 gg LA_4  E_8
+''!I
+
+
+
+
+"4"
+&  sharpf sharpc 
+I!'' 
+gg LAr_8   HAr_8 El_8  space	 HAr_8  Dr_8 El_8 !
+gg Cr_8 HAr_8  El_8 space HAr_8 Br_8 Dl_8 ! 
+gg LGr_8 Bl_8 Dl_8	gg LAr_8  Dl_8  Cl_8 !
+gg Dr_8   Br_8 El_8	 	gg LAr_8 HAr_8 El_8
+!t
+&  sharpf sharpc
+gg LAr_8   HAr_8 El_8  space	 HAr_8  Dr_8 El_8 !
+gg Cr_8 HAr_8  El_8 space HAr_8 Br_8 Dl_8 ! 
+gg LGr_8 Dr_8 Bl_8 	gg Cr_8  El_8  LAl_8 !
+'1 HAr_8  Dl_8   Cl_8  	gg LA_4  E_8 _'	space '2 HAr_8 fermatha echoc  Dl_8 fermatd fermatd   gg  Cl_8 fermatc fermatc	  echolg LA_4 fermatla fermatla  'la _' 
+''!I
+

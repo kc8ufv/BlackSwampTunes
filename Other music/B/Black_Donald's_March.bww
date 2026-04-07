@@ -1,0 +1,215 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,100)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(100,100,80,50,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,55
+
+
+"Black Donald's March",(T,C,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+
+
+ "I. GROUND",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+
+& sharpf sharpc C
+I!	gg E_4 'e		podro C_8			gg C_4		din LA_4
+!	gg E_4 'e		podro C_8			gg B_4		din LA_4
+!	gg E_4 'e		podro C_8			gg C_4		pdare F_4
+!	gg E_4 'e		podro C_8			gg C_4		din LA_4
+!	gg E_4 'e		podro C_8			gg B_4		pdare F_4
+!	gg E_4 'e		podro C_8			gg B_4		din LA_4 fine		!I
+
+
+& sharpf sharpc
+I!	gg E_4 'e		podro C_8			gg C_4		pdare F_4
+!	gg E_4 'e		podro C_8			gg C_4		din LA_4
+!	gg E_4 'e		podro C_8			gg B_4		din LA_4
+!	gg E_4 'e		podro C_8			gg C_4		din LA_4
+!	gg E_4 'e		podro C_8			gg B_4		pdare F_4
+!	gg E_4 'e		podro C_8			gg B_4		din LA_4			!I
+
+
+& sharpf sharpc
+I!	gg E_4 'e		podro C_8			gg C_4		pdare F_4
+!	gg E_4 'e		podro C_8			gg C_4		pedre E_4
+!	gg E_4 'e		podro C_8			gg B_4		pdare F_4
+!	gg E_4 'e		podro C_8			gg B_4		din LA_4			!I
+
+
+
+
+"II. THUMB VAR.",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+
+& sharpf sharpc
+I!	gg E_4 'e		podro C_8			gg C_4		din LA_4
+!	gg E_4 'e		podro C_8			gg B_4		din LA_4
+!	gg E_4 'e		podro C_8			gg C_4		pdili HA_4
+!	E_4 'e		podro C_8			gg C_4		din LA_4
+!	gg E_4 'e		podro C_8			gg B_4		pdili HA_4
+!	E_4 'e		podro C_8			gg B_4		din LA_4			!I
+
+
+& sharpf sharpc
+I!	gg E_4 'e		podro C_8			gg C_4		pdili HA_4
+!	E_4 'e		podro C_8			gg C_4		din LA_4
+!	gg E_4 'e		podro C_8			gg B_4		din LA_4
+!	gg E_4 'e		podro C_8			gg C_4		din LA_4
+!	gg E_4 'e		podro C_8			gg B_4		pdili HA_4
+!	E_4 'e		podro C_8			gg B_4		din LA_4			!I
+
+
+& sharpf sharpc
+I!	gg E_4 'e		podro C_8			gg C_4		pdili HA_4
+!	E_4 'e		podro C_8			gg C_4		pedre E_4
+!	gg E_4 'e		podro C_8			gg B_4		pdili HA_4
+!	E_4 'e		podro C_8			gg B_4		din LA_4			!I
+
+
+
+
+"III. VAR. 2",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+
+& sharpf sharpc 2_4
+I!	gg Er_8 pdili HAl_8			Cr_8 din LAl_8 fermatla
+!	gg Er_8 pdili HAl_8			Br_8 din LAl_8 fermatla
+!	gg Er_8 pdili HAl_8			Cr_8 pdili HAl_8
+!	Fr_8 pdili HAl_8			Cr_8 din LAl_8 fermatla
+!	gg Er_8 pdili HAl_8			Cr_8 pdili HAl_8
+!	Fr_8 pdili HAl_8			Br_8 din LAl_8 fermatla					!I
+
+
+& sharpf sharpc
+I!	gg Er_8 pdili HAl_8			Cr_8 pdili HAl_8
+!	Fr_8 pdili HAl_8			Cr_8 din LAl_8 fermatla
+!	gg Er_8 pdili HAl_8			Br_8 din LAl_8 fermatla
+!	gg Er_8 pdili HAl_8			Cr_8 din LAl_8 fermatla
+!	gg Er_8 pdili HAl_8			Cr_8 pdili HAl_8
+!	Fr_8 pdili HAl_8			Br_8 din LAl_8 fermatla					!I
+
+
+& sharpf sharpc
+I!	gg Er_8 pdili HAl_8			Cr_8 pdili HAl_8
+!	Fr_8 pdili HAl_8			Cr_8 pdili HAl_8
+!	Er_8 pdili HAl_8			Cr_8 pdili HAl_8
+!	Fr_8 pdili HAl_8			Br_8 din LAl_8 fermatla					!I
+
+
+
+
+"IV. LEUMLUATH SINGLING [S]  V. DOUBLING [D]",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+
+& sharpf sharpc segno
+I!	E_4 pl				'si gg Cr_8 fermatc din LAl_8 fermatla _'		'do C_4 pl _'
+!	E_4 pl				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pl _'
+!	E_4 pl				C_4 pl
+!	F_4 pl				'si gg Cr_8 fermatc din LAl_8 fermatla _'		'do C_4 pl _'
+!	E_4 pl				C_4 pl
+!	F_4 pl				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pl _'			!I
+
+
+& sharpf sharpc
+I!	E_4 pl				C_4 pl
+!	F_4 pl				'si gg Cr_8 fermatc din LAl_8 fermatla _'		'do C_4 pl _'
+!	E_4 pl				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pl _'
+!	E_4 pl				'si gg Cr_8 fermatc din LAl_8 fermatla _'		'do C_4 pl _'
+!	E_4 pl				C_4 pl
+!	F_4 pl				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pl _'			!I
+
+
+& sharpf sharpc
+I!	E_4 pl				C_4 pl
+!	F_4 pl				C_4 pl
+!	E_4 pl				C_4 pl
+!	F_4 pl				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pl _'			!I dalsegno
+
+
+
+
+"VI. TAORLUATH SINGLING [S]  VII. DOUBLING [D]",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc segno
+I!	E_4 pt				'si gg Cr_8 fermatc din LAl_8 fermatla _'		'do C_4 pt _'
+!	E_4 pt				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pt _'
+!	E_4 pt				C_4 pt
+!	F_4 pt				'si gg Cr_8 fermatc din LAl_8 fermatla _'		'do C_4 pt _'
+!	E_4 pt				C_4 pt
+!	F_4 pt				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pt _'			!I
+
+
+& sharpf sharpc
+I!	E_4 pt				C_4 pt
+!	F_4 pt				'si gg Cr_8 fermatc din LAl_8 fermatla _'		'do C_4 pt _'
+!	E_4 pt				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pt _'
+!	E_4 pt				'si gg Cr_8 fermatc din LAl_8 fermatla _'		'do C_4 pt _'
+!	E_4 pt				C_4 pt
+!	F_4 pt				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pt _'			!I
+
+
+& sharpf sharpc
+I!	E_4 pt				C_4 pt
+!	F_4 pt				C_4 pt
+!	E_4 pt				C_4 pt
+!	F_4 pt				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pt _'			!I dalsegno
+
+
+
+
+"VIII. CRUNLUATH SINGLING [S]  IX. DOUBLING [D]",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc segno
+I!	E_4 pc				'si gg Cr_8 fermatc din LAl_8 fermatla _'		'do C_4 pc _'
+!	E_4 pc				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pc _'
+!	E_4 pc				C_4 pc
+!	F_4 pc				'si gg Cr_8 fermatc din LAl_8 fermatla _'		'do C_4 pc _'
+!	E_4 pc				C_4 pc
+!	F_4 pc				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pc _'			!I
+
+
+& sharpf sharpc
+I!	E_4 pc				C_4 pc
+!	F_4 pc				'si gg Cr_8 fermatc din LAl_8 fermatla _'		'do C_4 pc _'
+!	E_4 pc				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pc _'
+!	E_4 pc				'si gg Cr_8 fermatc din LAl_8 fermatla _'		'do C_4 pc _'
+!	E_4 pc				C_4 pc
+!	F_4 pc				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pc _'			!I
+
+
+& sharpf sharpc
+I!	E_4 pc				C_4 pc
+!	F_4 pc				C_4 pc
+!	E_4 pc				C_4 pc
+!	F_4 pc				'si gg Br_8 fermatc din LAl_8 fermatla _'		'do B_4 pc _'			!I dalsegno
+
+
+
+"X. CRUNLUATH A MACH",(I,L,0,0,Times New Roman,10,700,0,0,18,0,0,0)
+& sharpf sharpc
+I!	E_4 pc				pcmc C_4
+!	E_4 pc				pcmb B_4
+!	E_4 pc				pcmc C_4
+!	F_4 pc				pcmc C_4
+!	E_4 pc				pcmc C_4
+!	F_4 pc				pcmb B_4			!I
+
+
+& sharpf sharpc
+I!	E_4 pc				pcmc C_4
+!	F_4 pc				pcmc C_4
+!	E_4 pc				pcmb B_4
+!	E_4 pc				pcmc C_4
+!	E_4 pc				pcmc C_4
+!	F_4 pc				pcmb B_4			!I
+
+
+& sharpf sharpc
+I!	E_4 pc				pcmc C_4
+!	F_4 pc				pcmc C_4
+!	E_4 pc				pcmc C_4
+!	F_4 pc				pcmb B_4			!I dacapoalfine

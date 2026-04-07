@@ -1,0 +1,83 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,95,80,250)
+
+TuneFormat,(1,0,M,L,500,1500,500,500,P,0,0)
+
+TuneTempo,87
+
+"Bloemfontein Scottish Pipe Band                 March                        John Crawford ",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+                              
+
+
+
+& sharpf sharpc 2_4 
+
+I!''      brl  LA_8  dg Cr_8 dbe El_8   	    C_16     !     thrd Dr_8   El_16  	   gg Fr_16     Dl_16	  dbe Er_8  HAl_8 !   brl  LA_8  dg Cr_8 dbe El_8   	    C_16     !     thrd Dr_8  gg Dl_8    C_16    dbb Br_8    eg  LGl_8                               !t
+& sharpf sharpc 
+I! gg LA_8  dg Cr_8 dbe El_8   	    C_16     !     thrd Dr_8  El_16  	  gg Fr_16   Dl_16 	  dbe Er_8  HAl_8 ! 
+ brl  LAr_8  dg Cl_8 	 dbe Er_8   LAl_8  !     gg Dr_16 'e     Br_32       LGl_16 'la               B_32    strlg LA_4   ''!I        
+
+                                                                                  
+
+& sharpf sharpc 
+
+I!''   gg    LAr_8   dg Cl_8   	 dbe  Er_8  Cl_8   !   thrd Dr_8   Fl_8 	   dbe Er_8 HAl_8  !   brl LAr_8  dg Cl_8 
+	  dbe Er_8 LAl_8   ! 	 gg Dr_8 Bl_8    eg  	LGr_8 dg    Bl_8     !t 
+
+& sharpf sharpc 
+
+ I!        gg    LAr_8   dg Cl_8   	 dbe  Er_8  Cl_8   !   thrd Dr_8   Fl_8 	   dbe Er_8 HAl_8  !  brl  LAr_8       dg Cl_8 	 dbe Er_8    LAl_8   !   
+  gg Dr_16 'e     Br_32       LGl_16 'la               B_32    strlg LA_4                                         ''!I
+
+& sharpf sharpc 
+
+I!''   dbc Cr_8 eg LAl_8    	     dbc Cr_8 eg LAl_8    ! thrd Dr_8 Fl_8 	dbe Er_8 HAl_8                                                !     dbc Cr_8 eg LAl_8    	     dbc Cr_8 eg LAl_8    !     dbb Br_8     eg  LGl_8    	    dbb Br_8  eg  LGl_8   !t
+& sharpf sharpc 
+
+I!    dbc Cr_8 eg LAl_8    	     dbc Cr_8 eg LAl_8    ! thrd Dr_8 Fl_8 	dbe Er_8   HAl_8   !                                         
+       brl  LAr_8       dg Cl_8 	 dbe Er_8   LAl_8   !   
+  gg Dr_16 'e     Br_32       LGl_16 'la               B_32    strlg LA_4             ''!I   
+
+& sharpf sharpc 
+
+I!'' dbc   Cr_8     El_8 	brl LAr_8      El_8	     !    gg Dr_8    Fl_8 	 gg Dr_8   Fl_8    ! dbc  Cr_8    El_8 
+	 brl LAr_8     El_8	     !     thrd Dr_8     Cl_8 	   dbb Br_8 eg  LGl_8   !t 
+
+ & sharpf sharpc
+ 
+I!    dbc  Cr_8    El_8 	    brl LAr_8    El_8	     !  gg   Dr_8     Fl_8 	 gg Dr_8  Fl_8	  	     !   dbc   Cr_8     El_8 	
+brl LAr_8         El_8      !   
+  gg Dr_16 'e     Br_32       LGl_16 'la              B_32    strlg LA_4                                                                                                                                 ''!I 
+& sharpf sharpc  " 2nd Bar 1st Harmony 4th Part",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+       I!     gg Br_8    Dl_8 	 gg Br_8   Dl_8    !!!!!!!! 
+	   
+
+  " 2nd Bar 2nd Harmony 4th Part  ",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+     !  gg   LGr_8    Bl_8 	 gg LGr_8  Bl_8	!I 	   	
+                                                                                                                                                                                                                                         
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                       
+
+                                                                                                                    
