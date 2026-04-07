@@ -1,0 +1,95 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,250)
+
+TuneFormat,(1,0,M,L,750,2500,750,3000,P,0,0)
+
+TuneTempo,84
+
+"",(Y,C,0,0,Arial,18,700,0,0,18,0,0,0)
+
+
+"",(T,L,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+"",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+"",(F,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+
+"Half Double F",(I,L,0,0,Arial,14,700,0,0,0,0,0,0) 
+
+
+& HA_4	F_32 gg F_8 	HA_4	hdbf F_4
+! HG_4	F_32 gg F_8 	HG_4	hdbf F_4
+! HA_4	F_32 gg F_8 	HG_4	hdbf F_4
+! HA_4	F_32 gg F_8 	HG_4	hdbf F_4
+!I
+
+"Strike on D",(I,L,0,0,Arial,14,700,0,0,0,0,0,0) 
+
+
+& D_4	strlg D_4		gstd D_4
+! LA_4	gstd D_4		B_4 gstd D_4
+! C_4	gstd D_4		E_4 gstd D_4
+! F_4	gstd D_4		
+!I
+
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,250)
+
+TuneFormat,(1,0,M,L,500,1500,500,1500,P,0,0)
+
+TuneTempo,84
+
+"The Brown Haired Maiden",(Y,C,0,0,Arial,16,700,0,0,18,0,0,0)
+
+
+"March",(T,L,0,0,Arial,14,400,0,0,18,0,0,0)
+
+
+"Traditional",(M,R,0,0,Arial,14,400,0,0,18,0,0,0)
+
+
+"",(F,R,0,0,Arial,12,400,0,0,18,0,0,0)
+
+"First Part",(I,L,0,0,Arial,12,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 2_4 I!'' LA_8 	
+! 	thrd Dr_8 'd Cl_16 	
+	gg Br_8 strlg LAl_8 	
+!	thrd D_4 	
+	eg LAr_8 'la thrd Dl_16 	
+! 	gg Fr_8 Dl_8 	
+	dbhg HGr_8 Fl_8 	
+! 	gg Fr_8 El_8 	
+	strla Er_8 dbhg HGl_8 	
+!t 	
+& sharpf sharpc 	Fr_16 HAl_8 'ha 	
+	hdbf Fr_8 HAl_8 	
+! 	LA_4 	
+	thrd Dr_8 'd El_16 	
+! 	gg F_4 	
+	dbhg HGr_8 El_8 	
+! 	thrd D_4 	
+	lgstd D_8 	
+''!I
+

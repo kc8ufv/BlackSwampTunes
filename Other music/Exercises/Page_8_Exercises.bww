@@ -1,0 +1,100 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Converted from  BMW Dos file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+"Exercises - page 8",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Exercise",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+TuneTempo,90
+
+
+& sharpf sharpc	Cr_8 gstc Cl_8	
+!	Er_8 gstc Cl_8 		Br_8 gstc Cl_8 
+	Dr_8 gstc Cl_8
+!I	Br_8 gstb Bl_8
+!	Fr_8 gstb Bl_8		LGr_8 gstb Bl_8		Dr_8 gstb Bl_8	!t
+
+& sharpf sharpc	Dr_8 lgstd Dl_8
+!	Er_8 Dl_8 		lgstd D_4
+	Br_8 Dl_8 		lgstd D_4
+!	HAr_8 Dl_8 strc Dl_8		
+	gg Fr_8 Dl_8 strc Dl_8
+	gg Cr_8 Dl_8 strc Dl_8	!t
+
+& sharpf sharpc	E_4 	gg Cr_16 dg LAl_8 'la
+	E_4 	gg Cr_16 dg LAl_8 'la
+!	E_8	gg Cr_16 dg LAl_8 'la	
+	gg Cr_16 dg LAl_8 'la	
+	gg Cr_16 dg LAl_8 'la	
+	gg Cr_16 El_8 'e
+!	LA_4	gg Er_8 'e Dl_16	
+	gg Br_16 dg LAl_8 'la
+	gg Br_16 dg LAl_8 'la	HA_4 	Cr_8 dg LAl_8	!t
+
+
+	
+& sharpf sharpc	E_8	gstb B_4	thrd Dr_8 'd El_16	
+	dbf Fr_8 'f El_16	gg Cr_16 dg LAl_8 'la
+!	gg LAr_8 thrd Dl_8	lgstd Dr_8 El_8
+	dbha HAr_8 'ha Dl_16	gg Br_16 dg LAl_8 'lg
+!	gg Er_8 Dl_8 strc Dl_8	gg Cr_16 dg LAl_8 'la	!t
+
+& sharpf sharpc 	Er_8 grp El_8		Er_8 grp El_8
+!	Cr_8 grp Cl_8		Fr_8 grp Fl_8
+	Br_8 grp Bl_8		HAr_8 grp HAl_8
+	LAr_8 grp LAl_8		HGr_8 grp HGl_8	!t
+
+& sharpf sharpc	gg Br_8 grp Cl_8	Dr_8 grp El_8
+	gg Cr_8 grp El_8	HAr_8 grp Fl_8
+	gg LAr_8 grp Cl_8	Fr_8 grp Bl_8
+	gg LAr_8 grp El_8	tg HGr_8 grp El_8	!t
+
+& sharpf sharpc	E_4 	dbc Cr_16 eg LAl_8 'la		gg Br_8 grp Bl_8
+!	Fr_8 Dl_8		lgstd Dr_8 eg LAl_8
+	gg Cr_8 grp El_8	dbhg HG_8
+!	HAr_8 hdbf Fl_8		grp Er_8 gg Fr_16 'f El_32
+	thrd Dr_8 eg Bl_8	gstb B_8	!t
+
+
+& sharpf sharpc 6_8	gg Cr_16 Dl_16
+I!''	gg E_4 grp E_8		dbe Er_8 'e gg Cl_16 El_8
+!	dbha HA_4 C_8		dbe E_4 F_8
+!	thrd D_4 B_8		gstb Br_8 'b Cl_16 Dl_8
+!	dbf F_4 E_8		gg Cr_16 dg LAl_8 'la dg Cl_8 	!t
+
+& sharpf sharpc	gg E_4 grp E_8			dbe Er_8 'e gg Cl_16 El_8
+!	dbha HA_4 C_8			dbe E_4 F_8
+!	gg Dr_8 'd Bl_16 strlg Bl_8	gg Br_16 dg LGl_8 'lg dg Bl_8
+!	strlg LA_4 'la			brl LA_4	''!I
+
+& sharpf sharpc 
+I!''	HA_8 
+!	hdbf F_4 D_8			lgstd Dr_8 'd El_16 Fl_8
+!	dbe E_4 C_8			gg C_4 grp E_8
+!	thrd D_4 B_8		gstb Br_8 'b Cl_16 Dl_8
+!	dbc C_4 gg E_8		strla E_4 HA_8	!t
+
+& sharpf sharpc	hdbf F_4 D_8			lgstd Dr_8 'd El_16 Fl_8
+!	dbe E_4 C_8			gg C_4 grp E_8
+!	gg Dr_8 'd Bl_16 strlg Bl_8	gg Br_16 dg LGl_8 'lg dg Bl_8
+!	strlg LA_4 'la			brl LA_4	''!I
+
+
+

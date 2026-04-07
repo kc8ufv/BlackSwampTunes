@@ -1,0 +1,73 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+"Converted from  Pipe Write file format to Bagpipe Reader 1.0 format using BMWFC32."
+
+TuneFormat,(1,0,F,L,500,500,500,500,L,0,0)
+
+"A Throws",(T,L,0,0,Times New Roman,14,700,0,0,18,0,0,0)
+
+"Exercise",(Y,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+TuneTempo,90
+
+"The Complete 'Piping Service",(F,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+& sharpf sharpc 4_4 
+! LA_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! LA_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! LA_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! B_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! B_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! B_4 	LG_4 	Dr_8 Cl_8 	D_4 	!t
+
+
+& sharpf sharpc 
+! C_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! C_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! C_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! D_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! D_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! D_4 	LG_4 	Dr_8 Cl_8 	D_4 	!t
+
+
+& sharpf sharpc 
+! E_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! E_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! E_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! F_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! F_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! F_4 	LG_4 	Dr_8 Cl_8 	D_4 	!t
+
+
+& sharpf sharpc 
+! HG_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! HG_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! HG_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! HA_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! HA_4 	LG_4 	Dr_8 Cl_8 	D_4 	
+! HA_4 	LG_4 	Dr_8 Cl_8 	D_4 	!t
+
+
+& sharpf sharpc 
+! HAr_8 LGl_8 	Dr_16 Cr_16 Dl_8 	
+! HGr_8 LGl_8 	Dr_16 Cr_16 Dl_8 	
+! Fr_8 LGl_8 	Dr_16 Cr_16 Dl_8 	
+! Er_8 LGl_8 	Dr_16 Cr_16 Dl_8 2_4 !t
+
+
+& sharpf sharpc 
+! Dr_8 LGl_8 	Dr_16 Cr_16 Dl_8 	
+! Cr_8 LGl_8 	Dr_16 Cr_16 Dl_8 	
+! Br_8 LGl_8 	Dr_16 Cr_16 Dl_8 	
+! LAr_8 LGl_8 	Dr_16 Cr_16 Dl_8 	 !I

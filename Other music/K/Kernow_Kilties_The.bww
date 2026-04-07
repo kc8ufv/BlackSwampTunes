@@ -1,0 +1,98 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(100,100,100,100,250)
+
+TuneFormat,(1,0,F,C,500,500,500,680,P,1,0)
+
+TuneTempo,100
+
+"4 4 March",(Y,L,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"The Kernow Kilties",(T,C,0,0,Bookman Old Style,16,700,0,1,18,0,0,0)
+"John Haynes [CCPB London Branch]",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"The Marchpast of The Cornwall Caledonian Pipe Band",(F,L,0,0,Gaelic,12,400,0,0,2,0,0,0)
+
+& sharpf sharpc 4_4
+I!	E_8
+!	gg LA_4
+	tar LAr_8 Bl_8
+	Cr_16 El_8 'e ^te
+	Er_8 stre El_8
+!	gg Fr_8 'f El_16
+	HAr_8 Fl_8
+	Er_16 Cl_8 'c ^tc
+	Cr_8 Bl_8
+!	gg LA_4
+	tar LAr_8 Bl_8
+	dg Cr_16 El_8 'e
+	Fr_8 El_8
+!	B_4
+	Fr_8 'f El_16
+	gg B_4
+	gg Cr_8 Dl_8
+!t	
+
+& sharpf sharpc 
+	gg Er_8 'e Cl_16
+	gg LAr_8 Cl_8
+	dbe E_4
+	Cr_8 'c El_16
+!	gg Fr_8 'f Dl_16
+	gg LAr_8 Dl_8
+	dbf F_4
+	Er_8 'e Dl_16
+!	gg Cr_16 El_8 'e
+	gg Cr_8 El_8
+	gg Fr_8 'f El_16
+	gg Br_8 Cl_8
+!	strlg LA_4 ^tla
+	LA_4
+	brl LA_4 ^tla
+	LA_8
+!I
+
+& sharpf sharpc 
+I!	E_8
+!	gg LAr_8 'la Bl_16
+	grp Cr_8 El_8
+	gg Fr_16 El_8 'e
+	gg LA_4
+!	gg LAr_8 'la Bl_16
+	grp Cr_8 El_8
+	dbd Dr_8 'd Cl_16
+	dbb B_4
+!	gg LAr_8 'la Bl_16
+	grp Cr_8 El_8
+	Dr_16 Fl_8 'f
+	dbe E_4
+!	gg Cr_8 Fl_8
+	Er_8 'e Bl_16
+	Cr_8 Fl_8
+	Er_8 Br_16 Cl_16
+!t
+
+& sharpf sharpc 
+	gg Er_8 'e Cl_16
+	gg LAr_8 Cl_8
+	dbe E_4
+	Cr_8 'c El_16
+!	gg Fr_8 'f Dl_16
+	gg LAr_8 Dl_8
+	dbf F_4
+	Er_8 'e Dl_16
+!	gg Cr_16 El_8 'e
+	gg Cr_8  El_8 
+	gg Fr_8 'f El_16
+	gg Br_8 Cl_8
+!	strlg LA_4 ^tla
+	LA_4
+	brl LA_4 ^tla
+	LA_8
+!I
