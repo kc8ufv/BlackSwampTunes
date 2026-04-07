@@ -1,0 +1,45 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,60,300)
+
+TuneFormat,(1,0,F,L,500,500,550,500,L,1,0)
+
+TuneTempo,40
+
+"Zudupiper",(T,C,0,0,BernhardMod BT,30,700,0,0,18,0,0,0)
+"Slow Air",(Y,L,0,0,Times New Roman,16,700,255,0,18,0,0,0)
+"Chris Eyre     ",(M,R,0,0,Times New Roman,16,700,255,0,18,0,0,0)
+
+& sharpf sharpc  6_8 I!
+	thrd D_4 space space F_8 							dbha HA_4 'ha space space  		
+!	hdbf F_4 space space E_8							dbe Er_16 ^ts Dl_16 space space D_4 ^te space space
+!	dbe E_4 space space F_8							dbf Fr_16 ^ts El_16 space space E_4 ^te space space
+!	gg Dr_16 eg ^ts Bl_16 space space B_4 ^te space space	grp B_4 'b space space !t
+
+& sharpf sharpc 
+!	thrd D_4 space space E_8 							dbb Br_16 eg ^ts LAl_16 space space LA_4 ^te space space 		
+!	dbe E_4 space space D_8							dbb Br_16 eg ^ts LGl_16 space space LG_4 ^te space space
+!	gg LA_4 space space E_8							thrd D_4 space space E_8		
+!	dbd Dr_16 ^ts Bl_16 space space B_4 ^te space space	strlg LA_4 'la space space space	!I
+
+"2"
+
+& sharpf sharpc  I!
+	dbf Fr_8 'f Er_16 Fl_8 								dbha HA_4 'ha  space space
+!	hdbf F_4 space space E_8							dbe Er_16 ^ts Dl_16 space space D_4 ^te space space
+!	dbf F_4 space space HA_8							dbf Fr_16 ^ts El_16 space space E_4 ^te space space
+!	gg Dr_16 eg ^ts Bl_16 space space B_4 ^te space space	grp B_4 'b space space !t
+
+& sharpf sharpc 
+!	dbf F_4 space space HA_8							dbf Fr_16 ^ts El_16 space space E_4 ^te space space
+!	dbf F_4 E_8	 									dbd Dr_16 ^ts Bl_16 space space B_4 ^te space space
+!	gg LA_4 space space E_8							thrd D_4 space space E_8		
+!	dbd Dr_16 ^ts Bl_16 space space B_4 ^te space space	strlg LA_4 'la space space space	!I

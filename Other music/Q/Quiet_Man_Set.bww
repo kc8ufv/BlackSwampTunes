@@ -1,0 +1,82 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,90
+
+"Quiet Man Set",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"March Set",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Arr.P/Mjr Quintos",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Emerald Society Pipes & Drums - Chicago Police Department",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 6_8 I!'' E_8
+!	abr LA_4 B_8 dg Cr_8 'c Bl_16 LAl_8
+!	thrd D_4 F_8 dbe E_4 C_8
+!	dbha HA_4 C_8 grp Cr_8 'c Bl_16 LAl_8
+!	gg B_4 dg B_8 eg B_4 E_8	!t
+& sharpc sharpf
+	abr LA_4 B_8 eg Cr_8 'c Bl_16 LA_8
+!	thrd D_4 F_8 dbe E_4 C_8
+!	dbha HA_4 C_8 grp Cr_8 'c Bl_16 LAl_8
+!	gg B_4 LA_8 brl LA_4 	''!I
+& sharpc sharpf I!''  6_8 gg LA_8 
+!	thrd Dr_8 'd El_16 Dl_8 	gstd Dr_8 'd El_16 Fl_8
+!	dbha HA_4 grp HA_8 gg HAr_8 'ha Fl_16 Dl_8
+!	dbe E_4 grp E_8 Fr_8 'f Dl_16 LAl_8
+!	gg Br_8 'b Cl_16 Bl_8 grp B_4 LA_8	!t
+& sharpc sharpf
+	thrd Dr_8 'd El_16 Dl_8	gstd Dr_8 'd El_16 Fl_8
+!	dbha HA_4 grp HA_8 gg HAr_8 'ha Fl_16 Dl_8
+!	dbe E_4 grp E_8 gg Fr_8 'f Dl_16 LAl_8
+!	gg B_4 C_8 thrd D_4	''!I
+& sharpc sharpf LA_8
+!	brl LAr_8 'la Bl_16 Cl_8 thrd D_4 B_8
+!	dg Cr_8 'c Bl_16 LAl_8 gg B_4 'b
+!	abr LAr_8 'la Bl_16 Cl_8 thrd D_4 B_8
+!	dg Cr_8 'c Bl_16 LAl_8 gg B_4 'b
+!	abr LAr_8 'la Bl_16 Cl_8	thrd Dr_8 'd El_16 Dl_8	!t
+& sharpc sharpf
+	dbc Cr_8 'c Bl_16 LAl_8 gg B_4 LA_8
+!	thrd Dr_8 'd El_16 Dl_8	gstd Dr_8 'd El_16 Fl_8
+!	dbha HA_4 grp HA_8 gg HAr_8 'ha Fl_16 Dl_8
+!	dbe E_4 grp E_8 gg Fr_8 'f Dl_16 LAl_8
+!	gg Br_8 'b Cl_16 Bl_8 grp B_4 eg LA_8	!t
+& sharpc sharpf
+	thrd Dr_8 'd El_16 Dl_8	gstd Dr_8 'd El_16 Fl_8
+!	dbha HA_4 grp HA_8 gg HAr_8 'ha Fl_16 Dl_8
+!	dbe E_4 grp E_8 gg Fr_8 'f Dl_16 LAl_8
+!	gg B_4 C_8 thrd D_4 'd	!I
+& sharpc sharpf 2_4	I!'' 
+!	gg LAr_8 dg Cl_8	gg LAr_8 dg Cl_8
+!	gg LAr_8 dg Cl_8	gg Dr_16 Cr_16 Br_16 LAl_16
+!	gg LGr_8 Bl_8	gg LGr_8 Bl_8
+!	gg LGr_8 Bl_8	gg Er_16 Dr_16 Cr_16 Bl_16	!t
+& sharpc sharpf
+	gg LAr_8 dg Cl_8	gg LAr_8 dg Cl_8
+!	gg LAr_8 dg Cl_8 dbe E_4
+!	gg Dr_16 Cr_16 Br_16 LAl_16	LGr_8 gg Er_16 Dl_16
+!	dbc Cr_8 dg LAl_8 brl LA_4	''!I
+& sharpc sharpf	
+I!'' 	dbha HAr_8 'ha Fl_16	dbe Er_8 Dl_8
+!	gg Cr_8 Dl_8 dbe E_4
+!	dbha HAr_8 'ha Fl_16	dbe Er_8 Dl_8
+!	gg Cr_8 Dl_8	gg Br_8 El_8	!t
+& sharpc sharpf
+	gg HAr_8 'ha Fl_16 	dbe Er_8 'e Dl_16
+!	gg Cr_8 Dl_8 dbe E_4
+!	gg Dr_16 Cr_16 Br_16 LAl_16	LGr_8 Er_16 Dl_16
+!	dbc Cr_8 dg LAl_8 brl LA_4	''!I
+

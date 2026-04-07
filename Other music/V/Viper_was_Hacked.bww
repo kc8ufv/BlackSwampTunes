@@ -1,0 +1,58 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,90
+
+"Viper was Hacked",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Waltz",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"James Guthrie",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 	3_4 
+I!'' 	gg Dr_8 El_8 
+! 	gg Dr_8 Cl_8 				strlg LA_4 'la 			E_8 
+! 	gg Dr_8 Cl_8 				eg LG_2 
+! 	gg B_4 'b 				gg Er_16 HGl_8 'hg  				tg Fr_8 
+! 	D_8                                         dbe E_2 					 Dr_8
+!t 
+& sharpf sharpc 
+	gg  E_2					gg Er_16 HGl_8 'hg 
+! 	gg Dr_8 Cl_8 				strlg LA_2 
+! 	gg LA_16 Bl_8 'b 					gg B_16 Cl_8 'c 				dbd Dr_8 El_8 
+! 	thrd D_2 
+''!I 
+
+& sharpf sharpc 
+I!'' 	gg Fr_8 HGl_8 
+! 	HA_4  				strhg HA_4 'ha 		Er_16 F_8 'f 
+! 	dbhg HG_2 				strf HG_4 
+! 	tg Fr_8 Dl_8 				eg LG_4 'e 			D_8 
+! 	dbd D_2 					gg Dr_16 El_8 'e 
+!t 
+& sharpf sharpc 
+'1 	thrd D_4 'd 				E_8 					gg Fr_8 HAl_8 
+! 	strf HG_2 				tg Er_8 Dl_8 
+! 	eg LG_2 'lg 
+! 	gg LA_2 		_' 
+''!I 
+& sharpf sharpc 
+'2 	thrd D_4 'd 				E_8 					gg Fr_8 HGl_8 
+! 	dbd D_2 					dbc Cr_8 Bl_8 
+! 	dbe E_2 'd 
+! 	gstd D_2 		_' 
+!I 

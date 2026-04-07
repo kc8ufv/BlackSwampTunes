@@ -1,0 +1,153 @@
+Bagpipe Music Writer Gold:1.0
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,46,34,1000,60,70)
+
+GracenoteDurations,(40,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,1,0)
+
+"Yo Nepali",(T,C,0,0,Times New Roman,18,600,0,1,18,0,0,0)
+"Lilbahadur Gurung",(M,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+"6 8 Quickstep",(Y,L,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+"Brigade of Gurkhas March Past",(F,L,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+
+
+TuneTempo,120
+
+
+& sharpf sharpc  6_8 
+I!	gg ^ts E_4 'e
+	E_4 'e ^te
+!	grp ^ts E_4 'e
+	E_4 'e ^te
+!	gg E_4 'e	
+	grp E_4 'e
+!	dbe ^ts E_4 'e
+	E_4 'e ^te
+!I
+
+& sharpf sharpc 
+I!''	gg C_4 E_8
+	ag E_4 dbe  E_8
+!	gg F_4 LA_8
+	dbb B_4 LA_8
+!	gg ^ts C_4 'c
+	C_4 'c ^te
+!	grp ^ts C_4 'c
+	C_4 'c
+!t
+
+& sharpf sharpc 
+!	dbb B_4 strlg B_8
+	gg LA_4 LG_8
+!	gg LA_4 C_8
+	dbb B_4 LA_8
+!	gg  ^ts LA_4 'la
+	LA_4 'la ^te
+!	tar ^ts LA_4 'la
+	LA_4 'la ^te
+!t
+
+& sharpf sharpc 
+!	gg LAr_8 'la dg Bl_16 eg LAl_8
+	gg F_4 'f
+!	gg Er_8 Fr_8 El_8
+	gg Cr_8 'c Bl_16 LAl_8
+!	dbb ^ts B_4 'b
+	B_4 'b ^te
+!	tar ^ts B_4 'b
+	B_4 'b ^te
+!t
+
+& sharpf sharpc 
+!	gg C_4 E_8
+	gg C_4 B_8
+!	gg B_4 LA_8
+	gg B_4 LA_8
+!	gg ^ts LA_4 'la
+	LA_4 'la ^te
+!	tar ^ts LA_4 'la
+	LA_4 'la ^te
+''!I
+
+& sharpf sharpc 
+I!''	gg C_4 E_8
+	ag E_4 dbe E_8
+!	gg F_4 HA_8
+	fg HG_4 E_8
+!	dbf ^ts F_4 'f
+	F_4 'f ^te
+!	grp ^ts F_4 'f
+	F_4 'f ^te
+!t
+
+& sharpf sharpc 
+!	gg E_4 HG_8
+	tg F_4 E_8
+!	gg E_4 HG_8
+	tg F_4 E_8
+!	dbe ^ts E_4 'e
+	E_4 'e ^te
+!	grp ^ts E_4 'e
+	E_4 'e ^te
+!t
+
+& sharpf sharpc 
+!	gg C_4 E_8
+	strlg E_4 dbe E_8
+!	gg F_4 LA_8
+	dbb B_4 LA_8
+!	gg ^ts C_4 'c
+	C_4 'c ^te
+!	grp  ^ts C_4 'c
+	C_4 'c
+!t
+
+& sharpf sharpc 
+!	dbb B_4 strlg B_8
+	gg LA_4 LG_8
+!	gg LA_4 C_8
+	dbb B_4 LA_8
+!	gg ^ts LA_4 'la
+	LA_4 'la ^te
+!	tar ^ts LA_4 'la
+	LA_4 'la ^te
+''!I
+
+& sharpf sharpc  
+I!	gg ^ts E_4 'e
+	E_4 'e ^te
+!	grp ^ts E_4 'e
+	E_4 'e ^te
+!	gg E_4 'e	
+	grp E_4 'e
+!	dbe ^ts E_4 'e
+	E_4 'e ^te
+!t
+
+& sharpf sharpc 
+!	gg C_4 E_8
+	gg C_4 B_8
+!	gg D_4 C_8
+	gg B_4 LA_8
+!	gg ^ts LA_4 'la
+	LA_4 'la ^te
+!	tar ^ts LA_4 'la
+	LA_4 'la
+!I
+	
+
+
+
+
+!t

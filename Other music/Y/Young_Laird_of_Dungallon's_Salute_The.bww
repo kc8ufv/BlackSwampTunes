@@ -1,0 +1,250 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,260)
+
+TuneFormat,(1,0,M,L,500,500,500,500,L,0,0)
+
+TuneTempo,90
+
+"The Young Laird of Dungallon's Salute",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"Piobaireachd",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Angus MacKay's Book",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"PS Book 10",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+"I. Urlar",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 6_8
+I!''	cadge LA_4 B_8 					pgrp C_4 echolg LA_8
+!	gg B_8 pgrp C_4					dare F_4 space space E_8
+!	gg C_8 eg LA_4					gg E_4 space space C_8
+!	gg B_8 eg LA_4					pgrp C_4 'c space space space space 
+!	cadged C_4 B_8					gg LA_4 dg C_8
+!	gg B_8 pgrp C_4					dare F_4 space space E_8
+!	gg C_8 eg LA_4					gg E_4 space space C_8
+!	gg B_8 eg LA_4 space space	space 	pgrp B_4 'b space space space space ''!I
+	
+& sharpf sharpc 
+I!	cadge LA_4 B_8 					pgrp C_4 echolg LA_8
+!	gg B_8 pgrp C_4					endari HG_4 space space E_8
+!	gg F_8 gg E_4						chedari HG_4 space space E_8
+!	gg F_4 E_8						gg F_4 'f space space space space 
+!	cadged C_4 B_8					gg LA_4 dg C_8
+!	gg B_8 pgrp C_4					chedari HG_4 space space C_8
+!	gg B_8 eg LA_4 space space	space 	pgrp B_4 'b space space space space !t
+
+& sharpf sharpc 
+	cadge LA_4 B_8 					pgrp C_4 echolg LA_8
+!	gg B_8 pgrp C_4					endari HG_4 space space E_8
+!	gg F_8 gg E_4						chedari HG_4 space space E_8
+!	gg F_4 E_8						gg F_4 'f space space space space 
+!	dili HA_4 'ha space space space		dare F_4 HA_8
+!	space  F_4 'f space space space		grp E_4 C_8
+!	gg Br_8 pgrp Cr_8 'c edre El_16		dili HA_4 space space C_8
+!	gg B_8 eg LA_4 space space space 	pgrp B_4 'b space space space space !I
+
+
+"II. VAR. 1",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 2_4
+I!''	cadged LA_4 pt dg			 C_4
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 Fl_8 'f
+!	gg LAr_16 dg Cl_8 'c		gg LAr_16 El_8 'e
+!	gg LAr_16 dg Cl_8 'c		gg C_4 space space space
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 dg Cl_8 'c
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 Fl_8 'f
+!	gg LAr_16 dg Cl_8 'c		gg LAr_16 El_8 'e
+!	gg LAr_16 dg Bl_8 'b		gg LA_4 space space space ''!I
+
+& sharpf sharpc
+I!	space LA_4 pt dg			 C_4
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 HGl_8 'hg
+!	tg LAr_16 Fl_8 'f			gg LAr_16 HGl_8 'hg
+!	tg LAr_16 Fl_8 'f			gg F_4 space space space
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 dg Cl_8 'c
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 HGl_8 'hg
+!	tg LAr_16 Fl_8 'f			gg LAr_16 HGl_8 'hg
+!	tg LAr_16 dg Bl_8 'b		gg LA_4 space space space !t
+
+& sharpf sharpc 
+	space LA_4 pt dg			 C_4
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 HGl_8 'hg
+!	tg LAr_16 Fl_8 'f			gg LAr_16 HGl_8 'hg
+!	gg LAr_16 Fl_8 'f			gg F_4 space space space
+!	gg LAr_16 HGl_8 'hg		tg LAr_16 HGl_8 'hg
+!	tg LAr_16 Fl_8 'f			gg LAr_16 El_8 'e
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 HGl_8 'hg
+!	tg LAr_16 dg Bl_8 'b		gg LA_4 space space space !I
+
+
+"III. VAR. 1 DOUBLING",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc
+I!''	LA_4 pt		 			dg C_4
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 Fl_8 'f
+!	gg LAr_16 dg Cl_8 'c		gg LAr_16 El_8 'e
+!	gg LAr_16 dg Cl_8 'c		gg LAr_16 dg Cl_8 'c
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 dg Cl_8 'c
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 Fl_8 'f
+!	gg LAr_16 dg Cl_8 'c		gg LAr_16 El_8 'e
+!	gg LAr_16 dg Bl_8 'b		gg LAr_8 grp LAl_8 space space space ''!I
+
+& sharpf sharpc
+I!	space LA_4 pt dg			 C_4
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 HGl_8 'hg
+!	tg LAr_16 Fl_8 'f			gg LAr_16 HGl_8 'hg
+!	tg LAr_16 Fl_8 'f			gg LAr_16 Fl_8 'f
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 dg Cl_8 'c
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 HGl_8 'hg
+!	tg LAr_16 Fl_8 'f			gg LAr_16 HGl_8 'hg
+!	tg LAr_16 dg Bl_8 'b		gg LAr_8 grp LAl_8 space space space !t
+
+& sharpf sharpc 
+	space LA_4 pt dg			 C_4
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 HGl_8 'hg
+!	tg LAr_16 Fl_8 'f			gg LAr_16 HGl_8 'hg
+!	gg LAr_16 Fl_8 'f			gg LAr_16 Fl_8 'f
+!	gg LAr_16 HGl_8 'hg		tg LAr_16 HGl_8 'hg
+!	tg LAr_16 Fl_8 'f			gg LAr_16 El_8 'e
+!	gg LAr_16 dg Bl_8 'b		gg LAr_16 HGl_8 'hg
+!	tg LAr_16 dg Bl_8 'b		gg LAr_8 grp LAl_8 space space space !I
+
+
+"IV. TAORLUATH",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 
+I!''	LA_4 pt space  	C_4 pt space  
+!	B_4 pt space  		F_4 pt space  
+!	C_4 pt space  		E_4 pt space  
+!	C_4 pt space  		cadged Cr_8 echolg LAl_8 space  
+!	B_4 pt space  		C_4 pt space  
+!	B_4 pt space  		F_4 pt space  
+!	C_4 pt space  		E_4 pt space  
+!	B_4 pt space  		cadged B_4 eg LG_8 space  ''!I
+
+& sharpf sharpc
+I!	LA_4 pt space		C_4 pt space
+!	B_4 pt space		HG_4 pt space
+!	F_4 pt space		HG_4 pt space
+!	F_4 pt space		F_4 pt space
+!	B_4 pt space		C_4 pt space
+!	B_4 pt space		HG_4 pt space
+!	F_4 pt space		HG_4 pt space
+!	B_4 pt space		cadged B_4 eg LG_8 space !t
+
+& sharpf sharpc 
+	LA_4 pt space		C_4 pt space
+!	B_4 pt space		HG_4 pt space
+!	F_4 pt space		HG_4 pt space
+!	F_4 pt space		F_4 pt space
+!	HG_4 pt space		HG_4 pt space
+!	F_4 pt space		E_4 pt space
+!	B_4 pt space		HG_4 pt space
+!	B_4 pt space		cadged B_4 eg LG_8 space !I
+
+"V. TAORLUATH DOUBLING",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 
+I!''	LA_4 pt space  	C_4 pt space  
+!	B_4 pt space  		F_4 pt space  
+!	C_4 pt space  		E_4 pt space  
+!	C_4 pt space  		C_4 pt space  
+!	B_4 pt space  		C_4 pt space  
+!	B_4 pt space  		F_4 pt space  
+!	C_4 pt space  		E_4 pt space  
+!	B_4 pt space  		LA_4 pt space  ''!I
+
+& sharpf sharpc
+I!	LA_4 pt space		C_4 pt space
+!	B_4 pt space		HG_4 pt space
+!	F_4 pt space		HG_4 pt space
+!	F_4 pt space		F_4 pt space
+!	B_4 pt space		C_4 pt space
+!	B_4 pt space		HG_4 pt space
+!	F_4 pt space		HG_4 pt space
+!	B_4 pt space		LA_4 pt space !t
+
+& sharpf sharpc 
+	LA_4 pt space		C_4 pt space
+!	B_4 pt space		HG_4 pt space
+!	F_4 pt space		HG_4 pt space
+!	F_4 pt space		F_4 pt space
+!	HG_4 pt space		HG_4 pt space
+!	F_4 pt space		E_4 pt space
+!	B_4 pt space		HG_4 pt space
+!	B_4 pt space		LA_4 pt space !I
+
+
+"VI. CRUNLUATH",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 
+I!''	LA_4 pc space  	C_4 pc space  
+!	B_4 pc space  		F_4 pc space  
+!	C_4 pc space  		E_4 pc space  
+!	C_4 pc space  		cadged Cr_8 echolg LAl_8 space  
+!	B_4 pc space  		C_4 pc space  
+!	B_4 pc space  		F_4 pc space  
+!	C_4 pc space  		E_4 pc space  
+!	B_4 pc space  		cadged B_4 eg LG_8 space  ''!I
+
+& sharpf sharpc
+I!	LA_4 pc space		C_4 pc space
+!	B_4 pc space		HG_4 pc space
+!	F_4 pc space		HG_4 pc space
+!	F_4 pc space		F_4 pc space
+!	B_4 pc space		C_4 pc space
+!	B_4 pc space		HG_4 pc space
+!	F_4 pc space		HG_4 pc space
+!	B_4 pc space		cadged B_4 eg LG_8 space !t
+
+& sharpf sharpc 
+	LA_4 pc space		C_4 pc space
+!	B_4 pc space		HG_4 pc space
+!	F_4 pc space		HG_4 pc space
+!	F_4 pc space		F_4 pc space
+!	HG_4 pc space		HG_4 pc space
+!	F_4 pc space		E_4 pc space
+!	B_4 pc space		HG_4 pc space
+!	B_4 pc space		cadged B_4 eg LG_8 space !I
+
+"VII. CRUNLUATH DOUBLING",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 
+I!''	LA_4 pc space  	C_4 pc space  
+!	B_4 pc space  		F_4 pc space  
+!	C_4 pc space  		E_4 pc space  
+!	C_4 pc space  		C_4 pc space  
+!	B_4 pc space  		C_4 pc space  
+!	B_4 pc space  		F_4 pc space  
+!	C_4 pc space  		E_4 pc space  
+!	B_4 pc space  		LA_4 pc space  ''!I
+
+& sharpf sharpc
+I!	LA_4 pc space		C_4 pc space
+!	B_4 pc space		HG_4 pc space
+!	F_4 pc space		HG_4 pc space
+!	F_4 pc space		F_4 pc space
+!	B_4 pc space		C_4 pc space
+!	B_4 pc space		HG_4 pc space
+!	F_4 pc space		HG_4 pc space
+!	B_4 pc space		LA_4 pc space !t
+
+& sharpf sharpc 
+	LA_4 pc space		C_4 pc space
+!	B_4 pc space		HG_4 pc space
+!	F_4 pc space		HG_4 pc space
+!	F_4 pc space		F_4 pc space
+!	HG_4 pc space		HG_4 pc space
+!	F_4 pc space		E_4 pc space
+!	B_4 pc space		HG_4 pc space
+!	B_4 pc space		LA_4 pc space !I
