@@ -1,0 +1,59 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(57,71,45,33,1000,60,70)
+
+GracenoteDurations,(32,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,88,70,250)
+
+TuneFormat,(1,0,F,C,500,500,500,500,L,0,0)
+
+TuneTempo,62
+
+"THE 7TH ARMORED DIVISION IN THE VALLEY OF TEARS ",(T,C,0,0,Times New Roman,12,700,0,0,18,0,0,0)
+
+"March",(Y,L,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+"DN Siegel",(M,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+
+"2001 (c) The Composer",(F,C,0,0,Times New Roman,8,400,0,0,18,0,0,0)
+
+& sharpf sharpc sharpf sharpc 2_4  I!'' E_16 !  gbr  LAr_8 gg LAr_16 LGl_16 	dg  Br_16 LAl_16  gg LAr_16 LGl_16 ! 	lhstd Dr_16 HAl_16 Er_16  strla El_16 	dbf Fr_16 Dr_16 HGr_32 Bl_32 dg LGl_16 ! dbhg HGr_16 HAr_16 LGr_32 dg LGl_32 HAl_16 	 Dr_32 Cl_32 eg Bl_16 dbe Er_16  HGl_16 ! tste  Er_16 LAr_16 HAr_16  grp   HAl_16 	LAr_32 dg LAl_32 HGr_16  tste Er_16 LGl_16 !t
+
+& sharpf sharpc sharpf sharpc    '23  gbr  LAr_8 gg LAr_16 LGl_16 	dg  Br_16 LAl_16  gg LAr_16 LGl_16 ! lhstd Dr_16 HAl_16 Er_16  strla El_16 	dbf Fr_16 Dr_16 HGr_32 Bl_32 dg LGl_16 ! dbhg HGr_16 HAr_16 LGr_32 dg LGl_32 HAl_16 	 Dr_32 Cl_32 eg Bl_16 dbe Er_16  HGl_16  ! tste Er_16 LAr_16 Er_32 gg LGl_16 'lg	gg LAr_8 gbr LAl_16 _' ''!I 
+
+& sharpf sharpc sharpf sharpc  I!'' E_16 ! dbhg HGr_16  HAr_32 HGl_32 tg  LGr_16 dg LGl_16	 eg LAr_8 dbe Er_16 LGl_16 ! dbhg HGr_16 HAr_32 HGl_32 tdbf Fr_32 Dl_32 eg Bl_16 	 dbe Er_8 strlg Er_16 'e Fl_32 ! dbhg HGr_16 Fr_32 gg El_32 thrd Dr_16 gg Fl_16 	dbe Er_16 LGr_16 dbe Er_16 LAl_16 ! dbhg HGr_16 Fr_32 gg El_32 thrd Dr_16 eg Bl_16	gg LGr_8 dblg  LGr_16 dg Bl_16  !t
+& sharpf sharpc sharpf sharpc  dbhg HGr_16 HAr_32 HGl_32 tg LGr_16 dg LGl_16 	eg LAr_8 dbe Er_16 LGl_16 ! dbhg HGr_16  HAr_32 HGl_32 tdbf Fr_32 Dl_32  eg Bl_16 	 dbe Er_8 strlg Er_16 'e Fl_32 ! dbhg HGr_16 HAr_16 LGr_32 dg LGl_32 HAl_16 	 Dr_32 Cl_32 eg Bl_16 dbe Er_16  HGl_16 ! tste  Er_16 LAr_16  Er_32 gg LGl_16 'lg  	gg   LAr_8 gbr LAl_16 ''!I  
+
+& sharpf sharpc sharpf sharpc  I!''  E_16 ! dbhg HGr_16 LGl_16 gg LGl_8 	 dbhg HGr_16 HAr_32 HGl_32 tg El_16 thrd Dl_16 ! 	dbe Er_16 LAl_16 gg LAl_16 LGl_16 	dbhg HGr_16 HAr_32 HGl_32 gg Dr_16  Fl_16 ! dbe Er_8  thrd Dr_16 eg Bl_16	thrd Dr_16 eg Br_16 gg LGr_16 HGl_16 !  tste Er_16 LAr_16 dbhg HGr_16 HAl_16 	LAr_32 dg LAl_32 HGr_16  tste Er_16 LGl_16  !t
+& sharpf sharpc sharpf sharpc '1  dbhg  HGr_16 LGl_16 gg LGl_8 	 dbhg HGr_16 HAr_32 HGl_32 tg El_16 thrd Dl_16 ! 	dbe Er_16 LAl_16 gg LAl_16 LGl_16 	dbhg HGr_16 HAr_32 HGl_32 tg  Dr_16  Fl_16 ! dbe Er_8  thrd Dr_16 eg Bl_16	thrd Dr_16 eg Br_16 gg LGr_16 HGl_16 ! tste Er_16 LAr_16 Er_32 gg LGl_16 'lg  	gg LAr_8 gbr LAl_16 _'  ''!I
+
+
+& sharpf sharpc sharpf sharpc  I!'' E_16 !
+gg LGr_16 dg Bl_16 gg LGl_8  	gbr LAr_16  gg LAr_32 Dl_32 gg Br_16 Fl_16  !
+dbe Er_16  LAl_16 gg Er_32 Dl_32 eg Bl_16 		thrd Dr_16 LGr_32   LAl_32 gg  Bl_16 HAl_16 !
+
+hste Er_16  LAl_16 dbe El_8		dbhg HGr_16 HAr_32 HGl_32 tg  Dr_16  Fl_16  !
+dbe Er_16 LAr_16 HAr_16  grp   HAl_16 	LAr_32 dg LAl_32 HGr_16  tste Er_16 LGl_16 !t
+
+& sharpf sharpc sharpf sharpc
+gg LGr_16 dg Bl_16 gg LGl_8  	gbr LAr_16  gg LAr_32 Dl_32 gg Br_16 Fl_16  !
+dbe Er_16  LAl_16 gg Er_32 Dl_32 eg Bl_16	thrd Dr_16 LGr_32   LAl_32 gg  Bl_16 HAl_16 !
+
+hste  Er_8  gbr LAr_16  gg LAr_32 Bl_32		dbhg HGr_32 Er_32 gg  Dr_32   HGl_32  tg LGr_16 gg Er_32 HGl_32   !
+tste Er_16 LAr_16 Er_32 gg LGl_16 'lg  	gg LAr_8 gbr LAl_16
+ ''!I
+
+
+
+
+
+
+
+
+
+
+

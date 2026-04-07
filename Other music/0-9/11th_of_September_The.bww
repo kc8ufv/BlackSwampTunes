@@ -1,0 +1,143 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+
+InstrumentMappings,(109,109,46,34,1000,60,70)
+
+GracenoteDurations,(30,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(80,80,60,70,200)
+
+TuneFormat,(1,0,M,C,500,500,500,500,L,0,0)
+
+TuneTempo,40
+
+"THE ELEVENTH OF SEPTEMBER",(T,L,0,0,Goudy Old Style BT,16,700,0,0,18,0,0,0)
+
+"Piobaireachd",(Y,C,0,0,Goudy Old Style BT,14,400,0,0,18,0,0,0)
+
+"Iain Sherwood 2001",(M,R,0,0,Goudy Old Style BT,14,400,0,0,18,0,0,0)
+
+"",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+
+"A  TRIBUTE TO THOSE WHO DIED IN NEW YORK AND WASHINGTON",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+"Urlar.",(I,L,0,0,Goudy Old Style BT,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc C
+	'bis gg LGr_8 dg Cl_8	darodo B_4 gg LGr_8 dg Cl_8 darodo B_4
+!	gg LAr_8 eg Dl_8	darodo B_4 gg LAr_8 eg Dl_8	darodo B_4	bis_'
+!	cadge LG_4 embari HGr_8 tg Dl_8	gg Er_32 strla El_8 'e 'e echola E_4
+!	cadge LA_4 edre E_4 cadged Br_32 strlg Bl_8 'b 'b echolg B_4	!t
+
+& sharpf sharpc 
+	gg LAr_8 eg Dl_8	darodo B_4 gg LAr_8 eg Dl_8	darodo B_4
+!	cadge LA_4 edre E_4 cadged Br_32 strlg Bl_8 'b 'b echolg B_4
+!	gg LGr_16 LAl_8 'la 	otro Br_8 'b Cl_16	 tra D_4 embari HG_4
+!	cadge LG_4 embari HGr_8 tg Dl_8	gg Er_32 strla El_8 'e 'e echola E_4
+!	cadge LA_4 edre E_4 cadged Br_32 strlg Bl_8 'b 'b echolg B_4
+!	cadge Dr_32 strlg Dl_8 'd 'd tra D_4 cadge LG_4 otro B_4	!t
+
+& sharpf sharpc 
+!	cadge LG_4 embari HGr_8 tg Dl_8	gg Er_32 strla El_8 'e 'e echola E_4
+!	cadge LA_4 edre E_4 cadged Br_32 strlg Bl_8 'b 'b echolg B_4
+!	gg LGr_8 dg Cl_8 darodo B_4 gg LAr_8 eg Dl_8 darodo B_4
+!	cadge Dr_32 strlg Dl_8 'd 'd tra D_4 cadge LG_4 otro B_4 	fine	!I
+
+"Variation I",(I,L,0,0,Goudy Old Style BT,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 6_8
+	'bis	 gg Er_8 dg Br_8 eg LGl_8	 gg Er_8 dg Br_8 eg LGl_8
+!	gg Er_8 gg Dr_8 eg Bl_8	gg Er_8 gg Dr_8 eg Bl_8 bis_'
+!	gg Er_8 gg LGr_8  HGl_8	tg Er_8 gg Dr_8 gg El_8
+!	gg Er_8 gg LAr_8 gg El_8	gg Br_8 dg Br_8 gg El_8	!t
+
+& sharpf sharpc 
+	gg Er_8 dg Dr_8 eg Bl_8	gg Er_8 dg Dr_8 eg Bl_8
+!	gg Er_8 gg LAr_8 gg El_8	gg Br_8 dg Br_8 gg El_8
+!	gg Er_8 gg LGr_8 dg Bl_8	gg Dr_8  HGr_8 tg El_8
+!	gg Er_8 gg LGr_8  HGl_8	tg Er_8 gg Dr_8 gg El_8
+!	gg Er_8 gg LAr_8 gg El_8	gg Br_8 dg Br_8 gg El_8
+!	gg Dr_8 eg Dr_8 gg El_8	gg Er_8 dg LGr_8 eg Bl_8	!t
+
+& sharpf sharpc 
+	gg Er_8 gg LGr_8 HGl_8	tg Er_8 gg Dr_8 gg El_8
+!	gg Er_8 gg LAr_8 gg El_8	gg Br_8 dg Br_8 gg El_8
+!	gg Er_8 dg Br_8 eg LGl_8	gg Er_8 gg Dr_8 eg Bl_8
+!	gg Dr_8 eg Dr_8 gg El_8	gg Er_8 dg LGr_8 eg Bl_8	!I
+
+"Variation II.",(I,L,0,0,Goudy Old Style BT,11,700,0,0,0,0,0,0) 
+
+TuneTempo,50
+
+& sharpf sharpc 
+	'bis	gg LGr_8 dg Cr_8 eg Bl_8	gg LGr_8 dg Cr_8 eg Bl_8
+!	gg LAr_8 gg Dr_8 eg Bl_8	gg LAr_8 gg Dr_8 eg Bl_8 bis_'
+!	gg LAr_8 HGr_8 tg Dl_8	gg Dr_8 gg Er_8 gg Dl_8
+!	gg LAr_8 gg Er_8 gg Bl_8	gg Br_8 dg Cr_8 eg Bl_8	!t
+
+& sharpf sharpc 
+	gg LGr_8 dg Cr_8 eg Bl_8	gg LGr_8 dg Cr_8 eg Bl_8
+!	gg LAr_8 gg Er_8 eg Bl_8		gg Br_8 gg Dr_8 eg Bl_8
+!	gg LGr_8 dg LGr_8 eg Bl_8	gg Dr_8 eg LGr_8 gg Dl_8
+!	gg LGr_8 HGr_8 LGl_8	gg Er_8 gg LGl_8 gg El_8
+!	gg LAr_8 gg Er_8 eg Bl_8		gg Br_8 gg Dr_8 eg Bl_8
+!	gg Dr_8 eg Dr_8 gg Bl_8	gg LGr_8 dg LGr_8 eg Bl_8	!t
+
+& sharpf sharpc 
+	gg LAr_8 HGr_8 tg Dl_8	gg Dr_8 gg Er_8 gg Dl_8
+!	gg LAr_8 gg Er_8 gg Bl_8	gg Br_8 dg Cr_8 eg Bl_8
+!	gg LGr_8 dg Cr_8 eg Bl_8	gg LAr_8 gg Dr_8 eg Bl_8
+TuneTempo,45 
+!	gg Dr_8 eg Dr_8 gg Bl_8	gg LGr_8 dg LGr_8 eg Bl_8	!t
+
+"Taorluath.",(I,L,0,0,Goudy Old Style BT,11,700,0,0,0,0,0,0) 
+TuneTempo,45
+
+
+& sharpf sharpc 9_8
+	'bis	 ^3s gg LGr_32 dg LGr_32 eg LGl_32 ^3e	dg B_4  ^3s gg LGr_32 dg LGr_32 eg LGl_32 ^3e dg B_4	
+!	^3s gg LAr_32 dg LAr_32 eg LAl_32 ^3e dg B_4 ^3s gg LAr_32 dg LAr_32 eg LAl_32 ^3e dg B_4	bis_'
+!	^3s gg LGr_32 dg LGr_32 eg LGl_32 ^3e  HG_4 ^3s tg LAr_32 dg LAr_32 eg LAl_32 ^3e  E_4
+!	^3s gg LAr_32 dg LAr_32 eg LAl_32 ^3e E_4 ^3s gg LGr_32 dg LGr_32 eg LGl_32 ^3e dg B_4	!t
+
+& sharpf sharpc 
+	^3s gg LAr_32 dg LAr_32 eg LAl_32 ^3e dg B_4 ^3s gg LAr_32 dg LAr_32 eg LAl_32 ^3e dg B_4
+!	^3s gg LAr_32 dg LAr_32 eg LAl_32 ^3e E_4 ^3s gg Br_32 dg Br_32 eg Bl_32 ^3e  D_4
+!	^3s gg LGr_32 dg LGr_32 eg LGl_32 ^3e B_4 ^3s gg LGr_32 dg LGr_32 eg LGl_32 ^3e D_4
+!	^3s gg LGr_32 dg LGr_32 eg LGl_32 ^3e HG_4 ^3s tg LAr_32 dg LAr_32 eg LAl_32 ^3e E_4
+!	^3s gg LAr_32 dg LAr_32 eg LAl_32 ^3e E_4  ^3s gg Br_32 dg Br_32 eg Bl_32 ^3e D_4
+!	 ^3s gg Br_32 dg Br_32 eg Bl_32 ^3e D_4 ^3s gg LGr_32 dg LGr_32 eg LGl_32 ^3e B_4	!t
+
+& sharpf sharpc 
+	^3s gg LGr_32 dg LGr_32 eg LGl_32 ^3e HG_4 ^3s gg LAr_32 dg LAr_32 eg LAl_32 ^3e D_4
+!	^3s gg LAr_32 dg LAr_32 eg LAl_32 ^3e E_4 ^3s gg LGr_32 dg LGr_32 eg LGl_32 ^3e B_4
+!	^3s gg LGr_32 dg LGr_32 eg LGl_32 ^3e dg B_4 ^3s gg LAr_32 dg LAr_32 eg LAl_32 ^3e dg B_4
+TuneTempo,40
+!	^3s gg LGr_32 dg LGr_32 eg LGl_32 ^3e D_4 ^3s gg LAr_32 dg LAr_32 eg LAl_32 ^3e dg B_4	!I
+
+TuneTempo,28
+"Crunluath",(I,L,0,0,Goudy Old Style BT,11,700,0,0,0,0,0,0) 
+& sharpf sharpc C_
+	'bis	gg LGr_8 'lg dg Br_32 edre El_16	gg LGr_8 'lg dg Br_32 edre El_16
+!	gg LAr_8 'la Dr_32 edre El_16	gg LAr_8 'la Dr_32 edre El_16	bis_'
+!	gg LGr_8 'lg dg Br_32 edre El_16	HG_4 pc
+!	E_4 pc E_4 pc	!t
+
+& sharpf sharpc 
+	 gg LAr_8 'lg Dr_32 edre El_16	gg LAr_8 'lg Dr_32 edre El_16
+!	E_4 pc gg LGr_8 'lg dg Br_32 edre El_16
+!	 gg LGr_8 'lg Dr_32 edre El_16 HG_4 pc
+!	HG_4 pc E_4 pc
+!	E_4 pc gg LGr_8 'lg dg Br_32 edre El_16
+!	 gg LGr_8 'lg Dr_32 edre El_16	 gg LGr_8 'lg dg Br_32 edre El_16	!t
+
+& sharpf sharpc 
+	HG_4 pc gg LGr_8 'lg Dr_32 edre El_16
+!	E_4 pc gg  LAr_8 'lg dg Cr_32 edre El_16
+!	gg LGr_8 'lg dg Br_32 edre El_16 	gg LAr_8 'la Dr_32 edre El_16
+TuneTempo,23
+!	gg LGr_8 'lg Dr_32 edre El_16	gg LGr_8 'lg dg Br_32 edre El_16	dacapoalfine	!I

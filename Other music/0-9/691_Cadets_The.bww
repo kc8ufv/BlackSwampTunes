@@ -1,0 +1,79 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,500,40,70)
+
+GracenoteDurations,(15,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,88,80,225)
+
+TuneFormat,(1,0,F,L,500,500,500,500,P,0,0)
+
+TuneTempo,100
+
+"The 691 Cadets",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"by Cory Rennebohm",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"arr. by Cory Rennebohm",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 6_8
+E_8 I!'' LA_4 tar LA_8 	dbc Cr_8 'c Bl_16 LAl_8 
+! gg Cr_16 El_8 'e HAl_8 	dbe E_4 C_8 
+! Dr_8 'd Fl_16 Dl_8 	gg Cr_16 El_8 'e Cl_8 
+! gg B_4 tar B_8 	gg Br_16 dg Cl_8 'c Bl_8	!t	
+& sharpf sharpc
+LA_4 tar LA_8 	dbc Cr_8 'c Bl_16 LAl_8 
+! gg Cr_16 El_8 'e HAl_8 	dbe E_4 C_8 
+! Dr_8 'd Fl_16 Dl_8 	gg Cr_16 El_8 'e Cl_8
+! gg Br_16 dg Cl_8 'c Bl_8	strlg '1 LA_4 E_8 _' '2 LAr_8 'la Cl_16 Dl_8  _'	''!I			
+
+
+& sharpf sharpc
+I!'' E_4 grp E_8	 dbe Er_8 'e Cl_16 LAl_8	
+! gg Cr_16 El_8 'e HAl_8	 dbe Er_8 'e Cl_16 strlg Cl_8	
+! Dr_8 'd Fl_16 Dl_8 	gg Cr_16 El_8 'e Cl_8
+! gg B_4 tar B_8 	gg Br_16 dg Cl_8 'c '1 Dl_8	!t
+	
+
+& sharpf sharpc
+ E_4 grp E_8	 dbe Er_8 'e Cl_16 LAl_8	
+! gg Cr_16 El_8 'e HAl_8	 dbe Er_8 'e Cl_16 strlg Cl_8	
+! Dr_8 'd Fl_16 Dl_8 	gg Cr_16 El_8 'e Cl_8
+!  gg Br_16 dg Cl_8 'c Bl_8	strlg  LAr_8 'la Cl_16 Dl_8 _'  	''!I
+
+& sharpf sharpc
+'2 ! B_8 ! LA_4 tar LA_8 	dbc Cr_8 'c Bl_16 LAl_8 
+! gg Cr_16 El_8 'e HAl_8 	dbe E_4 C_8 
+! Dr_8 'd Fl_16 Dl_8 	gg Cr_16 El_8 'e Cl_8
+!  gg Br_16 dg Cl_8 'c Bl_8	strlg  LAr_8 'la Cl_16 Dl_8  _' 	!I
+
+& sharpf sharpc
+I!'' E_4 tar LA_8	dbc Cr_8 'c Bl_16 strlg LAl_8	
+! gg Cr_16 El_8 'e HAl_8	dbe Er_8 'e Cl_16 dg LAl_8	
+! E_4 tar LA_8	dbc Cr_8 'c Bl_16 strlg LAl_8	
+! gg B_4 tar B_8 	gg Br_16 dg Cl_8 'c Dl_8	!t
+
+& sharpf sharpc
+E_4 tar LA_8	dbc Cr_8 'c Bl_16 strlg LAl_8	
+! gg Cr_16 El_8 'e HAl_8	dbe Er_8 'e Cl_16 dg LAl_8
+! Dr_8 'd Fl_16 Dl_8 	gg Cr_16 El_8 'e Cl_8
+!  gg Br_16 dg Cl_8 'c Bl_8	strlg  LAr_8 'la Cl_16 '1 Dl_8 _' '2 El_8 _'   	''!I
+
+& sharpf sharpc
+I!'' HA_4 grp HA_8	 dbe Er_8 'e Cl_16 LAl_8	
+! gg Cr_16 El_8 'e HAl_8	dbe Er_8 'e Cl_16 dg LAl_8
+! HA_4 tar LA_8	dbc Cr_8 'c Bl_16 strlg LAl_8
+! gg B_4 tar B_8 	gg Br_16 dg Cl_8 'c  El_8	!t
+
+& sharpf sharpc
+HA_4 grp HA_8	 dbe Er_8 'e Cl_16 LAl_8	
+! gg Cr_16 El_8 'e HAl_8	dbe E_4  C_8	
+! Dr_8 'd Fl_16 Dl_8 	'1 gg Cr_16 El_8 'e Cl_8 _' 	'2 gg Cr_8 'c HAl_16 strhg   HAl_8 _'
+!  gg Br_16 dg Cl_8 'c Bl_8	strlg '1 LAr_8 'la Cl_16 El_8 _'  '2 LA_4 'la _'   	''!I	
+
