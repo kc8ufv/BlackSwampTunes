@@ -1,0 +1,28 @@
+Bagpipe Music Writer Gold:1.0
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,75,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,90
+"",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"NEW YORK NEW YORK arr: Bill Brockie Northwest Indiana Pipes & sharpf sharpc Drums",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0) 
+& sharpf sharpc sharpf sharpc 4_4 I!'' ^ts D_8 'd cg D_8 ^te 'd C_8 D_16 B_8 'b ^ts D_8 'd cg D_8 ^te 'd C_8 D_16 B_8 'b ^ts D_8 'd cg D_8 ^te 'd C_8 D_16 B_8 'b '1 ! LA_2 '2 ! LA_4 ''!I & sharpf sharpc sharpf sharpc 4_4 I!'' gg D_4 'd Cr_8 Dl_16 Bl_8 'b LA_2 ! gg D_4 Cr_8 'b Dl_16 Bl_8 'b LA_2 ! gg LGr_8 'lg dg LGr_8 'lg eg LGr_8 'lg gg LAr_8 'la dg LGr_16 'lg gg LAr_8 'la dg LGl_16 'lg gg LA_4 ! '1 HA_4 HGr_16 'hg Fl_8 'f E_4 'e ! '2 D_4 Br_16 'b Dl_8 'd E_4 'e ''!I & sharpf sharpc sharpf sharpc 4_4 I! HGr_8 Fr_8 Er_8 HAr_8 'ha Fl_8 Er_16 Dl_8 HG_4 Er_8 Dr_16 Cl_8 'c F_4 'f gg Cr_8 dg Cr_8 eg Cr_8 Dr_16  Cr_16 Bl_16 D_4 'd Cr_8 'c Br_8 LAl_8 C_4 'c !I & sharpf sharpc sharpf sharpc 4_4 I! gg D_4 Br_8 'b Dl_16 Bl_8 'b LA_2 ! D_4 E_8 'e Dr_16 Bl_8 'b LA_4 'la ! gg LGr_8 'lg dg LGr_8 'lg eg LGr_8 'lg gg LAr_8 'lg dg LGr_16 'lg gg LAr_8 'la dg LGl_16 'lg ! gg LA_4 D_4 Br_16 'b Dl_8 'd E_4 'e !t
+& sharpf sharpc sharpf sharpc 4_4 HGr_8 'hg Fl_16 El_8 HA_4 Fr_8 Er_16 Dr_8 'd HGl_8 ! Er_8 Dr_16 Cl_8 'c F_4 gg Cr_8 dg Cr_8 eg Cl_8 ^ts Dr_16 Cr_16 Bl_16 ^te D_4 gg ^ts Dr_16 Cr_16 Bl_16 ^te D_4 gg ^ts Er_8 Dr_8 Cl_8 ^te E_4 ^ts Cr_8 Br_8 LAl_8 ^te C_4 'c !t & sharpf sharpc sharpf sharpc 4_4 gg D_4 Br_8 Dl_8 B_4 gg ^ts LA_4 ! LA_2 'la ^te D_4 ! E_8 D_8 B_4 LA_2 'la gg LG_8 'lg dg LG_8 'lg eg LG_8 'lg gg LA_8 'la dg LG_16 'lg gg LA_8 'la dg LG_16 'lg gg LA_4 D_4 Br_8 Dl_8 'd E_2 'e !t & sharpf sharpc sharpf sharpc 4_4 HG_4 F_4 E_4 HA_8 F_4 E_4 D_8 C_16 B_8 'b HA_4 E_8 D_4 C_8 D_16 E_8 F_4 E_4 F_4 HA_8 gg HA_4 'ha !I
+"Type",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Bill Brockie / "Composer/Arranger",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+"Bill Brockie",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Footer",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+

@@ -1,0 +1,43 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,88,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,80
+
+"Out of Boredom",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"HORNPIPE",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"S.GIFFIN",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"12/04/04",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+& sharpf sharpc 2_4 I!'' '1  Er_16 'e Dl_32 _' !
+dbc Cr_16 'c Fl_32 Dr_32 Bl_16 'b									gbr LA_4 !
+dbf Fr_16 'f El_32 Dr_16 'd Fl_32									pele E_4 !
+^3s gg Fr_16 HGr_16 HAr_16 ^3e Dr_16 'd Fl_32						dbe Er_16 'e Cr_32 LAl_8 !
+thrd Dr_16 'd Er_32 ^3s gg Br_16 Cr_16 Dl_16 ^3e 					dbc C_4 !t
+
+& sharpf sharpc
+dbd Dr_16 'd Fl_32 Dr_32 Bl_16 'b								gbr LA_4 !
+dbf Fr_16 'f El_32 Dr_16 'd Fl_32									pele E_4 !
+^3s gg Fr_16 HGr_16 HAr_16 ^3e Dr_16 'd Fl_32						dbe Er_16 'e Cr_32 LAl_8 !
+^3s gg Br_16 Cr_16 Dr_16 ^3e dbc Cl_8								grpb LA_4 ''!I
+
+
+
+
+
+
+
+
+
