@@ -1,0 +1,73 @@
+Bagpipe Reader:1.0
+MIDINoteMappings,(55,57,59,60,62,64,65,67,69,57,59,61,62,64,66,67,69,71,56,58,60,61,63,65,66,68,70)
+FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,784,880,988,415,466,523,554,622,699,740,831,932)
+InstrumentMappings,(71,71,46,34,1000,30,50)
+GracenoteDurations,(18,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(90,100,100,80,0)
+
+TuneFormat,(1,0,F,L,500,500,500,650,P,0,0)
+TuneTempo,151
+
+"Behold What Is Good",(T,L,0,0,Times New Roman,16,700,0,0,10,0,0,0)
+"Jig",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"DN Siegel",(M,R,0,0,Times New Roman,14,400,0,0,49,0,0,0)
+
+"BEHOLD WHAT IS GOOD (c) 2004 David N. Siegel.  POB 9647, Karmiel 21901, The Galilee, Israel.",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+
+"Inspired by trad. Hebrew melody HINE MA TOV",(I,L,0,0,Times New Roman,11,700,0,0,0,0,0,0) 
+
+& sharpf sharpc 6_8 space   I!'' F_8   !
+gg Br_8  dg  Bl_8 eg Bl_8 	gg Br_8 dg LAr_8 dg Bl_8  !
+gg E_4   C_8   	thrd D_4 LA_8  !
+gg Cr_8  dg Br_8  dg Cl_8 	thrd D_4 C_8 !
+gg B_4 grp B_8  	gg  B_4 F_8 !t
+
+& sharpf sharpc 
+gg Br_8  dg  Bl_8 eg Bl_8 	gg Br_8 dg LAr_8 dg Bl_8  !
+gg E_4   C_8   	thrd D_4 LA_8  !
+gg Cr_8 dg Br_8 dg Cl_8 	 Dr_8 eg Bl_8  dg Cl_8 !
+gg Br_8  dg LAl_8  dg  Cl_8	  gg   B_4    ''!I
+
+" part 2 "
+& sharpf sharpc  I!''  LA_8 !
+gg Br_8  dg  Bl_8  eg Bl_8   	gg Er_8  Fl_8 eg Fl_8  !
+dbha HA_4  HG_8 tg F_4  C_8  !
+gg Er_8 Dr_8 El_8 	gg Fr_8  HAl_8 gg HAl_8 !
+hdbf F_4  HA_8 hdbf Fr_8  El_8 Cl_8  !t
+	
+& sharpf sharpc 
+gg Br_8  dg  Bl_8  eg Bl_8   	gg Er_8  Fl_8 eg Fl_8  !
+dbha HA_4  HG_8 tg F_4  E_8  !
+gg Dr_8 Br_8 Cl_8 thrd D_4  C_8  !
+gg Br_8  dg LAl_8  dg  Cl_8	  gg   B_4    ''!I
+
+
+" part 3 "
+& sharpf sharpc   I!'' F_8   !
+gg Br_8  dg  Bl_8 eg Bl_8 	gg Br_8 dg Cr_8 El_8  !
+gg Fr_8   HAl_8 gg  HAl_8  	 gg HAr_8 Fl_8 Dl_8  !
+lgstd  Dr_8  HAr_8  LAl_8 		gg Fr_8   Er_8  Cl_8 !
+gg B_4 grp B_8  	gg  B_4 F_8 !t
+
+& sharpf sharpc 
+gg Br_8  dg  Bl_8 eg Bl_8 	gg Br_8 dg Cr_8 El_8  !
+gg Fr_8   HAl_8 gg  HAl_8  	 gg HAr_8 Fl_8 Dl_8  !
+lgstd Dr_8 HAr_8 LAl_8 	gg Fr_8 El_8 Cl_8 !
+gg Br_8  dg  LAl_8  dg  Cl_8	  gg   B_4  ''!I
+
+" 4 "
+
+& sharpf sharpc   I!'' LA_8   !
+gg LGr_8   dg Bl_8 strlg Bl_8 	gg Br_8 Cr_8  Dl_8  !
+gg Cr_8 Br_8 strlg  Bl_8 	gg LA_4 dg B_8  !
+gg LAr_8  Br_8  Cl_8 	Dr_8  eg LAl_8 dg Cl_8 !
+gg B_4  grp  B_8  	gg B_4 LA_8 !t
+
+
+& sharpf sharpc 
+gg LGr_8   dg Bl_8 strlg Bl_8 	gg Br_8 Cr_8  Dl_8  !
+gg Cr_8 Br_8 strlg  Bl_8 	gg LA_4 B_8  !
+gg Cr_8 dg LAr_8 dg Cl_8 thrd  D_4  C_8 !
+gg Br_8  dg LAl_8  dg  Cl_8	  gg   B_4  ''!I
+

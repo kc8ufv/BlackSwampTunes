@@ -1,0 +1,32 @@
+Bagpipe Music Writer Gold:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(100,100,60,10,300)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+TuneTempo,105
+
+"The Bartibog(Bridge Pool)",(T,L,0,0,Dauphin,20,700,0,0,18,0,0,0)
+
+"Reel",(Y,C,0,0,Dauphin,14,400,0,0,18,0,0,0)
+
+"Composer: Rob Galliah",(M,R,0,0,Dauphin,12,400,0,0,18,0,0,0)
+
+"Dedicated to Clarence(Clarry).",(F,C,0,0,Dauphin,12,400,0,0,18,0,0,0)
+
+& 2_2  I!''  E_8 ! gg LAr_8 'la   Cr_16  strlg Cl_16   LAl_8 'la   	gg Br_8 'b  dg  LAl_16 gg Bl_8 'b  Cl_16 !	gg LAr_8 'la  Cl_16 strlg Cl_8 'c  LAl_16  	gg Er_16 LAl_8 'la  gg Br_16 dg LGl_8 'lg  ! 	gg LAr_8 'la  Cl_16 strlg Cl_8 'c  LAl_16 	gg Br_16 dg  LAl_8 'la  gg Br_16 Dl_8 'd  !	gg LAr_8 Bl_8 LAl_8 dg LGl_8 	LAr_8 Bl_8 	gbr LA_4 !t
+&   gg LAr_8 'la   Cr_16  strlg Cl_16   LAl_8 'la   	gg Br_8 'b  dg  LAl_16 gg Bl_8 'b  Cl_16 !	gg LAr_8 'la  Cl_16 strlg Cl_8 'c  LAl_16  	gg Er_16 LAl_8 'la  gg Br_16 dg LGl_8 'lg  !		gg LAr_8 'la  Cl_16 El_8 'e  LAl_16 	gg Br_8 'c  Dl_16 HGl_8 'ha Bl_16 !  gg LAr_8 Bl_8 LAl_8 dg LGl_8 	LAr_8 Bl_8 	gbr LA_8  	 ''!I 
+& I!''   LA_8 ! gg LAr_8 El_8 strla El_8 LAl_8 	gg Fr_8 LAl_8 gg El_8 LAl_8 ! 	gg LGr_8 dg LGl_8 gg Bl_8 dg LGl_8 	gg Dr_8 dg LGl_8 gg Bl_8 dg LGl_8 ! 	gg LAr_8 El_8 strla El_8 LAl_8	gg Fr_8 El_8 Fl_8 HAl_8 ! 	gg LAr_8 Bl_8 LAl_8 dg LGl_8 	LAr_8 Bl_8 	gbr LA_4 !t
+&  	gg LAr_8 El_8 strla El_8 LAl_8 	gg Fr_8 LAl_8 gg El_8 LAl_8 !		gg LGr_8 dg LGl_8 gg Bl_8 dg LGl_8 	gg Dr_8 dg LGl_8 gg Bl_8 dg LGl_8 ! gg LAr_8 Bl_8 Cl_8 LAl_8 	gg Br_8 Cl_8 Dl_8 gg El_8 ! 	 gg LAr_8 Bl_8 LAl_8 dg LGl_8 	LAr_8 Bl_8 	gbr LA_8 	 ''!I
+& I!'' E_8 ! HAr_8 El_8 strla El_8 HAl_8	 	Fr_8 HAl_8 El_8 HAl_8 ! 	HGr_8 strf HGl_8 Bl_8 HGl_8 		Dr_8 HGl_8 Bl_8 HGl_8 ! 	HAr_8 El_8 strla El_8 HAl_8	 	Fr_8 HAl_8 El_8 HAl_8 !	gg LAr_8 Bl_8 LAl_8 dg LGl_8 	LAr_8 Bl_8 	gbr  LA_4 !t
+&  	 HAr_8 El_8 strla El_8 HAl_8	 	Fr_8 HAl_8 El_8 HAl_8 !	HGr_8 strf HGl_8 Bl_8 HGl_8 		Dr_8 HGl_8 Bl_8 HGl_8 !	 gg LAr_8 HAl_8   gg Bl_8 HAl_8   	gg Cr_8 Dl_8  El_8 HAl_8  !  gg LAr_8 Bl_8 LAl_8 dg LGl_8 	LAr_8 Bl_8 	gbr  LA_8 	 ''!I 
+& I!''  E_8 ! gbr  LA_4 	Er_8 dg LAl_8 		gg Cr_8 El_8 gg LAl_8 Cl_8 ! 	gg Er_8 LAl_8 Cl_8 El_8 		gg Fr_8 Bl_8 dg  LGl_8 Bl_8   ! 	gbr LA_4 	Er_8 dg LAl_8 		gg Cr_8 El_8 gg LAl_8 Cl_8 ! 	gg LAr_8 Bl_8 LAl_8 dg LGl_8 	LAr_8 Bl_8 	gbr  LA_4 !t
+&  	gbr  LA_4 	Er_8 dg LAl_8 		gg Cr_8 El_8 gg LAl_8 Cl_8 !	gg Er_8 LAl_8 Cl_8 El_8 		gg Fr_8 Bl_8 dg  LGl_8 Bl_8   !	gg LAr_8 HAl_8   gg Bl_8 HAl_8   	gg Cr_8 Dl_8  El_8 HAl_8  !	gg LAr_8 Bl_8 LAl_8 dg LGl_8 	LAr_8 Bl_8 	gbr   LA_8 	 ''!I

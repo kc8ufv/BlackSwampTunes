@@ -1,0 +1,37 @@
+Bagpipe Reader:1.0
+MIDINoteMappings,(68,70,72,74,75,77,79,80,82,68,70,72,74,75,77,79,80,82,68,70,72,74,75,77,79,80,82)
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+InstrumentMappings,(71,71,45,33,1000,60,70)
+GracenoteDurations,(50,40,30,50,100,200,800,1200,250,250,250,500,200)
+FontSizes,(100,100,88,100,250)
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+TuneTempo,100
+
+"Bajazzo",(T,C,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+"German Traditional ",(Y,L,0,0,Times New Roman,12,700,255,0,18,0,0,0)
+"arr. P. Sacchi",(M,R,0,0,Times New Roman,12,700,255,0,18,0,0,0)
+
+& sharpf sharpc 3_4 I!  
+	gg LA_4
+!	thrd  D_4 'd 	space 		C_8  		space 		gg  Dr_8 'd   El_16
+!	dbf F_4		space		gg E_4		space		D_4					space
+!	dbc C_4 'c	space		gg B_8		space		gg Cr_8 Dl_8			space
+!	strlg E_2		space 		LA_4		space	!t
+
+& sharpf sharpc	space
+!	gg E_4 'e 	space		D_8  		space		gg   Er_8 'e   Fl_16
+!	dbhg HG_4	space		gg F_4		space		E_4					space
+!	thrd D_4 'd	space		gg C_8		space		Dr_8 El_8			space
+!	strlg F_2		space 		D_4	space	!I
+
+& sharpf sharpc  I!''
+	dbhg HG_4		space		fg HG_4 'hg		tg  HG_8 		space
+!	fg HG_4			space		HA_4 'ha			HG_8		space
+!	tg F_4 'f			space		HG_8			tg Fr_8 'f El_16
+!	thrd D_2			space		B_4				space	!t
+
+& sharpf sharpc
+! 	gg E_4 'e			D_8  		gg Er_8 Fl_8 	
+!	dbhg HG_4		tg			F_4 'f				E_8
+!	'1 thrd ^ts D_2 'd	!			 D_2 ^te	 			thrd D_4		_'	 !		'2 thrd ^ts D_2 'd	!	space				
+	 D_2 'd	 ^te	_'						''!I

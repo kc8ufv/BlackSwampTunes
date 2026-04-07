@@ -1,0 +1,69 @@
+Bagpipe Reader:1.0
+
+MIDINoteMappings,(54,56,58,59,61,63,64,66,68,56,58,60,61,63,65,66,68,70,55,57,59,60,62,64,65,67,69)
+
+FrequencyMappings,(370,415,466,494,554,622,659,740,831,415,466,523,554,622,699,740,831,932,392,440,494,523,587,659,699,784,880)
+
+InstrumentMappings,(71,71,45,33,1000,60,70)
+
+GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+
+FontSizes,(90,100,100,80,250)
+
+TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
+
+"Battle Hymn of the Republic",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
+
+"March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+"Traditional",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+TuneTempo,92
+
+& sharpf  sharpc 6_8  space space E_8 space  space       
+!   space space C_4 space space         gg C_8 space space  dg C_4 space space
+B_8 space space  
+!  space  space LA_4  space space  C_8 space space      F_4 space space HG_8 
+space space
+!  space space HA_4 space space gg HA_8 space space  dbha HA_4 space
+space   HG_8 space space        
+!  space space F_4      'f space space hdbf F_4 space space     E_8 space space
+!t
+
+
+& sharpf sharpc D_4     lgstd D_8       gg D_4  E_8     
+! F_4   E_8     hdbf F_4        D_8     
+! C_4   thrd D_8        C_4     B_8     
+! C_4   'c grp C_4      strlg C_8       !t
+
+
+& sharpf sharpc grp C_4         strlg C_8       grp C_4         B_8     
+! LA_4  C_8     hdbf F_4        HG_8    
+!  dbha HA_4    gg HA_8         dbha  HA_4      HG_8    
+! F_4   'f hdbf F_4     'f !t
+
+
+& sharpf sharpc HG_4    'hg dbha  HG_4  'hg 
+! F_4   'f E_4  'e 
+! hdbf F_2      'f 
+! C_4   'c grp C_4      B_8     
+! LA_4  C_8     F_4     HG_8    !t
+
+
+& sharpf sharpc  dbha HA_2      'ha 
+! F_4   'f hdbf F_4     'f 
+! thrd D_4      'd lgstd D_4    E_8     
+! F_4   E_8     F_4     D_8     
+!  dbc C_2      'c !t
+
+
+& sharpf sharpc LA_4    'la strlg LA_4  'la 
+! C_4   'c grp C_4      B_8     
+! LA_4  C_8     F_4     HG_8    
+! dbha  HA_4    gg HA_8         gg HA_4         HG_8    !t
+
+
+& sharpf sharpc tg F_4  'f hdbf F_4     'f 
+! gg HG_4       'hg   dbha  HG_4        'hg 
+! tg F_4        'f gg E_4       'e 
+!  hdbf F_2     'f !t
