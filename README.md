@@ -4,7 +4,7 @@ Official music repository for Black Swamp Pipes & Drums, Toledo, OH
 
 Player for Windows can be downloaded from http://bagpipe.eotrs.dk/
 
-To use this repository, download and install Github on your PC from https://desktop.github.com/download/
+To use this repository, download and install Github on your PC from https://git-scm.com/install/windows
 or bring your windows laptop to practice for help. While installing, make sure to choose the option to download and upload files as-is.
 
 After installing, press Win+R on your keyboard, type cmd and press enter.
