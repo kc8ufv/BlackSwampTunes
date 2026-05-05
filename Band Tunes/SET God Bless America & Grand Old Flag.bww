@@ -27,7 +27,9 @@ TuneFormat,(1,0,M,L,1000,500,1000,500,P,0,0)
 TuneTempo,82
 
 
-&	sharpf sharpc 4_4	thrd D_2 			dbc C_4  	eg B_4
+&	sharpf sharpc 4_4
+! E_4
+! thrd D_2 			dbc C_4  	eg B_4
 !	dbc Cr_8 'c Bl_16	 strlg LA_2 'la
 !	gg  E_2 thrd D_4	 E_4
 !	gg F_2 'f	gg Er_8 'e Fl_16	!t
@@ -55,7 +57,7 @@ TuneTempo,82
 &  	sharpf sharpc HG_2	hdbf F_4  E_4
 !	dbf Fr_8 'f El_16 thrd D_2	dbhg HG_4
 !	hdbf F_2			gg E_2
-!	thrd D_1 			!I
+!	thrd D_2 'd 			!I
 
 Bagpipe Music Writer Gold:1.0
 Bagpipe Reader:1.0
