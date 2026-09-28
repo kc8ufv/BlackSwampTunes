@@ -8,7 +8,7 @@ TuneFormat,(1,0,F,L,500,500,500,500,P,0,0)
 TuneTempo,60
 
 
-"Lord Lovat’s Lament",(T,C,0,0,Times New Roman,18,700,0,0,18,0,0,0)
+"Lord Lovatâ€™s Lament",(T,C,0,0,Times New Roman,18,700,0,0,18,0,0,0)
 "Slow March",(Y,L,0,0,Times New Roman,12,700,255,0,18,0,0,0)
 "Traditional",(M,R,0,0,Times New Roman,12,700,255,0,18,0,0,0)
 "",(F,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
@@ -88,7 +88,7 @@ I!		gg LAr_8 dg Cl_8
 !	dbc Cr_8 'c El_16	dbc Cr_8 eg Bl_8	dbc C_4	eg LAr_8 dg Cl_8
 !	gg Er_8 'e Fl_16	dbe Er_8 Cl_8	dbha HA_4	LAr_8 'la Bl_16
 !	grp C_4			dbha HA_4		Er_16 gg Cl_8 'c 	gg Br_8 'b  dg Cl_16
-!	strlg  LA_2		brl LA_2 		!I
+!	strlg  LA_2		brl LA_4		!I
 
 
 
