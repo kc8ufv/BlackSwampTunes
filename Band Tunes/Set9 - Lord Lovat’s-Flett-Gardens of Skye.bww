@@ -32,7 +32,7 @@ TuneTempo,60
 !	dbha HA_4			hdbe  Er_8 HAl_8		hdbf Fr_8 El_8 		dbc Cr_8 eg LAl_8 
 !	gg Cr_16 El_8 'e		strla Er_8 'e Fl_16		dbe E_4			gg Fr_8 'f HGl_16		
 !	dbha HA_4			hdbe Er_8 HAl_8		hdbf Fr_8 El_8 		dbc Cr_8 eg LAl_8 
-!	dbc Cr_8 eg Bl_8		grp Br_8 'b Cl_16		dbb B_4			gg LAr_8 'la Bl_16		!t
+!	dbc Cr_8 eg Bl_8 'b		grp Br_8 'b Cl_16		dbb B_4			gg LAr_8 'la Bl_16		!t
 
 & sharpf sharpc space
 	grp C_4				grp Cr_8 El_8			thrd Dr_8 Cl_8		dbb Br_8 strlg LAl_8
