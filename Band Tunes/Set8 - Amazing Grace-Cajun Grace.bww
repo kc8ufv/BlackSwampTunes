@@ -22,7 +22,11 @@ TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
 
 "",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
 
-TuneTempo,72
+" Issue 2.0 Jan 24  PM MH",(F,R,0,0,Times,12,600,0,0,34,0,0,0)
+
+"Black Swamp Pipes and Drums",(F,L,0,0,Times,12,600,0,0,34,0,0,0)
+
+TuneTempo,70
 
 
 & sharpf sharpc 3_4  	

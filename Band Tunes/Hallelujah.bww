@@ -20,7 +20,9 @@ TuneTempo,55
 
 "Leonard Cohen/Lincoln Hilton",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
 
-"Black Swamp Pipes & Drums 2020",(F,R,0,0,Times New Roman,10,400,0,0,18,0,0,0)
+" Issue 2.0 Jan 24  PM MH",(F,R,0,0,Times,12,600,0,0,34,0,0,0)
+
+"Black Swamp Pipes and Drums",(F,L,0,0,Times,12,600,0,0,34,0,0,0)
 
 & sharpf sharpc 6_8 gg C_4 E_8 gg F_4 'f 
 	I!'' eg ^ts F_4 'f F_4 'f ^te  

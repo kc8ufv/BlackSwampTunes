@@ -6,13 +6,13 @@ FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,7
 
 InstrumentMappings,(71,71,46,34,1000,60,70)
 
-GracenoteDurations,(30,40,30,50,100,200,800,1200,250,250,250,500,200)
+GracenoteDurations,(45,40,30,50,100,200,800,1200,250,250,250,500,200)
 
 FontSizes,(90,100,120,80,250)
 
 TuneFormat,(1,0,M,C,500,500,500,500,P,0,0)
 
-TuneTempo,120
+TuneTempo,86
 
 "Grand Old Flag",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
 
@@ -22,7 +22,7 @@ TuneTempo,120
 "after Geo M Cohan",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
 
 
-"Black Swamp Pipes & Drums Military Set rev8.19.19",(F,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
+"Black Swamp Pipes & Drums Military Set rev 8.19.19 MH",(F,R,0,0,Times New Roman,12,400,0,0,18,0,0,0)
 "",(F,L,0,0,Times New Roman,12,400,0,0,18,0,0,0)
 
 & sharpf sharpc C I! space	HAr_8 'ha Fl_16	space

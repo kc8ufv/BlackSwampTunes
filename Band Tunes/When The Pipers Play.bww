@@ -6,13 +6,13 @@ FrequencyMappings,(392,440,494,523,587,659,699,784,880,440,494,554,587,659,740,7
 
 InstrumentMappings,(71,71,46,34,1000,60,70)
 
-GracenoteDurations,(20,40,30,50,100,200,800,1200,250,250,250,500,200)
+GracenoteDurations,(45,40,30,50,100,200,800,1200,250,250,250,500,200)
 
 FontSizes,(90,100,98,80,0)
 
 TuneFormat,(1,0,F,C,500,500,500,500,P,0,0)
 
-TuneTempo,90
+TuneTempo,76
 
 "When The Pipers Play",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
 
