@@ -9,6 +9,10 @@ TuneFormat,(1,0,M,L,500,500,500,500,P,0,0)
 "Cullen Bay",(T,L,0,0,Times New Roman,16,700,0,0,18,0,0,0)
 "March",(Y,C,0,0,Times New Roman,14,400,0,0,18,0,0,0)
 "WPP&D 10-8-13",(M,R,0,0,Times New Roman,14,400,0,0,18,0,0,0)
+
+" Issue 2.0 NOV 26 PM MH",(F,R,0,0,Times,12,600,0,0,34,0,0,0)
+
+"Black Swamp Pipes and Drums",(F,L,0,0,Times,12,600,0,0,34,0,0,0)
 TuneTempo,80
 
 & sharpf sharpc 5_4
